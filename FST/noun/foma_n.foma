@@ -8,4 +8,4 @@ define phon
 
 regex morph .o. phon;
 
-save stack sah.bin
+save stack sah_noun.bin

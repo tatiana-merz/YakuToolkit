@@ -76,28 +76,27 @@ LEXICON numtype
 LEXICON PRON
 бары pronbari;
 биһиги pronbihigi;
-ити pronfirst;
-ким pronfirst;
+ити prondem;
 ким pronint;
+ким pronintij;
 кини pronkini;
-манна pronfirst;
 мин pronmin;
 ол pronol;
-сорох pronfirst;
 сорох pronsoroh;
-тугу pronfirst;
+тугу pronint;
 туох prontuox;
-хайдах pronfirst;
+хайдах pronintij;
 хайдах  pronint;
-ханна pronfirst;
-ханнык pronfirst;
-хас pronfirst;
+ханна pronint;
+ханнык pronint;
+хас pronint;
 эн pronen;
 эһиги pronehigi;
-тоҕо pronfirst;
+тоҕо pronint;
 
 LEXICON pronsoroh
 %<PRON%>%<PronType=Ind%>%<Number=Plur%>:тор	#;
+%<PRON%>%<PronType=Ind%>:0	#;
 
 LEXICON pronbari
 %<PRON%>%<Case=Nom%>%<Number=Sing%>%<Person=3%>%<PronType=Tot%>:0	#;
@@ -136,14 +135,23 @@ LEXICON pronen
 %<PRON%>%<Case=Dat%>%<Number=Sing%>%<Person=2%>%<PronType=Prs%>:йиэхэ	#;
 %<PRON%>%<Case=Nom%>%<Number=Sing%>%<Person=2%>%<PronType=Prs%>:0	#;
 
-LEXICON pronfirst
-%<PRON%>%<PronType=Dem%>:0	#;
-%<PRON%>%<PronType=Prs%>:0	#;
-%<PRON%>%<PronType=Tot%>:0	#;
-%<PRON%>%<PronType=Ind%>:0	#;
+LEXICON pronint
 %<PRON%>%<PronType=Int%>:0	#;
 
-LEXICON pronint
+LEXICON prondem
+%<PRON%>%<PronType=Dem%>:0	#;
+
+LEXICON pronprs
+%<PRON%>%<PronType=Prs%>:0	#;
+
+LEXICON prontot
+%<PRON%>%<PronType=Tot%>:0	#;
+
+LEXICON pronind
+%<PRON%>%<PronType=Ind%>:0	#;
+
+
+LEXICON pronintij
 %<PRON%>%<Int=Yes%>%<PronType=Int%>:%{II%}й	#;
 
 
@@ -158,7 +166,9 @@ LEXICON NOUN
 атас nounfirst;
 атах nounfirst;
 аҕа nounfirst;
+мин nounfirst;
 аҕал nounfirst;
+аҕал noun_nomzr;
 аҕас nounfirst;
 балык nounfirst;
 балыс nounfirst;
@@ -184,7 +194,6 @@ LEXICON NOUN
 бэс nounfirst;
 бөрө nounfirst;
 дойду nounfirst;
-дойдуларга nounfirst;
 долбуур nounfirst;
 доҕор nounfirst;
 дуоска nounfirst;
@@ -230,7 +239,6 @@ LEXICON NOUN
 массыына nounfirst;
 мастерской nounfirst;
 матараас nounfirst;
-мин nounfirst;
 мохсоҕол nounfirst;
 моҕой nounfirst;
 муннук nounfirst;
@@ -368,10 +376,9 @@ LEXICON NOUN
 
 LEXICON nounfirst
 %<NOUN%>:^     noun_number;
-%<NOUN%>:0     noun_nomzr;
 
 LEXICON noun_nomzr
-%<Number=Sing%>%<Nomzr=Action%>%<Case=Dat%>:ыахха     #;
+%<NOUN%>%<Number=Sing%>%<Nomzr=Action%>%<Case=Dat%>:ыахха     #;
 
 LEXICON noun_number
 %<Number=Sing%>:0       noun_case;
@@ -386,7 +393,6 @@ LEXICON noun_int
 	!noun_case;
 		
 LEXICON noun_case
-	#;
 	noun_poss;
 %<Case=Nom%>:0   #;
 %<Case=Acc%>:%{N%}%{I%} #;

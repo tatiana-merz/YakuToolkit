@@ -1,0 +1,5 @@
+clear stack
+
+regex @"/Users/tatiana/Documents/Uni/Thesis/FST/FST/noun/sah_noun.bin" | @"/Users/tatiana/Documents/Uni/Thesis/FST/FST/verb/sah_verb.bin";
+
+save stack sah.bin
