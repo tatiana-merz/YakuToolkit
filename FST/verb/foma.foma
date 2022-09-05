@@ -1,0 +1,11 @@
+clear stack
+
+read lexc morph_verb.lexc
+define morph
+
+source phon_verb.xfst
+define phon
+
+regex morph .o. phon;
+
+save stack sah.bin

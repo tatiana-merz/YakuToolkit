@@ -1,0 +1,8679 @@
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+биир	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+кытта	adpfirst;
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытааннык	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэхтик	advfirst;
+улаханнык	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+тута	advfirst;
+өр	advfirst;
+үчүгэйдик	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+элбэх	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+улахан	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+көрүү	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+өрүсүөнэ	propnfirst;
+китай	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыар	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+ыарый	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+суу	verbfirst;
+көт	verbfirst;
+араар	verbfirst;
+сатаа	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+уус	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+биир	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+кытта	adpfirst;
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытааннык	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэхтик	advfirst;
+улаханнык	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+тута	advfirst;
+өр	advfirst;
+үчүгэйдик	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+элбэх	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+улахан	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+көрүү	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+өрүсүөнэ	propnfirst;
+китай	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыар	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+ыарый	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+суу	verbfirst;
+көт	verbfirst;
+араар	verbfirst;
+сатаа	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+уус	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытааннык	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэхтик	advfirst;
+улаханнык	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+үчүгэйдик	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+элбэх	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+улахан	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+урүҥ	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэнник	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+буол	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+уоннa	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+баар	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+cорох	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+сахалыы	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+атын	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+ыы	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+cорох	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+атын	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+курдук	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+саха	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+бары	detfirst;
+ол	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+суолта	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсаа	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+бар	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+дойдуларга	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+cорох	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+кинилэр	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+огурсу	pronfirst;
+манна	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+арый	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+атын	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+саха	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсааһын	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+огурсу	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хонуу	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+барытын	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+тоҕо	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+атын	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+саха	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсааһын	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+огурсу	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хонуу	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+барытын	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+тоҕо	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+атын	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+ханна	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+саха	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+сорох	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсааһын	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+огурсу	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хонуу	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+барытын	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+тоҕо	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+атын	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+саха	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсааһын	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+огурсу	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хонуу	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+биhиги	pronfirst;
+ханнык	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+тоҕо	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+
+LEXICON Root
+	ADJ;
+	ADP;
+	ADV;
+	AUX;
+	CCONJ;
+	DET;
+	INTJ;
+	NOUN;
+	NUM;
+	PART;
+	PRON;
+	PROPN;
+	PUNCT;
+	VERB;
+
+
+
+LEXICON ADJ
+элбэх	adjfirst;
+кыра	adjfirst;
+начальнай	adjfirst;
+уһун	adjfirst;
+синньигэс	adjfirst;
+кылгас	adjfirst;
+суон	adjfirst;
+ыраас	adjfirst;
+улахан	adjfirst;
+күүстээх	adjfirst;
+үрүҥ	adjfirst;
+хара	adjfirst;
+эмис	adjfirst;
+алтан	adjfirst;
+ынырык	adjfirst;
+сүрүн	adjfirst;
+соҕотох	adjfirst;
+саха	adjfirst;
+уран	adjfirst;
+бөҕө	adjfirst;
+атын	adjfirst;
+тымныы	adjfirst;
+саҥа	adjfirst;
+маҥан	adjfirst;
+дьэҥкир	adjfirst;
+халтархай	adjfirst;
+хотугу	adjfirst;
+эдэр	adjfirst;
+үчүгэй	adjfirst;
+ичигэс	adjfirst;
+куһаҕан	adjfirst;
+киэһээҥи	adjfirst;
+үрдүкү	adjfirst;
+эрдии	adjfirst;
+кырдьаҕас	adjfirst;
+үрдүк	adjfirst;
+
+
+LEXICON adjfirst
+	#;
+
+
+
+LEXICON ADP
+ортотугар	adpfirst;
+
+
+LEXICON adpfirst
+	#;
+
+
+
+LEXICON ADV
+манна	advfirst;
+кырдьык	advfirst;
+олус	advfirst;
+түргэн	advfirst;
+бытаан	advfirst;
+хойут	advfirst;
+наада	advfirst;
+бастаан	advfirst;
+онтон	advfirst;
+өссө	advfirst;
+элбэх	advfirst;
+улахан	advfirst;
+үчүгэй	advfirst;
+көрдөөх	advfirst;
+кэриэтэ	advfirst;
+тилийэ	advfirst;
+өр	advfirst;
+онно	advfirst;
+төһө	advfirst;
+симик	advfirst;
+оттомноох	advfirst;
+хат	advfirst;
+оччоҕо	advfirst;
+быйыл	advfirst;
+бэрт	advfirst;
+эмиэ	advfirst;
+туспа	advfirst;
+эрдэ	advfirst;
+бүгүн	advfirst;
+онон	advfirst;
+мэлдьи	advfirst;
+элбэхтэр	advfirst;
+нуучча	advfirst;
+киэһэ	advfirst;
+саха	advfirst;
+сайын	advfirst;
+араас	advfirst;
+бииргэ	advfirst;
+арыт	advfirst;
+таһырдьа	advfirst;
+сарсын	advfirst;
+ыраах	advfirst;
+кыһын	advfirst;
+аны	advfirst;
+
+
+LEXICON advfirst
+	#;
+
+
+
+LEXICON AUX
+баар	auxfirst;
+суох	auxfirst;
+
+
+LEXICON auxfirst
+	#;
+
+
+
+LEXICON CCONJ
+уонна	cconjfirst;
+эрээри	cconjfirst;
+
+
+LEXICON cconjfirst
+	#;
+
+
+
+LEXICON DET
+аайы	detfirst;
+бу	detfirst;
+
+
+LEXICON detfirst
+	#;
+
+
+
+LEXICON INTJ
+баһаалыста	intjfirst;
+син	intjfirst;
+мэ	intjfirst;
+чэ	intjfirst;
+эһээ	intjfirst;
+аа	intjfirst;
+
+
+LEXICON intjfirst
+	#;
+
+
+
+LEXICON NOUN
+кинигэ	nounfirst;
+күн	nounfirst;
+илии	nounfirst;
+профессор	nounfirst;
+остуол	nounfirst;
+олоппос	nounfirst;
+ыскамыайка	nounfirst;
+кылаас	nounfirst;
+паарта	nounfirst;
+киһи	nounfirst;
+уол	nounfirst;
+оскуола	nounfirst;
+дуоска	nounfirst;
+оҕо	nounfirst;
+күөгүрээпийэ	nounfirst;
+аҕа	nounfirst;
+сурук	nounfirst;
+ийэ	nounfirst;
+баһаар	nounfirst;
+эт	nounfirst;
+кыыл	nounfirst;
+таба	nounfirst;
+тарбах	nounfirst;
+атах	nounfirst;
+хаһыат	nounfirst;
+дьон	nounfirst;
+аат	nounfirst;
+эбэ	nounfirst;
+быраат	nounfirst;
+балыс	nounfirst;
+килиэп	nounfirst;
+аҕал	nounfirst;
+хаар	nounfirst;
+балык	nounfirst;
+уу	nounfirst;
+дьиэ	nounfirst;
+километр	nounfirst;
+хахай	nounfirst;
+эһэ	nounfirst;
+үүт	nounfirst;
+ынах	nounfirst;
+яблоко	nounfirst;
+убай	nounfirst;
+доҕор	nounfirst;
+нуучча	nounfirst;
+кулгаах	nounfirst;
+бас	nounfirst;
+атас	nounfirst;
+куорат	nounfirst;
+карточка	nounfirst;
+быраас	nounfirst;
+уочарат	nounfirst;
+эмп	nounfirst;
+саахар	nounfirst;
+арыы	nounfirst;
+буулка	nounfirst;
+чэй	nounfirst;
+сүөгэй	nounfirst;
+күөрчэх	nounfirst;
+харандаас	nounfirst;
+муоста	nounfirst;
+аан	nounfirst;
+ыскаап	nounfirst;
+уҥуох	nounfirst;
+иһит	nounfirst;
+эбиэт	nounfirst;
+сылабаар	nounfirst;
+чаанньык	nounfirst;
+куукуна	nounfirst;
+билиидэ	nounfirst;
+хомуос	nounfirst;
+муннук	nounfirst;
+буочука	nounfirst;
+биэдэрэ	nounfirst;
+сэлээппэ	nounfirst;
+солуон	nounfirst;
+моҕой	nounfirst;
+сир	nounfirst;
+саламаат	nounfirst;
+тыс	nounfirst;
+этэрбэс	nounfirst;
+буруй	nounfirst;
+хамнас	nounfirst;
+хойчоонно	nounfirst;
+тэрил	nounfirst;
+халлаан	nounfirst;
+айымньы	nounfirst;
+эргимтэ	nounfirst;
+хамсааһын	nounfirst;
+бурдук	nounfirst;
+олоҥхо	nounfirst;
+уус	nounfirst;
+быа	nounfirst;
+ыт	nounfirst;
+саа	nounfirst;
+хаҥкы	nounfirst;
+суорат	nounfirst;
+түүн	nounfirst;
+кус	nounfirst;
+кымыс	nounfirst;
+ас	nounfirst;
+сыа	nounfirst;
+тоһоҕо	nounfirst;
+куоска	nounfirst;
+искэх	nounfirst;
+собо	nounfirst;
+сон	nounfirst;
+кыыс	nounfirst;
+чаһы	nounfirst;
+муҥха	nounfirst;
+чиэрбэ	nounfirst;
+хос	nounfirst;
+үөн	nounfirst;
+чох	nounfirst;
+дьахтар	nounfirst;
+тыл	nounfirst;
+тиис	nounfirst;
+огурсу	nounfirst;
+кыс	nounfirst;
+хоту	nounfirst;
+бөрө	nounfirst;
+суол	nounfirst;
+ат	nounfirst;
+ыҥыыр	nounfirst;
+тараах	nounfirst;
+бостуук	nounfirst;
+үрэх	nounfirst;
+сыалыһар	nounfirst;
+быар	nounfirst;
+сыыр	nounfirst;
+хотон	nounfirst;
+оҕонньор	nounfirst;
+харах	nounfirst;
+айах	nounfirst;
+уһук	nounfirst;
+мин	nounfirst;
+лааппы	nounfirst;
+сис	nounfirst;
+от	nounfirst;
+сыл	nounfirst;
+ый	nounfirst;
+куурусса	nounfirst;
+көтөр	nounfirst;
+чаас	nounfirst;
+мүнүүтэ	nounfirst;
+хотуур	nounfirst;
+массыына	nounfirst;
+дьааһык	nounfirst;
+булчут	nounfirst;
+тиит	nounfirst;
+мутукча	nounfirst;
+саас	nounfirst;
+ойуур	nounfirst;
+тэллэй	nounfirst;
+бэргэһэ	nounfirst;
+долбуур	nounfirst;
+үөрэх	nounfirst;
+түннүк	nounfirst;
+дойду	nounfirst;
+чулку	nounfirst;
+наскы	nounfirst;
+рецепт	nounfirst;
+сыттык	nounfirst;
+матараас	nounfirst;
+тэллэх	nounfirst;
+хомпуот	nounfirst;
+түү	nounfirst;
+кии	nounfirst;
+солуома	nounfirst;
+оттук	nounfirst;
+хотой	nounfirst;
+мохсоҕол	nounfirst;
+кыырт	nounfirst;
+оһох	nounfirst;
+форточка	nounfirst;
+эдьиий	nounfirst;
+тэтэрээт	nounfirst;
+таҥас	nounfirst;
+көхө	nounfirst;
+мас	nounfirst;
+сүөһү	nounfirst;
+быт	nounfirst;
+былахы	nounfirst;
+кулахы	nounfirst;
+хаан	nounfirst;
+туорах	nounfirst;
+аҕас	nounfirst;
+эр	nounfirst;
+оҥочо	nounfirst;
+уруок	nounfirst;
+мастерской	nounfirst;
+туруйа	nounfirst;
+баҕа	nounfirst;
+күлгэри	nounfirst;
+таһаҕас	nounfirst;
+сап	nounfirst;
+ыстаал	nounfirst;
+боробулуоха	nounfirst;
+оҕуруот	nounfirst;
+үүнүү	nounfirst;
+күөл	nounfirst;
+күнүс	nounfirst;
+дьэдьэн	nounfirst;
+оройуон	nounfirst;
+тэлиэгэ	nounfirst;
+сибиинньэ	nounfirst;
+сөкүүндэ	nounfirst;
+кэргэн	nounfirst;
+хайыһар	nounfirst;
+хонуу	nounfirst;
+хайа	nounfirst;
+бэс	nounfirst;
+тимэх	nounfirst;
+
+
+LEXICON nounfirst
+	#;
+
+
+
+LEXICON NUM
+биир	numfirst;
+икки	numfirst;
+үс	numfirst;
+онус	numfirst;
+биэс	numfirst;
+уон	numfirst;
+алта	numfirst;
+түөрт	numfirst;
+
+
+LEXICON numfirst
+	#;
+
+
+
+LEXICON PART
+буолуой	partfirst;
+дуо	partfirst;
+эрэ	partfirst;
+дуу	partfirst;
+
+
+LEXICON partfirst
+	#;
+
+
+
+LEXICON PRON
+кини	pronfirst;
+биһиги	pronfirst;
+эн	pronfirst;
+ханна	pronfirst;
+мин	pronfirst;
+бары	pronfirst;
+ити	pronfirst;
+ханнык	pronfirst;
+сорох	pronfirst;
+туох	pronfirst;
+ол	pronfirst;
+тугу	pronfirst;
+хас	pronfirst;
+ким	pronfirst;
+эһиги	pronfirst;
+тоҕо	pronfirst;
+хайдах	pronfirst;
+
+
+LEXICON pronfirst
+	#;
+
+
+
+LEXICON PROPN
+айаана	propnfirst;
+сайаана	propnfirst;
+миша	propnfirst;
+саша	propnfirst;
+кэскил	propnfirst;
+петров	propnfirst;
+дьокуускай	propnfirst;
+москва	propnfirst;
+сардана	propnfirst;
+маша	propnfirst;
+коперник	propnfirst;
+мичил	propnfirst;
+айтал	propnfirst;
+айхал	propnfirst;
+сергей	propnfirst;
+
+
+LEXICON propnfirst
+	#;
+
+
+
+LEXICON PUNCT
+,	punctfirst;
+.	punctfirst;
+?	punctfirst;
+!	punctfirst;
+-	punctfirst;
+—	punctfirst;
+
+
+LEXICON punctfirst
+	#;
+
+
+
+LEXICON VERB
+кэл	verbfirst;
+аах	verbfirst;
+сууй	verbfirst;
+буол	verbfirst;
+тур	verbfirst;
+олор	verbfirst;
+үөрэн	verbfirst;
+туһалаа	verbfirst;
+атыылас	verbfirst;
+ыыт	verbfirst;
+аһаа	verbfirst;
+кэпсээ	verbfirst;
+иһит	verbfirst;
+утуй	verbfirst;
+ыарый	verbfirst;
+бар	verbfirst;
+түс	verbfirst;
+үөскээ	verbfirst;
+киир	verbfirst;
+ыл	verbfirst;
+аһыы	verbfirst;
+суруй	verbfirst;
+биэр	verbfirst;
+ыҥыр	verbfirst;
+көр	verbfirst;
+аҕал	verbfirst;
+быс	verbfirst;
+кут	verbfirst;
+тот	verbfirst;
+ис	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+туруор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+утар	verbfirst;
+күл	verbfirst;
+ыйыһын	verbfirst;
+көт	verbfirst;
+бил	verbfirst;
+кэт	verbfirst;
+өлөр	verbfirst;
+көрдөс	verbfirst;
+уруһуйдаа	verbfirst;
+суулун	verbfirst;
+үлэлээ	verbfirst;
+үүн	verbfirst;
+үр	verbfirst;
+тоҥ	verbfirst;
+ыа	verbfirst;
+ыйаа	verbfirst;
+сап	verbfirst;
+ас	verbfirst;
+эт	verbfirst;
+гын	verbfirst;
+уст	verbfirst;
+саҥар	verbfirst;
+эбиэттээ	verbfirst;
+аас	verbfirst;
+таптаа	verbfirst;
+атыылаа	verbfirst;
+оҕус	verbfirst;
+сөтүөлээ	verbfirst;
+көлүй	verbfirst;
+бултаа	verbfirst;
+сыт	verbfirst;
+эмтээ	verbfirst;
+уур	verbfirst;
+бул	verbfirst;
+ыҥыырдаа	verbfirst;
+баар	verbfirst;
+оҥор	verbfirst;
+кэр	verbfirst;
+манаа	verbfirst;
+хайыһардаа	verbfirst;
+тиэй	verbfirst;
+тик	verbfirst;
+таҕыс	verbfirst;
+киллэр	verbfirst;
+ыллаа	verbfirst;
+балыктаа	verbfirst;
+үөрэт	verbfirst;
+сырыт	verbfirst;
+
+
+LEXICON verbfirst
+	#;
+
+

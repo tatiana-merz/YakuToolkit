@@ -1,0 +1,146 @@
+define cons [б|в|г|д|ж|й|з|к|л|м|н|п|р|с|т|ф|х|ц|ч|ш|щ|ҕ|ҥ|һ|ь|h];
+define vows [а|и|е|ё|о|ы|э|ю|я|ө]; !not ү and у
+define allVowels [а|и|е|ё|о|ы|э|ю|я|ө|ү|у];
+define highVowels [и|ы|ү|у];
+define lowVowels [а|о|э|ө];
+define unvoiced [к|п|с|т];
+define diphthongs [ {уо} | {үө} | {ыа} | {иэ} ];
+
+define laterals л;
+define rhotic [й|р];
+define voiceless [к|в|д|с|т|з|ж|п];
+define uvular х;
+define nasal [м|н|ҥ];
+
+            !!! vowels !!!
+
+define phonII х %{II%} -> {ҕы};
+define phonIIDefault  %{II%} -> и;
+
+define phonI  %{I%} -> ы || [.#. cons [{ор}|ы|а|{уһ}|{уо}|{уҥ}] | .#. [а|ы|я|{уо}| {уб}|{кул}] ] ?* _ ,,
+              %{I%} -> и || [.#. [и|э|ү cons]| .#. ? [{үө}|и|э|{өл}|{үр}|{үл}|{ьэ}|е] ] ?* _  ,,
+              %{I%} -> у || [.#. cons [{от}|{он}|{ом}|{оҕ}|{ол}|{уу}|{ур}|{ус}|{ьо}] | .#. [о|{уу}|{чул}]] ?* _  ,,
+              %{I%} -> ү || [.#. cons [ ө [voiceless|rhotic]] | .#. ө|{үү}|{үө}] ?* _ ,,
+                            .#. cons [{үс}|{үн}] ?* _  ;             
+
+define phonA %{A%} -> а || [.#. а | .#. [{ог}|{хоту}|{ой}|ы|у|{от}|{ор}|{ос}] | .#. ? [{ол}|ы|а|у|{ой}|{ьа}|{он}|е] ] ?* _  ,,
+             %{A%} -> э || [.#. [и|э|ү cons|{үө}]| .#. ? [и|э|ү|{өл}|{ьи}] ] ?* _  ,,
+             %{A%} -> ө || [.#. ө| .#. cons [{өр}|{өт}|{өх}]] ?* _  ,,
+            %{A%} -> о || [ .#. {ол}|{оҕ}|{хото}| .#. cons {ос}|{ьо}] ?* _ ;
+            ! %{A%} -> о || [ .#. {ол}|{оҕ}|cons {ос}|{ьо}] ?* _ ;
+
+            
+define novows  "'" [%{E%}|%{A%}|%{II%}] -> 0 || allVowels "^" ?* _,,
+               "'" %{I%} -> 0 || allVowels "^" ?* _,,
+               с "^" "`" -> һ ,,
+               к "^" "`" -> г ,,
+               х "^" "`" -> ҕ ,,
+               х "^" "'" -> ҕ ,,
+               {ыс} "^" "'" -> т ;
+               
+               !{эх} "^" %{H%} ->  {эҕ};
+              
+define poss  "`" -> 0 || cons "^" _,,
+             "`" -> т || allVowels "^"  _;
+
+!define phonE %{E%} -> э || [.#. [и| ү cons|{үө}|э|cons и] | .#. ? [ьи|ү cons|{иэ}|{эй}]] ?* _  ,,
+!             %{E%} -> о || [ .#. {ол}| {оҕ}|{хот}] ?* _  ,,
+!             %{E%} -> ө || [.#. ө| .#. cons ө] ?* _  ;
+
+define Edefault %{E%} -> а ;
+
+define acc %{N%} -> н || allVowels "^" _ ,,
+           %{N%} -> 0 || cons "^" _;
+
+define phonP %{B%} -> п || voiceless "^" _ ,,
+             %{B%} -> б || л "^" _ ,, 
+             %{B%} -> м || н "^" _  ; 
+
+define BDefault %{B%} -> б;
+
+define phonD %{D%} -> д || rhotic "^" _ ,,
+             %{D%} -> л || л "^" _ ,, 
+             %{D%} -> м || nasal "^"  _  ; 
+
+define DDefault %{D%} -> т;
+
+
+            !!! consonants !!!
+define lharm     %{L%} -> т || [voiceless | uvular] "^" _ ,,
+                 %{L%} -> н || nasal "^" _ ,,
+                 %{L%} -> д || rhotic "^" _  ,,
+                 %{L%} -> л || [highVowels | lowVowels | laterals] "^" _  ;
+
+define lharmDefault %{L%} -> л;
+
+define tharm     %{T%} -> т || [voiceless | uvular | highVowels ] "^" _ ,,
+                 %{T%} -> н || nasal "^" _ ,,
+                 %{T%} -> д || rhotic "^" _  ,,
+                 %{T%} -> л || [л|{рта}] "^" _  ;
+
+define tharmDefault %{T%} -> т;           
+
+
+!define prt %<Case=Par%> -> %{T%} %{A%};
+
+define abl %<Case=Abl%> -> т т а н || allVowels "^" _ ,,
+           %<Case=Abl%> -> т а н || cons "^" _;
+
+define ins %<Case=Ins%> -> н %{A%} н || allVowels "^" _ ,,
+           %<Case=Ins%> -> %{I%} н %{A%} н || cons "^" _;
+
+!define com %<Case=Cmp%> -> %{L%} %{I%} %{I%} н;
+!define compv %<Case=Compv%> -> %{T%} %{A%} %{A%} ҕ %{A%} р ;
+
+
+define phonH     %{H%} -> ҕ || [cons lowVowels|diphthongs] "^" _,,
+                 %{H%} -> г || [highVowels|rhotic|laterals] "^" _ ,,
+                 %{H%} -> к || [unvoiced|в] "^" _ ,,
+                 %{H%} -> х || х "^" _  ,,
+                 %{H%} -> ҥ || nasal "^" _  ;
+
+
+define caseAlter !о "^" -> а || _ т  ,,
+                 т "^" к -> {кк},,
+                   н "^" ҥ -> {ҥҥ},,
+                   х "^" ы -> {ҕы} ,,
+                   !{гэ} "^" {тэ} -> {гитэ} ,, ! doesnt work
+                  
+                   х "^" {xа} -> {ҕа},,
+                   {ап} "^" {ын} -> {абын} ,,
+                   {мп} "^" -> м   ,,
+                   {метр} "^" {дэр} "^" и -> {метры},,
+                   {ас} "^"  -> {аһ} || _ ы,,
+                   к "^" -> г || _ [ү|у|ы],,
+                   {эп} "^" и -> {эби} ,,
+                   с "^" -> һ || _ [и|у|{ын}],,
+                   с "^" -> һ || _ "'" ,,
+                   т "^" п -> {пп} ,,
+                   р "^" {дар} -> {ллар} ,,
+                   р "^" {до} -> {тто} ,,
+                   {ко} "^" {ттан} -> {каттан} ,,
+                   {уох} "^" {ха} -> {уоҕа} ,,
+                   {бах} "^" {ха} -> {баҕа} ,,
+                   н "^" м -> {нн} ,,
+                   {олхо}  -> {онуоха} ,,
+                   {мингин}  -> {миигин} ,,
+                   {минэхэ}  -> {миэхэ} ,,
+                   {буманы}  -> {маны} ,,
+                   {биһигихэ}  -> {биһиэхэ} ,,
+                   {эһигиэхэ}  -> {эһиэхэ} ,,
+                   {энйиэхэ}  -> {эйиэхэ} ,,
+                   {олуоха}  -> {онуоха} ,,
+                   {үөн} "^" {нэр} "^" ү -> {үөннэри} ;
+                   
+                   !;
+
+
+define cleanup ["^"|"{N}"|"'"|"?"] -> 0;
+
+define final  у о л л а р -> {уолаттар} || .#. _  ;
+
+define firstVows  Edefault  .o. novows .o. ins .o. poss .o. phonA .o. phonI .o. phonII .o. phonIIDefault;
+define secondCons tharm .o. tharmDefault .o. phonH .o. lharm .o. lharmDefault .o. phonP .o. phonD .o. DDefault .o. BDefault;
+define thirdCaseClean acc .o. abl  .o. caseAlter  .o. cleanup .o. final ;
+
+regex firstVows .o. secondCons .o. thirdCaseClean;
