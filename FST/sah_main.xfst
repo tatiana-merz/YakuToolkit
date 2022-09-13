@@ -1,5 +1,10 @@
 clear stack
+source foma_n.foma
+define sah_noun.bin
+ 
+source foma_v.foma
+define sah_verb.bin
 
-regex @"/Users/tatiana/Documents/Uni/Thesis/FST/FST/noun/sah_noun.bin" | @"/Users/tatiana/Documents/Uni/Thesis/FST/FST/verb/sah_verb.bin";
+regex @"sah_verb.bin" | @"sah_noun.bin";
 
-save stack sah.bin
+save stack sah_full.bin

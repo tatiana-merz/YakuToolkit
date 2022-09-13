@@ -1,0 +1,1338 @@
+бу<DET>	бу
+
+аайы<DET>	аайы
+
+бу<DET><Case=Acc>	маны
+
+яблоко<NOUN><Number=Sing><Case=Abl>	яблокаттан
+
+ыстаал<NOUN><Number=Sing><Case=Abl>	ыстаалтан
+
+баһаар<NOUN><Number=Sing><Case=Abl>	баһаартан
+
+буочука<NOUN><Number=Sing><Case=Abl>	буочукаттан
+
+ынах<NOUN><Number=Sing><Case=Abl>	ынахтан
+
+халлаан<NOUN><Number=Sing><Case=Abl>	халлаантан
+
+оскуола<NOUN><Number=Sing><Case=Abl>	оскуолаттан
+
+оҕо<NOUN><Number=Plur><Case=Acc>	оҕолору
+
+аан<NOUN><Number=Plur><Case=Acc>	ааннары
+
+ыскаап<NOUN><Number=Plur><Case=Acc>	ыскааптары
+
+километр<NOUN><Number=Plur><Case=Acc>	километры
+
+көтөр<NOUN><Number=Plur><Case=Acc>	көтөрдөрү
+
+кинигэ<NOUN><Number=Plur><Case=Acc>	кинигэлэри
+
+үөн<NOUN><Number=Plur><Case=Acc>	үөннэри
+
+түннүк<NOUN><Number=Sing><Case=Acc>	түннүгү
+
+форточка<NOUN><Number=Sing><Case=Acc>	форточканы
+
+бэргэһэ<NOUN><Number=Sing><Case=Acc>	бэргэһэни
+
+уу<NOUN><Number=Sing><Case=Acc>	ууну
+
+аан<NOUN><Number=Sing><Case=Acc>	ааны
+
+килиэп<NOUN><Number=Sing><Case=Acc>	килиэби
+
+наскы<NOUN><Number=Sing><Case=Acc>	наскыны
+
+этэрбэс<NOUN><Number=Sing><Case=Acc>	этэрбэһи
+
+харандаас<NOUN><Number=Sing><Case=Acc>	харандааһы
+
+тэтэрээт<NOUN><Number=Sing><Case=Acc>	тэтэрээти
+
+кинигэ<NOUN><Number=Sing><Case=Acc>	кинигэни
+
+иһит<NOUN><Number=Sing><Case=Acc>	иһити
+
+таҥас<NOUN><Number=Sing><Case=Acc>	таҥаһы
+
+оҕо<NOUN><Number=Sing><Case=Acc>	оҕону
+
+күлгэри<NOUN><Number=Sing><Case=Acc>	күлгэрини
+
+баҕа<NOUN><Number=Sing><Case=Acc>	баҕаны
+
+дьэдьэн<NOUN><Number=Sing><Case=Acc>	дьэдьэни
+
+бурдук<NOUN><Number=Sing><Case=Acc>	бурдугу
+
+сир<NOUN><Number=Sing><Case=Acc>	сири
+
+үүт<NOUN><Number=Sing><Case=Acc>	үүтү
+
+эһэ<NOUN><Number=Sing><Case=Acc>	эһэни
+
+эт<NOUN><Number=Sing><Case=Acc>	эти
+
+эмп<NOUN><Number=Sing><Case=Acc>	эми
+
+саахар<NOUN><Number=Sing><Case=Acc>	саахары
+
+арыы<NOUN><Number=Sing><Case=Acc>	арыыны
+
+дьон<NOUN><Number=Sing><Case=Acc>	дьону
+
+карточка<NOUN><Number=Sing><Case=Acc>	карточканы
+
+яблоко<NOUN><Number=Sing><Case=Acc>	яблоконы
+
+суорат<NOUN><Number=Sing><Case=Acc>	суораты
+
+хомуос<NOUN><Number=Sing><Case=Acc>	хомуоһу
+
+билиидэ<NOUN><Number=Sing><Case=Acc>	билиидэни
+
+чаанньык<NOUN><Number=Sing><Case=Acc>	чаанньыгы
+
+ынах<NOUN><Number=Sing><Case=Acc>	ынаҕы
+
+хамнас<NOUN><Number=Sing><Case=Acc>	хамнаһы
+
+хаҥкы<NOUN><Number=Sing><Case=Acc>	хаҥкыны
+
+солуон<NOUN><Number=Sing><Case=Acc>	солуону
+
+сурук<NOUN><Number=Sing><Case=Acc>	суругу
+
+киһи<NOUN><Number=Sing><Case=Acc>	киһини
+
+сыа<NOUN><Number=Sing><Case=Acc>	сыаны
+
+муоста<NOUN><Number=Sing><Case=Acc>	муостаны
+
+туорах<NOUN><Number=Sing><Case=Acc>	туораҕы
+
+от<NOUN><Number=Sing><Case=Acc>	оту
+
+чулку<NOUN><Number=Sing><Case=Acc>	чулкуну
+
+куоска<NOUN><Number=Sing><Case=Acc>	куосканы
+
+сон<NOUN><Number=Sing><Case=Acc>	сону
+
+бөрө<NOUN><Number=Sing><Case=Acc>	бөрөнү
+
+хотуур<NOUN><Number=Sing><Case=Acc>	хотууру
+
+үөн<NOUN><Number=Sing><Case=Acc>	үөнү
+
+кус<NOUN><Number=Sing><Case=Acc>	куһу
+
+ат<NOUN><Number=Sing><Case=Acc>	аты
+
+эргимтэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>	эргимтэлэрин
+
+илии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Acc>	илиибин
+
+сир<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>	сирин
+
+кыс<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>	кыһын
+
+паарта<NOUN><Number=Sing><Case=Cmp>	паарталааҕар
+
+эһэ<NOUN><Number=Sing><Case=Cmp>	эһэтээҕэр
+
+олоппос<NOUN><Number=Plur><Case=Dat>	олоппосторго
+
+дойду<NOUN><Number=Plur><Case=Dat>	дойдуларга
+
+мүнүүтэ<NOUN><Number=Sing><Case=Dat>	мүнүүтэҕэ
+
+илии<NOUN><Number=Sing><Case=Dat>	илиигэ
+
+кылаас<NOUN><Number=Sing><Case=Dat>	кылааска
+
+иһит<NOUN><Number=Sing><Case=Dat>	иһиккэ
+
+хос<NOUN><Number=Sing><Case=Dat>	хоско
+
+оҕонньор<NOUN><Number=Sing><Case=Dat>	оҕонньорго
+
+чаас<NOUN><Number=Sing><Case=Dat>	чааска
+
+тэлиэгэ<NOUN><Number=Sing><Case=Dat>	тэлиэгэҕэ
+
+ыскаап<NOUN><Number=Sing><Case=Dat>	ыскаапка
+
+уол<NOUN><Number=Sing><Case=Dat>	уолга
+
+уҥуох<NOUN><Number=Sing><Case=Dat>	уҥуоҕа
+
+сир<NOUN><Number=Sing><Case=Dat>	сиргэ
+
+олоппос<NOUN><Number=Sing><Case=Dat>	олоппоско
+
+уу<NOUN><Number=Sing><Case=Dat>	ууга
+
+сыл<NOUN><Number=Sing><Case=Dat>	сылга
+
+хайа<NOUN><Number=Sing><Case=Dat>	хайаҕа
+
+атах<NOUN><Number=Sing><Case=Dat>	атахха
+
+ыҥыыр<NOUN><Number=Sing><Case=Dat>	ыҥыырга
+
+хонуу<NOUN><Number=Sing><Case=Dat>	хонууга
+
+ынах<NOUN><Number=Sing><Case=Dat>	ынахха
+
+оҕо<NOUN><Number=Sing><Case=Dat>	оҕоҕо
+
+дойду<NOUN><Number=Sing><Case=Dat>	дойдуга
+
+оскуола<NOUN><Number=Sing><Case=Dat>	оскуолаҕа
+
+огурсу<NOUN><Number=Sing><Case=Dat>	огурсуга
+
+карточка<NOUN><Number=Sing><Case=Dat>	карточкаҕа
+
+муннук<NOUN><Number=Sing><Case=Dat>	муннукка
+
+куукуна<NOUN><Number=Sing><Case=Dat>	куукунаҕа
+
+чэй<NOUN><Number=Sing><Case=Dat>	чэйгэ
+
+биэдэрэ<NOUN><Number=Sing><Case=Dat>	биэдэрэҕэ
+
+дьиэ<NOUN><Number=Sing><Case=Dat>	дьиэҕэ
+
+хотон<NOUN><Number=Sing><Case=Dat>	хотоҥҥо
+
+үөрэх<NOUN><Number=Sing><Case=Dat>	үөрэххэ
+
+сылабаар<NOUN><Number=Sing><Case=Dat>	сылабаарга
+
+үрэх<NOUN><Number=Sing><Case=Dat>	үрэххэ
+
+оройуон<NOUN><Number=Sing><Case=Dat>	оройуоҥҥа
+
+остуол<NOUN><Number=Sing><Case=Dat>	остуолга
+
+көхө<NOUN><Number=Sing><Case=Dat>	көхөҕө
+
+дьааһык<NOUN><Number=Sing><Case=Dat>	дьааһыкка
+
+тарбах<NOUN><Number=Sing><Case=Dat>	тарбаҕа
+
+эбиэт<NOUN><Number=Sing><Case=Dat>	эбиэккэ
+
+мастерской<NOUN><Number=Sing><Case=Dat>	мастерскойга
+
+долбуур<NOUN><Number=Sing><Case=Dat>	долбуурга
+
+массыына<NOUN><Number=Sing><Case=Dat>	массыынаҕа
+
+ойуур<NOUN><Number=Sing><Case=Dat>	ойуурга
+
+быраас<NOUN><Number=Sing><Case=Dat>	бырааска
+
+паарта<NOUN><Number=Sing><Case=Dat>	паартаҕа
+
+куорат<NOUN><Number=Sing><Case=Dat>	куоракка
+
+аҕал<NOUN><Number=Sing><Nomzr=Action><Case=Dat>	аҕалыахха
+
+аҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>	аҕатыгар
+
+хайыһар<NOUN><Number=Sing><Case=Ins>	хайыһарынан
+
+уочарат<NOUN><Number=Sing><Case=Ins>	уочаратынан
+
+хаан<NOUN><Number=Sing><Case=Ins>	хаанынан
+
+хотуур<NOUN><Number=Sing><Case=Ins>	хотуурунан
+
+ат<NOUN><Number=Sing><Case=Ins>	атынан
+
+сап<NOUN><Number=Sing><Case=Ins>	сабынан
+
+түү<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>	түүтүнэн
+
+сыттык<NOUN><Number=Plur><Case=Nom>	сыттыктар
+
+тэллэх<NOUN><Number=Plur><Case=Nom>	тэллэхтэр
+
+матараас<NOUN><Number=Plur><Case=Nom>	матараастар
+
+оҕо<NOUN><Number=Plur><Case=Nom>	оҕолор
+
+остуол<NOUN><Number=Plur><Case=Nom>	остуоллар
+
+уол<NOUN><Number=Plur><Case=Nom>	уолаттар
+
+нуучча<NOUN><Number=Plur><Case=Nom>	нууччалар
+
+дьахтар<NOUN><Number=Plur><Case=Nom>	дьахталлар
+
+дьон<NOUN><Number=Plur><Case=Nom>	дьоннор
+
+доҕор<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>	доҕотторо
+
+таба<NOUN><Number=Sing><Case=Nom>	таба
+
+уус<NOUN><Number=Sing><Case=Nom>	уус
+
+хойчоонно<NOUN><Number=Sing><Case=Nom>	хойчоонно
+
+сылабаар<NOUN><Number=Sing><Case=Nom>	сылабаар
+
+атах<NOUN><Number=Sing><Case=Nom>	атах
+
+хаһыат<NOUN><Number=Sing><Case=Nom>	хаһыат
+
+тэтэрээт<NOUN><Number=Sing><Case=Nom>	тэтэрээт
+
+быраас<NOUN><Number=Sing><Case=Nom>	быраас
+
+тыл<NOUN><Number=Sing><Case=Nom>	тыл
+
+эр<NOUN><Number=Sing><Case=Nom>	эр
+
+сир<NOUN><Number=Sing><Case=Nom>	сир
+
+уруок<NOUN><Number=Sing><Case=Nom>	уруок
+
+оҥочо<NOUN><Number=Sing><Case=Nom>	оҥочо
+
+ыскаап<NOUN><Number=Sing><Case=Nom>	ыскаап
+
+тараах<NOUN><Number=Sing><Case=Nom>	тараах
+
+олоппос<NOUN><Number=Sing><Case=Nom>	олоппос
+
+сэлээппэ<NOUN><Number=Sing><Case=Nom>	сэлээппэ
+
+дьон<NOUN><Number=Sing><Case=Nom>	дьон
+
+дьааһык<NOUN><Number=Sing><Case=Nom>	дьааһык
+
+күн<NOUN><Number=Sing><Case=Nom>	күн
+
+былахы<NOUN><Number=Sing><Case=Nom>	былахы
+
+собо<NOUN><Number=Sing><Case=Nom>	собо
+
+кымыс<NOUN><Number=Sing><Case=Nom>	кымыс
+
+ас<NOUN><Number=Sing><Case=Nom>	ас
+
+кыыс<NOUN><Number=Sing><Case=Nom>	кыыс
+
+профессор<NOUN><Number=Sing><Case=Nom>	профессор
+
+бостуук<NOUN><Number=Sing><Case=Nom>	бостуук
+
+күөгүрээпийэ<NOUN><Number=Sing><Case=Nom>	күөгүрээпийэ
+
+уол<NOUN><Number=Sing><Case=Nom>	уол
+
+тэллэй<NOUN><Number=Sing><Case=Nom>	тэллэй
+
+чох<NOUN><Number=Sing><Case=Nom>	чох
+
+балык<NOUN><Number=Sing><Case=Nom>	балык
+
+быт<NOUN><Number=Sing><Case=Nom>	быт
+
+ат<NOUN><Number=Sing><Case=Nom>	ат
+
+чаһы<NOUN><Number=Sing><Case=Nom>	чаһы
+
+суол<NOUN><Number=Sing><Case=Nom>	суол
+
+тиис<NOUN><Number=Sing><Case=Nom>	тиис
+
+моҕой<NOUN><Number=Sing><Case=Nom>	моҕой
+
+дуоска<NOUN><Number=Sing><Case=Nom>	дуоска
+
+саа<NOUN><Number=Sing><Case=Nom>	саа
+
+хаар<NOUN><Number=Sing><Case=Nom>	хаар
+
+кулахы<NOUN><Number=Sing><Case=Nom>	кулахы
+
+кыыл<NOUN><Number=Sing><Case=Nom>	кыыл
+
+оҕо<NOUN><Number=Sing><Case=Nom>	оҕо
+
+илии<NOUN><Number=Sing><Case=Nom>	илии
+
+ыскамыайка<NOUN><Number=Sing><Case=Nom>	ыскамыайка
+
+чаанньык<NOUN><Number=Sing><Case=Nom>	чаанньык
+
+сис<NOUN><Number=Sing><Case=Nom>	сис
+
+арыы<NOUN><Number=Sing><Case=Nom>	арыы
+
+остуол<NOUN><Number=Sing><Case=Nom>	остуол
+
+түннүк<NOUN><Number=Sing><Case=Nom>	түннүк
+
+күнүс<NOUN><Number=Sing><Case=Nom>	күнүс
+
+туруйа<NOUN><Number=Sing><Case=Nom>	туруйа
+
+мүнүүтэ<NOUN><Number=Sing><Case=Nom>	мүнүүтэ
+
+таһаҕас<NOUN><Number=Sing><Case=Nom>	таһаҕас
+
+куоска<NOUN><Number=Sing><Case=Nom>	куоска
+
+уу<NOUN><Number=Sing><Case=Nom>	уу
+
+боробулуоха<NOUN><Number=Sing><Case=Nom>	боробулуоха
+
+оҕуруот<NOUN><Number=Sing><Case=Nom>	оҕуруот
+
+күөл<NOUN><Number=Sing><Case=Nom>	күөл
+
+дьиэ<NOUN><Number=Sing><Case=Nom>	дьиэ
+
+килиэп<NOUN><Number=Sing><Case=Nom>	килиэп
+
+нуучча<NOUN><Number=Sing><Case=Nom>	нуучча
+
+дьахтар<NOUN><Number=Sing><Case=Nom>	дьахтар
+
+быа<NOUN><Number=Sing><Case=Nom>	быа
+
+хос<NOUN><Number=Sing><Case=Nom>	хос
+
+ый<NOUN><Number=Sing><Case=Nom>	ый
+
+киһи<NOUN><Number=Sing><Case=Nom>	киһи
+
+оҕонньор<NOUN><Number=Sing><Case=Nom>	оҕонньор
+
+халлаан<NOUN><Number=Sing><Case=Nom>	халлаан
+
+оскуола<NOUN><Number=Sing><Case=Nom>	оскуола
+
+хоту<NOUN><Number=Sing><Case=Nom>	хоту
+
+саас<NOUN><Number=Sing><Case=Nom>	саас
+
+сыалыһар<NOUN><Number=Sing><Case=Nom>	сыалыһар
+
+хахай<NOUN><Number=Sing><Case=Nom>	хахай
+
+тиит<NOUN><Number=Sing><Case=Nom>	тиит
+
+лааппы<NOUN><Number=Sing><Case=Nom>	лааппы
+
+сыыр<NOUN><Number=Sing><Case=Nom>	сыыр
+
+үрэх<NOUN><Number=Sing><Case=Nom>	үрэх
+
+харах<NOUN><Number=Sing><Case=Nom>	харах
+
+айах<NOUN><Number=Sing><Case=Nom>	айах
+
+уһук<NOUN><Number=Sing><Case=Nom>	уһук
+
+түүн<NOUN><Number=Sing><Case=Nom>	түүн
+
+ыт<NOUN><Number=Sing><Case=Nom>	ыт
+
+булчут<NOUN><Number=Sing><Case=Nom>	булчут
+
+ынах<NOUN><Number=Sing><Case=Nom>	ынах
+
+сүөһү<NOUN><Number=Sing><Case=Nom>	сүөһү
+
+куурусса<NOUN><Number=Sing><Case=Nom>	куурусса
+
+яблоко<NOUN><Number=Sing><Case=Nom>	яблоко
+
+мас<NOUN><Number=Sing><Case=Nom>	мас
+
+саахар<NOUN><Number=Sing><Case=Nom>	саахар
+
+эт<NOUN><Number=Sing><Case=Nom>	эт
+
+хомпуот<NOUN><Number=Sing><Case=Nom>	хомпуот
+
+аан<NOUN><Number=Sing><Case=Nom>	аан
+
+кинигэ<NOUN><Number=Sing><Case=Nom>	кинигэ
+
+сөкүүндэ<NOUN><Number=Sing><Case=Nom>	сөкүүндэ
+
+бэс<NOUN><Number=Sing><Case=Nom>	бэс
+
+кыырт<NOUN><Number=Sing><Case=Nom>	кыырт
+
+сыттык<NOUN><Number=Sing><Case=Nom>	сыттык
+
+бэргэһэ<NOUN><Number=Sing><Case=Nom>	бэргэһэ
+
+кии<NOUN><Number=Sing><Case=Nom>	кии
+
+солуома<NOUN><Number=Sing><Case=Nom>	солуома
+
+мохсоҕол<NOUN><Number=Sing><Case=Nom>	мохсоҕол
+
+кус<NOUN><Number=Sing><Case=Nom>	кус
+
+хотой<NOUN><Number=Sing><Case=Nom>	хотой
+
+оһох<NOUN><Number=Sing><Case=Nom>	оһох
+
+тарбах<NOUN><Number=Sing><Case=Nom>	тарбах
+
+бурдук<NOUN><Number=Sing><Case=Nom>	бурдук
+
+олоҥхо<NOUN><Number=Sing><Case=Nom>	олоҥхо
+
+харандаас<NOUN><Number=Sing><Case=Nom>	харандаас
+
+тыс<NOUN><Number=Sing><Case=Nom>	тыс
+
+тоһоҕо<NOUN><Number=Sing><Case=Nom>	тоһоҕо
+
+кэргэн<NOUN><Number=Sing><Case=Nom>	кэргэн
+
+от<NOUN><Number=Sing><Case=Nom>	от
+
+сибиинньэ<NOUN><Number=Sing><Case=Nom>	сибиинньэ
+
+паарта<NOUN><Number=Sing><Case=Nom>	паарта
+
+рецепт<NOUN><Number=Sing><Case=Nom>	рецепт
+
+оттук<NOUN><Number=Sing><Case=Nom>	оттук
+
+тэрил<NOUN><Number=Sing><Int=Yes><Case=Nom>	тэрилий
+
+иһит<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>	иһиппит
+
+муҥха<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=2><Case=Nom>	муҥхаҕыт
+
+дьон<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	дьонум
+
+эдьиий<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	эдьиийим
+
+атас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	атаһым
+
+илии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	илиим
+
+быраат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	быраатым
+
+балыс<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	балтым
+
+кулгаах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	кулгааҕым
+
+эһэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	эһэм
+
+аат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	аатым
+
+убай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	убайым
+
+бас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	баһым
+
+аҕас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	аҕаһым
+
+аҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	аҕам
+
+ийэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	ийэм
+
+эбэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	эбэм
+
+доҕор<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	доҕорум
+
+буруй<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>	буруйум
+
+дьон<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	дьонуҥ
+
+бас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	баһыҥ
+
+ийэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	ийэҥ
+
+убай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	убайыҥ
+
+аҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	аҕаҥ
+
+илии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	илииҥ
+
+эһэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	эһэҥ
+
+тиис<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>	тииһиҥ
+
+быар<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	быара
+
+хамсааһын<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	хамсааһына
+
+убай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	убайа
+
+көтөр<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	көтөрө
+
+эбэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	эбэтэ
+
+аат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	аата
+
+уус<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	ууһа
+
+аҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	аҕата
+
+дьааһык<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	дьааһыга
+
+доҕор<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	доҕоро
+
+искэх<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>	искэҕэ
+
+паарта<NOUN><Number=Sing><Case=Par>	паартата
+
+уу<NOUN><Number=Sing><Case=Par>	уута
+
+дьиэ<NOUN><Number=Sing><Case=Par>	дьиэтэ
+
+мутукча<NOUN><Number=Sing><Case=Par>	мутукчата
+
+айымньы<NOUN><Number=Sing><Case=Par>	айымньыта
+
+чиэрбэ<NOUN><Number=Sing><Case=Par>	чиэрбэтэ
+
+күөрчэх<NOUN><Number=Sing><Case=Par>	күөрчэхтэ
+
+эт<NOUN><Number=Sing><Case=Par>	эттэ
+
+быа<NOUN><Number=Sing><Case=Par>	быата
+
+сүөгэй<NOUN><Number=Sing><Case=Par>	сүөгэйдэ
+
+мин<NOUN><Number=Sing><Case=Par>	миннэ
+
+саламаат<NOUN><Number=Sing><Case=Par>	саламаатта
+
+илии<NOUN><Number=Sing><Case=Par>	илиитэ
+
+чэй<NOUN><Number=Sing><Case=Par>	чэйдэ
+
+буулка<NOUN><Number=Sing><Case=Par>	буулката
+
+харандаас<NOUN><Number=Sing><Case=Par>	харандааста
+
+тимэх<NOUN><Number=Sing><Case=Par>	тимэхтэ
+
+остуол<NOUN><Number=Sing><Case=Par>	остуолла
+
+оҕо<NOUN><Number=Sing><Case=Par>	оҕото
+
+килиэп<NOUN><Number=Sing><Case=Par>	килиэптэ
+
+кинигэ<NOUN><Number=Sing><Case=Par>	кинигэтэ
+
+үүнүү<NOUN><Number=Sing><Case=Par>	үүнүүтэ
+
+икки<NUM><Case=Acc><NumType=Card>	иккини
+
+икки<NUM><Case=Par><NumType=Card>	иккитэ
+
+биэс<NUM><NumType=Card>	биэс
+
+түөрт<NUM><NumType=Card>	түөрт
+
+онус<NUM><NumType=Card>	онус
+
+икки<NUM><NumType=Card>	икки
+
+уон<NUM><NumType=Card>	уон
+
+алта<NUM><NumType=Card>	алта
+
+үс<NUM><NumType=Card>	үс
+
+биир<NUM><NumType=Card>	биир
+
+кини<PRON><Case=Acc><Number=Plur><Person=3><PronType=Prs>	кинилэри
+
+мин<PRON><Case=Acc><Number=Sing><Person=1><PronType=Prs>	миигин
+
+кини<PRON><Case=Acc><Number=Sing><Person=3><PronType=Prs>	кинини
+
+биһиги<PRON><Case=Dat><Number=Plur><Person=1><PronType=Prs>	биһиэхэ
+
+эһиги<PRON><Case=Dat><Number=Plur><Person=2><PronType=Prs>	эһиэхэ
+
+мин<PRON><Case=Dat><Number=Sing><Person=1><PronType=Prs>	миэхэ
+
+эн<PRON><Case=Dat><Number=Sing><Person=2><PronType=Prs>	эйиэхэ
+
+кини<PRON><Case=Dat><Number=Sing><Person=3><PronType=Prs>	киниэхэ
+
+туох<PRON><Case=Dat><PronType=Int>	туохха
+
+ол<PRON><Case=Dat><PronType=Int>	онуоха
+
+биһиги<PRON><Case=Nom><Number=Plur><Person=1><PronType=Prs>	биһиги
+
+эһиги<PRON><Case=Nom><Number=Plur><Person=2><PronType=Prs>	эһиги
+
+кини<PRON><Case=Nom><Number=Plur><Person=3><PronType=Prs>	кинилэр
+
+бары<PRON><Case=Nom><Number=Plur><Person=3><PronType=Tot>	барытын
+
+мин<PRON><Case=Nom><Number=Sing><Person=1><PronType=Prs>	мин
+
+эн<PRON><Case=Nom><Number=Sing><Person=2><PronType=Prs>	эн
+
+кини<PRON><Case=Nom><Number=Sing><Person=3><PronType=Prs>	кини
+
+бары<PRON><Case=Nom><Number=Sing><Person=3><PronType=Tot>	бары
+
+ким<PRON><Int=Yes><PronType=Int>	кимий
+
+хайдах<PRON><Int=Yes><PronType=Int>	хайдаҕый
+
+ол<PRON><PronType=Dem>	ол
+
+ити<PRON><PronType=Dem>	ити
+
+сорох<PRON><PronType=Ind>	сорох
+
+сорох<PRON><PronType=Ind><Number=Plur>	сорохтор
+
+ким<PRON><PronType=Int>	ким
+
+тугу<PRON><PronType=Int>	тугу
+
+тоҕо<PRON><PronType=Int>	тоҕо
+
+хас<PRON><PronType=Int>	хас
+
+ханна<PRON><PronType=Int>	ханна
+
+ханнык<PRON><PronType=Int>	ханнык
+
+туох<PRON><PronType=Int>	туох
+
+коперник<PROPN>	коперник
+
+мичил<PROPN>	мичил
+
+маша<PROPN>	маша
+
+саша<PROPN>	саша
+
+миша<PROPN>	миша
+
+сайаана<PROPN>	сайаана
+
+кэскил<PROPN>	кэскил
+
+айаана<PROPN>	айаана
+
+сардана<PROPN>	сардана
+
+сергей<PROPN><Case=Com>	сергейдиин
+
+айхал<PROPN><Case=Dat>	айхалга
+
+петров<PROPN><Case=Dat>	петровка
+
+айтал<PROPN><Case=Dat>	айталга
+
+дьокуускай<PROPN><Case=Dat>	дьокуускайга
+
+москва<PROPN><Case=Dat>	москваҕа
+
+кэскил<PROPN><Case=Dat>	кэскилга
+
+кыра<ADJ>	кыра
+
+бөҕө<ADJ>	бөҕө
+
+үрдүкү<ADJ>	үрдүкү
+
+кылгас<ADJ>	кылгас
+
+үрдүк<ADJ>	үрдүк
+
+маҥан<ADJ>	маҥан
+
+саха<ADJ>	саха
+
+кырдьаҕас<ADJ>	кырдьаҕас
+
+алтан<ADJ>	алтан
+
+үчүгэй<ADJ>	үчүгэй
+
+саҥа<ADJ>	саҥа
+
+соҕотох<ADJ>	соҕотох
+
+сүрүн<ADJ>	сүрүн
+
+куһаҕан<ADJ>	куһаҕан
+
+хотугу<ADJ>	хотугу
+
+атын<ADJ>	атын
+
+күүстээх<ADJ>	күүстээх
+
+уран<ADJ>	уран
+
+халтархай<ADJ>	халтархай
+
+хара<ADJ>	хара
+
+улахан<ADJ>	улахан
+
+үрүҥ<ADJ>	үрүҥ
+
+тымныы<ADJ>	тымныы
+
+суон<ADJ>	суон
+
+элбэх<ADJ>	элбэх
+
+киэһээҥи<ADJ>	киэһээҥи
+
+начальнай<ADJ>	начальнай
+
+ыраас<ADJ>	ыраас
+
+ичигэс<ADJ>	ичигэс
+
+синньигэс<ADJ>	синньигэс
+
+эдэр<ADJ>	эдэр
+
+уһун<ADJ>	уһун
+
+дьэҥкир<ADJ>	дьэҥкир
+
+эмис<ADJ>	эмис
+
+ынырык<ADJ><Poss=Yes>	ынырыктаах
+
+эрдии<ADJ><Poss=Yes>	эрдиилээх
+
+ортотугар<ADP>	ортотугар
+
+төһө<ADV>	төһө
+
+өссө<ADV>	өссө
+
+өр<ADV>	өр
+
+киэһэ<ADV>	киэһэ
+
+тилийэ<ADV>	тилийэ
+
+кэриэтэ<ADV>	кэриэтэ
+
+араас<ADV>	араас
+
+оччоҕо<ADV>	оччоҕо
+
+манна<ADV>	манна
+
+кыһын<ADV>	кыһын
+
+аны<ADV>	аны
+
+арыт<ADV>	арыт
+
+таһырдьа<ADV>	таһырдьа
+
+мэлдьи<ADV>	мэлдьи
+
+хат<ADV>	хат
+
+хойут<ADV>	хойут
+
+сайын<ADV>	сайын
+
+кырдьык<ADV>	кырдьык
+
+эрдэ<ADV>	эрдэ
+
+онон<ADV>	онон
+
+бэрт<ADV>	бэрт
+
+туспа<ADV>	туспа
+
+ыраах<ADV>	ыраах
+
+наада<ADV>	наада
+
+онно<ADV>	онно
+
+быйыл<ADV>	быйыл
+
+эмиэ<ADV>	эмиэ
+
+бастаан<ADV>	бастаан
+
+олус<ADV>	олус
+
+бүгүн<ADV>	бүгүн
+
+үчүгэй<ADV>	үчүгэй
+
+онтон<ADV>	онтон
+
+элбэхтэр<ADV>	элбэхтэр
+
+бииргэ<ADV>	бииргэ
+
+сарсын<ADV>	сарсын
+
+бытаан<ADV><ADVLZ=Yes>	бытааннык
+
+симик<ADV><ADVLZ=Yes>	симиктик
+
+улахан<ADV><ADVLZ=Yes>	улаханнык
+
+оттомноох<ADV><ADVLZ=Yes>	оттомноохтук
+
+элбэх<ADV><ADVLZ=Yes>	элбэхтик
+
+үчүгэй<ADV><ADVLZ=Yes>	үчүгэйдик
+
+нуучча<ADV><ADVLZ=Yes>	нууччалыы
+
+саха<ADV><ADVLZ=Yes>	сахалыы
+
+түргэн<ADV><ADVLZ=Yes>	түргэнник
+
+көрдөөх<ADV><ADVLZ=Yes>	көрдөөхтүк
+
+баар<AUX>	баар
+
+суох<AUX>	суох
+
+баар<AUX><Int=Yes>	баарый
+
+баар<AUX><Number=Plur><Person=1><Tense=Pres>	баарбыт
+
+баар<AUX><Number=Plur><Person=3><Tense=Pres>	бааллар
+
+уонна<CCONJ>	уонна
+
+эрээри<CCONJ>	эрээри
+
+син<INTJ>	син
+
+баһаалыста<INTJ>	баһаалыста
+
+аа<INTJ>	аа
+
+чэ<INTJ>	чэ
+
+мэ<INTJ>	мэ
+
+эһээ<INTJ>	эһээ
+
+дуо<PART>	дуо
+
+эрэ<PART>	эрэ
+
+дуу<PART>	дуу
+
+буолуой<PART>	буолуой
+
+бар<VERB><Clusivity=In><Mood=Imp><Number=Sing><Person=1><Tense=Pres>	барыах
+
+бар<VERB><Int=Yes><Number=Plur><Person=3><Tense=Pres>	баралларый
+
+бар<VERB><Int=Yes><Number=Sing><Person=3><Tense=Pres>	барарый
+
+тиэй<VERB><Int=Yes><Number=Sing><Person=3><Tense=Pres>	тиэйэрий
+
+үөрэн<VERB><Int=Yes><Number=Sing><Person=3><Tense=Pres>	үөрэнэрий
+
+эмтээ<VERB><Int=Yes><Number=Sing><Person=3><Tense=Pres>	эмтиирий
+
+гын<VERB><Int=Yes><Number=Sing><Person=3><Tense=Pres>	гынарый
+
+ас<VERB><Mood=Imp><Number=Plur><Person=2><Polarity=Neg><Tense=Pres>	аһымаҥ
+
+сап<VERB><Mood=Imp><Number=Plur><Person=2><Polarity=Neg><Tense=Pres>	сабымаҥ
+
+ыҥыырдаа<VERB><Mood=Imp><Number=Plur><Person=2><Polarity=Neg><Tense=Pres>	ыҥыырдаамаҥ
+
+киллэр<VERB><Mood=Imp><Number=Plur><Person=2><Polarity=Neg><Tense=Pres>	киллэримэҥ
+
+сууй<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	сууйуҥ
+
+эбиэттээ<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	эбиэттэҥ
+
+ас<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	аһыҥ
+
+кэл<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	кэлиҥ
+
+сот<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	сотуҥ
+
+ис<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	иһиҥ
+
+сиэ<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	сиэҥ
+
+тур<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	туруҥ
+
+олор<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	олоруҥ
+
+аһаа<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>	аһааҥ
+
+аһаа<VERB><Mood=Imp><Number=Sing><Person=2><Polarity=Neg><Tense=Pres>	аһаама
+
+сиэ<VERB><Mood=Imp><Number=Sing><Person=2><Polarity=Neg><Tense=Pres>	сиэмэ
+
+быс<VERB><Mood=Imp><Number=Sing><Person=2><Polarity=Neg><Tense=Pres>	быһыма
+
+уур<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	уур
+
+кут<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	кут
+
+аах<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	аах
+
+суруй<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	суруй
+
+тур<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	тур
+
+кэпсээ<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	кэпсээ
+
+кэл<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	кэл
+
+олор<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	олор
+
+ыл<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	ыл
+
+кэт<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	кэт
+
+ис<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	ис
+
+бул<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	бул
+
+көр<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	көр
+
+ыйаа<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	ыйаа
+
+атыылас<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	атыылас
+
+бар<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	бар
+
+быс<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	быс
+
+уруһуйдаа<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	уруһуйдаа
+
+сиэ<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	сиэ
+
+биэр<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	биэр
+
+аһаа<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	аһаа
+
+аҕал<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>	аҕал
+
+ыллаа<VERB><Mood=Imp><Number=Sing><Person=3><Tense=Pres>	ыллаатин
+
+сиэ<VERB><Mood=Imp><Number=Sing><Person=3><Tense=Pres>	сиэтин
+
+аах<VERB><Number=Plur><Person=1><Polarity=Neg><Tense=Pres>	аахпаппыт
+
+тоҥ<VERB><Number=Plur><Person=1><Polarity=Neg><Tense=Pres>	тоҥмоппут
+
+балыктаа<VERB><Number=Plur><Person=1><Tense=Fut>	балыктыахпыт
+
+бар<VERB><Number=Plur><Person=1><Tense=NearPast>	бардыбыт
+
+утуй<VERB><Number=Plur><Person=1><Tense=Pres>	утуйабыт
+
+ыйаа<VERB><Number=Plur><Person=1><Tense=Pres>	ыйыыбыт
+
+ыл<VERB><Number=Plur><Person=1><Tense=Pres>	ылабыт
+
+оҥор<VERB><Number=Plur><Person=1><Tense=Pres>	оҥоробут
+
+үөрэн<VERB><Number=Plur><Person=1><Tense=Pres>	үөрэнэбит
+
+быс<VERB><Number=Plur><Person=2><Polarity=Neg><Tense=NearPast>	быспатыгыт
+
+көлүй<VERB><Number=Plur><Person=2><Polarity=Neg><Tense=Pres>	көлүйбэккит
+
+кэл<VERB><Number=Plur><Person=2><Polarity=Neg><Tense=Pres>	кэлбэккит
+
+бил<VERB><Number=Plur><Person=2><Tense=Pres>	билэҕит
+
+тиэй<VERB><Number=Plur><Person=2><Tense=Pres>	тиэйэҕит
+
+биэр<VERB><Number=Plur><Person=2><Tense=Pres>	биэрэҕит
+
+бар<VERB><Number=Plur><Person=2><Tense=Pres>	бараҕыт
+
+үөрэн<VERB><Number=Plur><Person=2><Tense=Pres>	үөрэнэҕит
+
+тик<VERB><Number=Plur><Person=3><Polarity=Neg><Tense=Pres>	тикпэттэр
+
+киир<VERB><Number=Plur><Person=3><Polarity=Neg><Tense=Pres>	киирбэттэр
+
+оҕус<VERB><Number=Plur><Person=3><Tense=Fut>	охсуохтара
+
+тиэй<VERB><Number=Plur><Person=3><Tense=Fut>	тиэйиэхтэрэ
+
+кэр<VERB><Number=Plur><Person=3><Tense=Fut>	кэрдиэхтэрэ
+
+көлүй<VERB><Number=Plur><Person=3><Tense=Fut>	көлүйүөхтэрэ
+
+кэл<VERB><Number=Plur><Person=3><Tense=NearPast>	кэллилэр
+
+бултаа<VERB><Number=Plur><Person=3><Tense=NearPast>	бултаатылар
+
+бар<VERB><Number=Plur><Person=3><Tense=NearPast>	бардылар
+
+аһаа<VERB><Number=Plur><Person=3><Tense=NearPast>	аһаатылар
+
+утар<VERB><Number=Plur><Person=3><Tense=PastPerf>	утарбыттара
+
+ыйаа<VERB><Number=Plur><Person=3><Tense=Pres>	ыйыыллар
+
+туруор<VERB><Number=Plur><Person=3><Tense=Pres>	туруораллар
+
+таптаа<VERB><Number=Plur><Person=3><Tense=Pres>	таптыыллар
+
+аһаа<VERB><Number=Plur><Person=3><Tense=Pres>	аһыыллар
+
+гын<VERB><Number=Plur><Person=3><Tense=Pres>	гыналлар
+
+сиэ<VERB><Number=Plur><Person=3><Tense=Pres>	сииллэр
+
+үлэлээ<VERB><Number=Plur><Person=3><Tense=Pres>	үлэлииллэр
+
+утуй<VERB><Number=Plur><Person=3><Tense=Pres>	утуйаллар
+
+аах<VERB><Number=Plur><Person=3><Tense=Pres>	ааҕаллар
+
+үөрэн<VERB><Number=Plur><Person=3><Tense=Pres>	үөрэнэллэр
+
+суруй<VERB><Number=Plur><Person=3><Tense=Pres>	суруйаллар
+
+ыл<VERB><Number=Plur><Person=3><Tense=Pres>	ылаллар
+
+атыылаа<VERB><Number=Plur><Person=3><Tense=Pres>	атыылыыллар
+
+олор<VERB><Number=Plur><Person=3><Tense=Pres>	олороллор
+
+бултаа<VERB><Number=Plur><Person=3><Tense=Pres>	бултууллар
+
+тур<VERB><Number=Plur><Person=3><Tense=Pres>	тураллар
+
+уур<VERB><Number=Plur><Person=3><Tense=Pres>	уураллар
+
+атыылас<VERB><Number=Plur><Person=3><Tense=Pres>	атыылаһаллар
+
+иһит<VERB><Number=Plur><Person=3><Tense=Pres>	истэллэр
+
+балыктаа<VERB><Number=Plur><Person=3><Tense=Pres>	балыктыыллар
+
+биэр<VERB><Number=Plur><Person=3><Tense=Pres>	биэрэллэр
+
+хайыһардаа<VERB><Number=Plur><Person=3><Tense=Pres>	хайыһардыыллар
+
+үлэлээ<VERB><Number=Sing><Person=1><Tense=Fut>	үлэлиэҕим
+
+ыл<VERB><Number=Sing><Person=1><Tense=Fut>	ылыаҕым
+
+кэл<VERB><Number=Sing><Person=1><Tense=NearPast>	кэллим
+
+ыыт<VERB><Number=Sing><Person=1><Tense=NearPast>	ыыттым
+
+өлөр<VERB><Number=Sing><Person=1><Tense=NearPast>	өлөрдүм
+
+сууй<VERB><Number=Sing><Person=1><Tense=NearPast>	сууннум
+
+түс<VERB><Number=Sing><Person=1><Tense=PastPerf>	түспүтүм
+
+олор<VERB><Number=Sing><Person=1><Tense=PastPerf>	олорбутум
+
+көр<VERB><Number=Sing><Person=1><Tense=PastPerf>	көрбүтүм
+
+бил<VERB><Number=Sing><Person=1><Tense=PastPerf>	билбитим
+
+көт<VERB><Number=Sing><Person=1><Tense=PastPerf>	көппүтүм
+
+үөрэн<VERB><Number=Sing><Person=1><Tense=Pres>	үөрэнэбин
+
+аах<VERB><Number=Sing><Person=1><Tense=Pres>	ааҕабын
+
+бил<VERB><Number=Sing><Person=2><Polarity=Neg><Tense=Pres>	билбэккин
+
+буол<VERB><Number=Sing><Person=2><Tense=Fut>	буолуоҥ
+
+манаа<VERB><Number=Sing><Person=2><Tense=Fut>	маныаҕыҥ
+
+суулун<VERB><Number=Sing><Person=2><Tense=PastPerf>	сууллубутуҥ
+
+кэт<VERB><Number=Sing><Person=2><Tense=Pres>	кэтэҕин
+
+көр<VERB><Number=Sing><Person=2><Tense=Pres>	көрөҕүн
+
+үөрэн<VERB><Number=Sing><Person=2><Tense=Pres>	үөрэнэҕин
+
+гын<VERB><Number=Sing><Person=2><Tense=Pres>	гынаҕын
+
+ыа<VERB><Number=Sing><Person=2><Tense=Pres>	ыыгын
+
+таптаа<VERB><Number=Sing><Person=2><Tense=Pres>	таптыыгын
+
+буол<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=PastResultI>	буолбатах
+
+киир<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>	киирбэт
+
+көр<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>	көрбөт
+
+ыарый<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>	ыалдьыбат
+
+үөрэн<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>	үөрэммэт
+
+саҥар<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>	саҥарбат
+
+кэт<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>	кэппэт
+
+ыл<VERB><Number=Sing><Person=3><Tense=Fut>	ылыаҕа
+
+аҕал<VERB><Number=Sing><Person=3><Tense=NearPast>	аҕалла
+
+киир<VERB><Number=Sing><Person=3><Tense=NearPast>	киирдэ
+
+быс<VERB><Number=Sing><Person=3><Tense=NearPast>	быста
+
+тот<VERB><Number=Sing><Person=3><Tense=NearPast>	тотто
+
+аһаа<VERB><Number=Sing><Person=3><Tense=NearPast>	аһаата
+
+отун<VERB><Number=Sing><Person=3><Tense=NearPast>	отунна
+
+кэл<VERB><Number=Sing><Person=3><Tense=NearPast>	кэллэ
+
+ыл<VERB><Number=Sing><Person=3><Tense=NearPast>	ылла
+
+көрдөс<VERB><Number=Sing><Person=3><Tense=NearPast>	көрдөстө
+
+эт<VERB><Number=Sing><Person=3><Tense=NearPast>	эттэ
+
+бар<VERB><Number=Sing><Person=3><Tense=NearPast>	барда
+
+атыылас<VERB><Number=Sing><Person=3><Tense=NearPast>	атыыласта
+
+ыыт<VERB><Number=Sing><Person=3><Tense=NearPast>	ыытта
+
+кут<VERB><Number=Sing><Person=3><Tense=NearPast>	кутта
+
+сөтүөлээ<VERB><Number=Sing><Person=3><Tense=NearPast>	сөтүөлээтэ
+
+киир<VERB><Number=Sing><Person=3><Tense=PastPerf>	киирбитэ
+
+түс<VERB><Number=Sing><Person=3><Tense=PastPerf>	түспүтэ
+
+туһалаа<VERB><Number=Sing><Person=3><Tense=PastPerf>	туһалаабыта
+
+ыйыһын<VERB><Number=Sing><Person=3><Tense=PastResultI>	ыйыстыбыт
+
+ыарый<VERB><Number=Sing><Person=3><Tense=Pres>	ыалдьар
+
+үүн<VERB><Number=Sing><Person=3><Tense=Pres>	үүнэр
+
+үөрэн<VERB><Number=Sing><Person=3><Tense=Pres>	үөрэнэр
+
+туруор<VERB><Number=Sing><Person=3><Tense=Pres>	туруорар
+
+үөрэт<VERB><Number=Sing><Person=3><Tense=Pres>	үөрэтэр
+
+олор<VERB><Number=Sing><Person=3><Tense=Pres>	олорор
+
+бар<VERB><Number=Sing><Person=3><Tense=Pres>	барар
+
+сырыт<VERB><Number=Sing><Person=3><Tense=Pres>	сылдьар
+
+кэт<VERB><Number=Sing><Person=3><Tense=Pres>	кэтэр
+
+суруй<VERB><Number=Sing><Person=3><Tense=Pres>	суруйар
+
+үөскээ<VERB><Number=Sing><Person=3><Tense=Pres>	үөскүүр
+
+аах<VERB><Number=Sing><Person=3><Tense=Pres>	ааҕар
+
+сууй<VERB><Number=Sing><Person=3><Tense=Pres>	суунар
+
+аһаа<VERB><Number=Sing><Person=3><Tense=Pres>	аһыыр
+
+оргуй<VERB><Number=Sing><Person=3><Tense=Pres>	оргуйар
+
+өлөр<VERB><Number=Sing><Person=3><Tense=Pres>	өлөрөр
+
+түс<VERB><Number=Sing><Person=3><Tense=Pres>	түһэр
+
+тур<VERB><Number=Sing><Person=3><Tense=Pres>	турар
+
+кэпсээ<VERB><Number=Sing><Person=3><Tense=Pres>	кэпсиир
+
+утуй<VERB><Number=Sing><Person=3><Tense=Pres>	утуйар
+
+ас<VERB><Number=Sing><Person=3><Tense=Pres>	аһар
+
+иһит<VERB><Number=Sing><Person=3><Tense=Pres>	истэр
+
+аас<VERB><Number=Sing><Person=3><Tense=Pres>	ааһар
+
+таптаа<VERB><Number=Sing><Person=3><Tense=Pres>	таптыыр
+
+ис<VERB><Number=Sing><Person=3><Tense=Pres>	иһэр
+
+атыылаа<VERB><Number=Sing><Person=3><Tense=Pres>	атыылыыр
+
+кэл<VERB><Number=Sing><Person=3><Tense=Pres>	кэлэр
+
+көр<VERB><Number=Sing><Person=3><Tense=Pres>	көрөр
+
+сиэ<VERB><Number=Sing><Person=3><Tense=Pres>	сиир
+
+үлэлээ<VERB><Number=Sing><Person=3><Tense=Pres>	үлэлиир
+
+киир<VERB><Number=Sing><Person=3><Tense=Pres>	киирэр
+
+аһыы<VERB><Number=Sing><Person=3><Tense=Pres>	аһыыр
+
+таҕыс<VERB><Number=Sing><Person=3><Tense=Pres>	тахсар
+
+ыл<VERB><Number=Sing><Person=3><Tense=Pres>	ылар
+
+буол<VERB><Number=Sing><Person=3><Tense=Pres>	буолар
+
+оҕус<VERB><Number=Sing><Person=3><Tense=Pres>	охсор
+
+сыт<VERB><Number=Sing><Person=3><Tense=Pres>	сытар
+
+тоҥ<VERB><Number=Sing><Person=3><Tense=Pres>	тоҥор
+
+ыа<VERB><Number=Sing><Person=3><Tense=Pres>	ыыр
+
+үр<VERB><Number=Sing><Person=3><Tense=Pres>	үрэр
+
+ыҥыр<VERB><Number=Sing><Person=3><Tense=Pres>	ыҥырар
+
+гын<VERB><Number=Sing><Person=3><Tense=Pres>	гынар
+
+уст<VERB><Number=Sing><Person=3><Tense=Pres>	устар
+
+күл<VERB><Tense=Pres><VerbForm=Trans>	күлэ
+
+үүн<VERB><Tense=Pres><VerbForm=Trans>	үүнэ
+

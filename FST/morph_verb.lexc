@@ -1,0 +1,342 @@
+! In this file there are VERBS PART AUX and INTJ
+						
+
+Multichar_Symbols %<VERB%> %<AUX%>
+        %<Number=Sing%> %<Number=Plur%> %{I%} %{A%} %{AA%} %{DF%} %{B%} %{M%} %{II%} %{F%} %{T%} %{G%} %{L%} %{R%} %{E%} %{V%}
+		%<Person=1%> %<Person=2%> %<Person=3%>%<Tense=Pres%>
+		%<Polarity=Neg%>  
+		%<Tense=Pres%> %<Tense=Past%> %<Tense=Fut%>  %<Tense=NearPast%> %<Tense=Fut%>
+		!%<Person=2%>%<Tense=Pres%>%<Mood=Imp%>
+		%<Mood=Imp%>
+		%<PART%>
+
+LEXICON Root
+	VERB;
+	PART;
+	ADV;
+	ADP;
+	ADJ;
+	AUX;
+	INTJ;
+	CCONJ;
+
+LEXICON  PART
+дуо	PARTfirst;
+дуу	PARTfirst;
+эрэ	PARTfirst;
+буолуой	PARTfirst;
+
+LEXICON PARTfirst
+%<PART%>:0 #;
+
+LEXICON  CCONJ
+уонна CCONJfirst;
+эрээри CCONJfirst;
+
+LEXICON CCONJfirst
+%<CCONJ%>:0 #;
+
+LEXICON  INTJ
+баһаалыста INTJfirst;
+аа INTJfirst;
+син INTJfirst;
+эһээ INTJfirst;
+мэ INTJfirst;
+чэ INTJfirst;
+
+LEXICON INTJfirst
+%<INTJ%>:0 #;
+
+
+LEXICON  ADP
+ортотугар	 ADPfirst;
+
+LEXICON ADPfirst
+%<ADP%>:0 #;
+
+LEXICON  AUX
+баар	 AUXfirst;
+суох	 AUXfirst;
+
+LEXICON AUXfirst
+%<AUX%>:0 AUXPoss;
+%<AUX%>%<Number=Plur%>%<Person=1%>%<Tense=Pres%>:быт #;
+%<AUX%>%<Number=Plur%>%<Person=3%>%<Tense=Pres%>:лар #;
+
+LEXICON AUXPoss
+	#;
+%<Int=Yes%>:%{I%}й #;
+
+
+LEXICON  ADV
+элбэх ADVfirst;
+араас ADVfirst;
+элбэхтэр ADVfirst;
+тилийэ ADVfirst;
+төһө ADVfirst;
+мэлдьи ADVfirst;
+арыт ADVfirst;
+бэрт ADVfirst;
+өр ADVfirst;
+кырдьык ADVfirst;
+наада ADVfirst;
+онон ADVfirst;
+бүгүн ADVfirst;
+туспа ADVfirst;
+эрдэ ADVfirst;
+сарсын ADVfirst;
+аны ADVfirst;
+кыһын ADVfirst;
+кэриэтэ ADVfirst;
+хойут ADVfirst;
+оччоҕо ADVfirst;
+сайын ADVfirst;
+хат ADVfirst;
+бииргэ ADVfirst;
+киэһэ ADVfirst;
+эмиэ ADVfirst;
+быйыл ADVfirst;
+өссө ADVfirst;
+онтон ADVfirst;
+курдук ADVfirst;
+бастаан ADVfirst;
+ыраах ADVfirst;
+үчүгэй ADVfirst;
+манна ADVfirst;
+онно ADVfirst;
+таһырдьа ADVfirst;
+түргэн ADVfirst;
+олус ADVfirst;
+ханна ADVfirst;
+көрдөөх ADVfirst;
+симик ADVfirst;
+оттомноох ADVfirst;
+үчүгэй ADVfirst;
+бытаан ADVfirst;
+улахан ADVfirst;
+
+нуучча ADVADVLZlii;
+саха ADVADVLZlii;
+
+LEXICON ADVfirst
+%<ADV%>:^0	ADVADVLZtik;
+
+LEXICON ADVADVLZtik
+	#;
+%<ADVLZ=Yes%>:%{T%}%{I%}к #;
+
+LEXICON ADVADVLZlii
+%<ADV%>:0 #;
+%<ADV%>%<ADVLZ=Yes%>:лыы #;
+
+LEXICON  ADJ
+кыра ADJfirst;
+атын ADJfirst;
+киэһээҥи ADJfirst;
+күүстээх ADJfirst;
+уран ADJfirst;
+бөҕө ADJfirst;
+улахан ADJfirst;
+саха ADJfirst;
+сүрүн ADJfirst;
+үрдүкү ADJfirst;
+маҥан ADJfirst;
+үрдүк ADJfirst;
+халтархай ADJfirst;
+алтан ADJfirst;
+куһаҕан ADJfirst;
+үчүгэй ADJfirst;
+саҥа ADJfirst;
+үрүҥ ADJfirst;
+соҕотох ADJfirst;
+дьэҥкир ADJfirst;
+кырдьаҕас ADJfirst;
+ыраас ADJfirst;
+ичигэс ADJfirst;
+хара ADJfirst;
+кылгас ADJfirst;
+синньигэс ADJfirst;
+уһун ADJfirst;
+суон ADJfirst;
+элбэх ADJfirst;
+хотугу ADJfirst;
+тымныы ADJfirst;
+эдэр ADJfirst;
+эмис ADJfirst;
+урүҥ ADJfirst;
+начальнай ADJfirst;
+ынырык ADJfirst;
+эрдии ADJfirst;
+
+LEXICON ADJfirst
+%<ADJ%>:^0	ADJPoss;
+
+LEXICON ADJPoss
+	#;
+%<Poss=Yes%>:%{T%}%{A%}%{A%}х #;
+
+
+LEXICON VERB
+аас	verbfirst;
+аах	verbfirst;
+аҕал	verbfirst;
+араар	verbfirst;
+арый	verbfirst;
+ас	verbfirst;
+атыылаа	verbfirst;
+атыылас	verbfirst;
+аһаа	verbfirst;
+аһыы	verbfirst;
+балыктаа	verbfirst;
+бар	verbfirst;
+бил	verbfirst;
+биэр	verbfirst;
+бул	verbfirst;
+бултаа	verbfirst;
+буол	verbfirst;
+быс	verbfirst;
+гын	verbfirst;
+ис	verbfirst;
+иһит	verbfirst;
+киир	verbfirst;
+киллэр	verbfirst;
+көлүй	verbfirst;
+көр	verbfirst;
+көрдөс	verbfirst;
+көт	verbfirst;
+кут	verbfirst;
+күл	verbfirst;
+кэл	verbfirst;
+кэпсээ	verbfirst;
+кэр	verbfirst;
+кэт	verbfirst;
+манаа	verbfirst;
+оҕус	verbfirst;
+олор	verbfirst;
+оҥор	verbfirst;
+оргуй	verbfirst;
+отун	verbfirst;
+өлөр	verbfirst;
+саҥар	verbfirst;
+сап	verbfirst;
+сатаа	verbfirst;
+сиэ	verbfirst;
+сот	verbfirst;
+сөтүөлээ	verbfirst;
+суруй	verbfirst;
+суу	verbfirst;
+сууй	verbfirst;
+суулун	verbfirst;
+сырыт	verbfirst;
+сыт	verbfirst;
+таҕыс	verbfirst;
+таптаа	verbfirst;
+тик	verbfirst;
+тиэй	verbfirst;
+тоҥ	verbfirst;
+тот	verbfirst;
+тур	verbfirst;
+туруор	verbfirst;
+туһалаа	verbfirst;
+түс	verbfirst;
+уруһуйдаа	verbfirst;
+уст	verbfirst;
+утар	verbfirst;
+утуй	verbfirst;
+уур	verbfirst;
+уус	verbfirst;
+үлэлээ	verbfirst;
+үөрэн	verbfirst;
+үөрэт	verbfirst;
+үөскээ	verbfirst;
+үр	verbfirst;
+үүн	verbfirst;
+хайыһардаа	verbfirst;
+ыа	verbfirst;
+ыар	verbfirst;
+ыарый	verbfirst;
+ыйаа	verbfirst;
+ыйыһын	verbfirst;
+ыл	verbfirst;
+ыллаа	verbfirst;
+ыҥыр	verbfirst;
+ыҥыырдаа	verbfirst;
+ыыт	verbfirst;
+эбиэттээ	verbfirst;
+эмтээ	verbfirst;
+эт	verbfirst;
+
+LEXICON verbfirst
+%<VERB%>:^ verb_person;
+
+LEXICON verb_person
+%<Clusivity=In%>%<Mood=Imp%>%<Number=Sing%>%<Person=1%>%<Tense=Pres%>:ыах	#;
+%<Number=Sing%>%<Person=1%>%<Tense=Pres%>:%{V%}б%{I%}н	#;
+%<Number=Plur%>%<Person=1%>%<Tense=Pres%>:'%{II%}б%{I%}т	#;
+
+%<Number=Plur%>%<Person=1%>%<Polarity=Neg%>%<Tense=Pres%>:%{M%}%{A%}пп%{I%}т	#;
+%<Number=Plur%>%<Person=3%>%<Polarity=Neg%>%<Tense=Pres%>:%{B%}%{A%}тт%{A%}р       #;
+
+%<Number=Plur%>%<Person=2%>%<Polarity=Neg%>%<Tense=NearPast%>:п%{A%}т%{I%}г%{I%}т	#;
+
+%<Int=Yes%>%<Number=Plur%>%<Person=3%>%<Tense=Pres%>:'%{E%}лл%{A%}р%{I%}й      #;
+
+%<Number=Sing%>%<Person=1%>%<Tense=NearPast%>:%{L%}%{I%}м	#;
+%<Number=Plur%>%<Person=1%>%<Tense=NearPast%>:%{L%}%{I%}б%{I%}т	#;
+
+%<Number=Sing%>%<Person=3%>%<Tense=NearPast%>:%{L%}%{A%}	#;
+%<Number=Plur%>%<Person=3%>%<Tense=NearPast%>:%{T%}%{I%}%{L%}%{A%}р	#;
+
+%<Number=Sing%>%<Person=1%>%<Tense=PastPerf%>:%{B%}%{I%}т%{I%}м	#;
+%<Number=Sing%>%<Person=2%>%<Tense=PastPerf%>:б%{I%}т%{I%}ҥ	#;
+%<Number=Sing%>%<Person=3%>%<Tense=PastPerf%>:б%{I%}т%{A%}	#;
+%<Number=Plur%>%<Person=3%>%<Tense=PastPerf%>:б%{I%}тт%{A%}ра	#;
+
+%<Number=Sing%>%<Person=2%>%<Tense=Pres%>:'%{A%}%{G%}%{I%}н       #;
+%<Number=Plur%>%<Person=2%>%<Tense=Pres%>:'%{A%}%{G%}%{I%}т	#;
+%<Mood=Imp%>%<Number=Sing%>%<Person=2%>%<Tense=Pres%>:0       #;
+%<Mood=Imp%>%<Number=Plur%>%<Person=2%>%<Tense=Pres%>:'%{I%}ҥ  #;
+
+%<Mood=Imp%>%<Number=Sing%>%<Person=2%>%<Polarity=Neg%>%<Tense=Pres%>:´м%{A%}       #;
+%<Mood=Imp%>%<Number=Plur%>%<Person=2%>%<Polarity=Neg%>%<Tense=Pres%>:´м%{A%}ҥ       #;
+%<Number=Sing%>%<Person=2%>%<Polarity=Neg%>%<Tense=Pres%>:%{B%}%{A%}кк%{I%}н       #;
+%<Number=Plur%>%<Person=2%>%<Polarity=Neg%>%<Tense=Pres%>:%{B%}%{A%}кк%{I%}т       #;
+
+
+%<Number=Sing%>%<Person=3%>%<Tense=Pres%>:'%{A%}р      #;
+%<Tense=Pres%>%<VerbForm=Trans%>:'%{A%}      #;
+
+%<Number=Sing%>%<Person=3%>%<Tense=PastResultI%>:б%{I%}т      #;
+%<Number=Sing%>%<Person=3%>%<Polarity=Neg%>%<Tense=PastResultI%>:%{B%}%{A%}т%{A%}х      #;
+
+%<Int=Yes%>%<Number=Sing%>%<Person=3%>%<Tense=Pres%>:'%{A%}р%{I%}й      #;
+%<Number=Sing%>%<Person=3%>%<Polarity=Neg%>%<Tense=Pres%>:%{B%}%{A%}т	#;
+%<Number=Plur%>%<Person=3%>%<Tense=Pres%>:'%{A%}лл%{A%}р      #;
+%<Mood=Imp%>%<Number=Sing%>%<Person=3%>%<Tense=Pres%>:тин	#;
+
+%<Number=Sing%>%<Person=1%>%<Tense=Fut%>:%{DF%}ҕ%{I%}м      #;
+%<Number=Plur%>%<Person=1%>%<Tense=Fut%>:%{DF%}хп%{I%}т      #;
+%<Number=Sing%>%<Person=2%>%<Tense=Fut%>:ҕ%{I%}ҥ      #;
+%<Number=Sing%>%<Person=3%>%<Tense=Fut%>:%{F%}аҕа      #;
+
+%<Number=Plur%>%<Person=3%>%<Tense=Fut%>:%{DF%}хт%{AA%}р%{AA%}     #;
+
+!LEXICON verb_number
+!%<Number=Sing%>:0       verb_int;
+!%<Number=Plur%>:%{L%}%{A%}р   verb_int;
+
+!LEXICON verb_int
+!	#;
+!%<Int=Yes%>:ий       #;
+
+
+!LEXICON exception
+!буол:%<Number=Sing%>%<Person=2%>%<Tense=Fut%>:буолуоҥ    #;
+
+!ыа:%<VERB%>%<Number=Sing%>%<Person=3%>%<Tense=Pres%>:ыыр    #;
+
+
+! !!Fish:%<PL%>:0               #;
+! !mouse:%<PL%>:mice    #;
+
+
