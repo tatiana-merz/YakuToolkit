@@ -1,4 +1,4 @@
-диэн	+?
+диэн	диэн<CCONJ>
 
 уонна	уонна<CCONJ>
 
@@ -8,22 +8,24 @@
 
 ол	ол<PRON><PronType=Dem>
 
-да	+?
+да	да<CCONJ>
+да	да<PART>
 
 саха	саха<ADJ>
 саха	саха<ADV>
+саха	саха<NOUN><Number=Sing><Case=Nom>
 
 буолар	буол<VERB><Number=Sing><Person=3><Tense=Pres>
 
 дьон	дьон<NOUN><Number=Sing><Case=Nom>
 
+эрэ	эр<VERB><Tense=Pres><VerbForm=Trans>
 эрэ	эр<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 эрэ	эрэ<PART>
 
 улахан	улахан<ADJ>
-улахан	улахан<ADV>
 
-сөп	+?
+сөп	сөп<ADJ>
 
 суох	суох<AUX>
 
@@ -31,7 +33,7 @@
 
 оҕо	оҕо<NOUN><Number=Sing><Case=Nom>
 
-курдук	курдук<ADV>
+курдук	курдук<ADJ>
 
 баар	баар<AUX>
 
@@ -44,35 +46,37 @@
 
 олус	олус<ADV>
 
-буолан	+?
+буолан	буолан<PART>
 
 баран	+?
 
 эмиэ	эмиэ<ADV>
 
-ордук	+?
+ордук	ордук<NOUN><Number=Sing><Case=Nom>
 
 кыра	кыра<ADJ>
 
-санаа	+?
+санаа	санаа<VERB><Tense=Pres><VerbForm=Trans>
+санаа	санаа<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+санаа	санаа<NOUN><Number=Sing><Case=Nom>
 
 үчүгэй	үчүгэй<ADJ>
-үчүгэй	үчүгэй<ADV>
 
 куһаҕан	куһаҕан<ADJ>
 
-сахалар	+?
+сахалар	саха<NOUN><Number=Plur><Case=Nom>
 
 этэ	эт<VERB><Tense=Pres><VerbForm=Trans>
 этэ	эт<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-кытта	+?
+кытта	кытта<CCONJ>
 
 сыл	сыл<NOUN><Number=Sing><Case=Nom>
 
-эбэтэр	+?
+эбэтэр	эбэтэр<CCONJ>
 
-санаата	+?
+санаата	санаа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+санаата	санаа<NOUN><Number=Sing><Case=Par>
 
 аан	аан<NOUN><Number=Sing><Case=Nom>
 
@@ -80,46 +84,48 @@
 
 бары	бары<PRON><Case=Nom><Number=Sing><Person=3><PronType=Tot>
 
-билигин	+?
+билигин	билигин<ADV>
 
 атын	ат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 атын	атын<ADJ>
 
-араас	араас<ADV>
+араас	араас<ADJ>
 
 тыл	тыл<NOUN><Number=Sing><Case=Nom>
 
 оҥорор	+?
 
-өй	+?
+өй	өй<NOUN><Number=Sing><Case=Nom>
 
-өйө	+?
+өйө	өй<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-иһин	+?
+иһин	иһин<ADP>
 
-кэмҥэ	+?
+кэмҥэ	кэм<NOUN><Number=Sing><Case=Dat>
 
-айыы	+?
+айыы	айыы<NOUN><Number=Sing><Case=Nom>
 
-аһара	+?
+аһара	аһар<VERB><Tense=Pres><VerbForm=Trans>
+аһара	аһара<ADV>
 
-эбит	+?
+эбит	эбит<PART>
 
 дойду	дойду<NOUN><Number=Sing><Case=Nom>
 
 иһэр	ис<VERB><Number=Sing><Person=3><Tense=Pres>
 
-былыргы	+?
+былыргы	былыргы<ADJ>
 
 бэйэтин	+?
 
 саҥа	саҥа<ADJ>
+саҥа	саҥа<NOUN><Number=Sing><Case=Nom>
 
 туох	туох<PRON><PronType=Int>
 
 сыллаахха	+?
 
-таҥара	+?
+таҥара	таҥара<NOUN><Number=Sing><Case=Nom>
 
 ону	+?
 
@@ -131,33 +137,38 @@
 
 аата	аат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-бэйэтэ	+?
+бэйэтэ	бэйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+бэйэтэ	бэйэ<NOUN><Number=Sing><Case=Par>
 
 ханнык	ханнык<PRON><PronType=Int>
 
-бастакы	+?
+бастакы	бастакы<ADJ>
 
 биллэр	+?
 
-барыта	+?
+барыта	барыта<NOUN><Number=Sing><Case=Nom>
 
-туһунан	+?
+туһунан	туһунан<CCONJ>
+туһунан	тус<NOUN><Number=Sing><Case=Ins>
 
 ийэ	ийэ<NOUN><Number=Sing><Case=Nom>
 
 эмэ	эмп<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+эмэ	эмэ<PART>
 
 өссө	өссө<ADV>
 
-олох	+?
+олох	олох<ADV>
+олох	олох<NOUN><Number=Sing><Case=Nom>
 
-сыыһа	+?
+сыыһа	сыыһа<NOUN><Number=Sing><Case=Nom>
+сыыһа	сыыс<VERB><Tense=Pres><VerbForm=Trans>
 
 кэмигэр	+?
 
 кэнниттэн	+?
 
-омук	+?
+омук	омук<NOUN><Number=Sing><Case=Nom>
 
 баҕа	баҕа<NOUN><Number=Sing><Case=Nom>
 
@@ -175,19 +186,20 @@
 
 санаатын	+?
 
-олоххо	+?
+олоххо	олох<NOUN><Number=Sing><Case=Dat>
 
-ахсаана	+?
+ахсаана	ахсаан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 сүрүн	сүрүн<ADJ>
+сүрүн	сүрүн<NOUN><Number=Sing><Case=Nom>
 
-кэлин	+?
+кэлин	кэлин<NOUN><Number=Sing><Case=Nom>
 
-саҥаны	+?
+саҥаны	саҥа<NOUN><Number=Sing><Case=Acc>
 
 буолуу	+?
 
-хаһан	+?
+хаһан	хаһан<PRON><PronType=Int>
 
 сайдан	+?
 
@@ -197,20 +209,21 @@
 
 онно	онно<ADV>
 
-быһаарар	+?
+быһаарар	быһаар<VERB><Number=Sing><Person=3><Tense=Pres>
 
 маннык	+?
 
-баҕарар	+?
+баҕарар	баҕар<VERB><Number=Sing><Person=3><Tense=Pres>
 
 оҥорон	+?
 
-даҕаны	+?
+даҕаны	даҕаны<CCONJ>
 
 оҕону	оҕо<NOUN><Number=Sing><Case=Acc>
 
 диэри	+?
 
+сир	сир<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 сир	сир<NOUN><Number=Sing><Case=Nom>
 
 буоллаҕына	+?
@@ -227,21 +240,23 @@
 
 кут	кут<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 
+уһун	уһун<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 уһун	уһун<ADJ>
 
 дьонун	дьон<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 улаатан	+?
 
-бэйэлэрин	+?
+бэйэлэрин	бэйэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+бэйэлэрин	бэйэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 үөрэҕэ	үөрэх<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 сирин	сир<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
-этии	+?
+этии	этии<NOUN><Number=Sing><Case=Nom>
 
-айыыны	+?
+айыыны	айыы<NOUN><Number=Sing><Case=Acc>
 
 кыайан	+?
 
@@ -256,34 +271,40 @@
 дьону	дьон<NOUN><Number=Sing><Case=Acc>
 
 элбэхтик	элбэх<ADV><ADVLZ=Yes>
+элбэхтик	элбэхтик<ADV>
 
-дьоҥҥо	дьон<NOUN><Number=Sing><Case=Dat>
+дьоҥҥо	+?
 
 сахалыы	саха<ADV><ADVLZ=Yes>
 
-орто	+?
+орто	орто<ADJ>
+орто	орто<NOUN><Number=Sing><Case=Nom>
 
 дойдуга	дойду<NOUN><Number=Sing><Case=Dat>
 
 киирэн	+?
 
 эдэр	эдэр<ADJ>
+эдэр	эдэр<NOUN><Number=Sing><Case=Nom>
 
 хайдах	хайдах<PRON><PronType=Int>
 
-санаалара	+?
+санаалара	санаа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+санаалара	санаа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
+таба	таба<ADJ>
 таба	таба<NOUN><Number=Sing><Case=Nom>
 
 буолбута	+?
 
-дьоно	дьон<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+дьоно	+?
 
 үрдүк	үрдүк<ADJ>
 
-саамай	+?
+саамай	саамай<ADJ>
 
 тылын	тыл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+тылын	тылын<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 
 кэлэр	кэл<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -307,9 +328,9 @@
 
 бастаан	бастаан<ADV>
 
-үлэ	+?
+үлэ	үлэ<NOUN><Number=Sing><Case=Nom>
 
-таһынан	+?
+таһынан	тас<NOUN><Number=Sing><Case=Ins>
 
 манна	манна<ADV>
 
@@ -321,15 +342,16 @@
 
 диэки	+?
 
-өйүн	+?
+өйүн	өй<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 сылдьан	+?
 
 сорох	сорох<PRON><PronType=Ind>
 
-тус	+?
+тус	тус<ADJ>
+тус	тус<NOUN><Number=Sing><Case=Nom>
 
-санааны	+?
+санааны	санаа<NOUN><Number=Sing><Case=Acc>
 
 км	+?
 
@@ -351,9 +373,10 @@
 
 буолара	+?
 
-санаатыгар	+?
+санаатыгар	санаа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
 
-төрөөбүт	+?
+төрөөбүт	төрөө<VERB><Number=Plur><Person=1><Tense=Pres>
+төрөөбүт	төрөө<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
 гынан	+?
 
@@ -362,10 +385,11 @@
 тахсар	таҕыс<VERB><Number=Sing><Person=3><Tense=Pres>
 
 төһө	төһө<ADV>
+төһө	төһө<PRON><PronType=Int>
 
-иккис	+?
+иккис	иккис<NUM><NumType=Card>
 
-улуу	+?
+улуу	улуу<ADJ>
 
 эрдэҕинэ	+?
 
@@ -373,7 +397,7 @@
 
 үөһээ	+?
 
-айылҕа	+?
+айылҕа	айылҕа<NOUN><Number=Sing><Case=Nom>
 
 ыйын	ый<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
@@ -383,11 +407,11 @@
 
 буолаллар	буол<VERB><Number=Plur><Person=3><Tense=Pres>
 
-бэйэ	+?
+бэйэ	бэйэ<NOUN><Number=Sing><Case=Nom>
 
 өйүгэр	+?
 
-туһалаах	+?
+туһалаах	туһалаах<ADJ>
 
 бааллар	баар<AUX><Number=Plur><Person=3><Tense=Pres>
 
@@ -399,7 +423,7 @@
 
 бииргэ	бииргэ<ADV>
 
-иһигэр	+?
+иһигэр	иһигэр<ADJ>
 
 үөскээн	+?
 
@@ -443,6 +467,7 @@
 
 кыахтаах	+?
 
+хос	хос<ADJ>
 хос	хос<NOUN><Number=Sing><Case=Nom>
 
 тириэрдэр	+?
@@ -455,7 +480,8 @@
 
 итинник	+?
 
-санааларын	+?
+санааларын	санаа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+санааларын	санаа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 үөскээбит	үөскээ<VERB><Number=Plur><Person=1><Tense=Pres>
 үөскээбит	үөскээ<VERB><Number=Sing><Person=3><Tense=PastResultI>
@@ -470,23 +496,24 @@
 
 куоракка	куорат<NOUN><Number=Sing><Case=Dat>
 
-кыһыл	+?
+кыһыл	кыһыл<ADJ>
 
 аҕа	аҕа<NOUN><Number=Sing><Case=Nom>
 
-аҕыйах	+?
+аҕыйах	аҕыйах<ADJ>
 
 холобур	+?
 
 биэрэр	биэр<VERB><Number=Sing><Person=3><Tense=Pres>
 
+эр	эр<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 эр	эр<NOUN><Number=Sing><Case=Nom>
 
-арыгы	+?
+арыгы	арыгы<NOUN><Number=Sing><Case=Nom>
 
 хаан	хаан<NOUN><Number=Sing><Case=Nom>
 
-үлэни	+?
+үлэни	үлэ<NOUN><Number=Sing><Case=Acc>
 
 санаалаах	+?
 
@@ -494,30 +521,31 @@
 
 киһилии	+?
 
-түргэнник	түргэн<ADV><ADVLZ=Yes>
+түргэнник	түргэнник<ADV>
 
 хайаан	+?
 
 тыллар	тыл<NOUN><Number=Plur><Case=Nom>
 
-киин	+?
+киин	киин<NOUN><Number=Sing><Case=Nom>
 
 тэҥэ	+?
 
 куруук	+?
 
-баай	+?
+баай	баай<NOUN><Number=Sing><Case=Nom>
 
 билэн	+?
 
 маҥнай	+?
 
-кыаҕа	+?
+кыаҕа	кыах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 былаас	+?
 
-урукку	+?
+урукку	урукку<ADJ>
 
+нуучча	нуучча<ADJ>
 нуучча	нуучча<ADV>
 нуучча	нуучча<NOUN><Number=Sing><Case=Nom>
 
@@ -535,11 +563,12 @@
 
 тыла	тыл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-өйдөрө	+?
+өйдөрө	өй<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 биирдэ	+?
 
-илин	+?
+илин	ил<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+илин	илин<NOUN><Number=Sing><Case=Nom>
 
 өлбүт	+?
 
@@ -551,23 +580,25 @@
 
 билиҥҥи	+?
 
-үтүө	+?
+үтүө	үтүө<ADJ>
 
 оҥоро	+?
 
 биирдии	+?
 
-улаханнык	улахан<ADV><ADVLZ=Yes>
+улаханнык	улаханнык<ADV>
 
-бэйэлэрэ	+?
+бэйэлэрэ	бэйэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+бэйэлэрэ	бэйэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 баара	+?
 
 быһаччы	+?
 
-төрүт	+?
+төрүт	төрүт<NOUN><Number=Sing><Case=Nom>
 
-үлэҕэ	+?
+үлэҕэ	үлэ<NOUN><Number=Sing><Case=Dat>
+үлэҕэ	үлэх<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 кыахтанар	+?
 
@@ -583,17 +614,18 @@
 
 дылы	+?
 
+аайы	аайы<ADJ>
 аайы	аайы<DET>
 
 ыла	ыл<VERB><Tense=Pres><VerbForm=Trans>
 
 аныгы	+?
 
-олохторун	+?
+олохторун	олох<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
-кэмэ	+?
+кэмэ	кэм<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-оттон	+?
+оттон	оттон<CCONJ>
 
 тылынан	тыл<NOUN><Number=Sing><Case=Ins>
 
@@ -611,11 +643,11 @@
 
 олохтоох	+?
 
-арыгыны	+?
+арыгыны	арыгы<NOUN><Number=Sing><Case=Acc>
 
 наада	наада<ADV>
 
-урут	+?
+урут	урут<ADV>
 
 сотору	+?
 
@@ -635,7 +667,7 @@
 
 быһыытын	+?
 
-сүр	+?
+сүр	сүр<NOUN><Number=Sing><Case=Nom>
 
 ким	ким<PRON><PronType=Int>
 
@@ -643,6 +675,7 @@
 
 хоту	хоту<NOUN><Number=Sing><Case=Nom>
 
+өр	өр<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 өр	өр<ADV>
 
 уларыйан	+?
@@ -651,7 +684,7 @@
 
 тиийэн	+?
 
-үйэ	+?
+үйэ	үйэ<NOUN><Number=Sing><Case=Nom>
 
 быһаарыллар	+?
 
@@ -661,7 +694,7 @@
 
 сылга	сыл<NOUN><Number=Sing><Case=Dat>
 
-салайар	+?
+салайар	салай<VERB><Number=Sing><Person=3><Tense=Pres>
 
 тутулуктаах	+?
 
@@ -673,19 +706,19 @@
 
 төрөппүттэр	+?
 
-тыа	+?
+тыа	тыа<NOUN><Number=Sing><Case=Nom>
 
 сылларга	сыл<NOUN><Number=Plur><Case=Dat>
 
 үөрэнэн	+?
 
-өйү	+?
+өйү	өй<NOUN><Number=Sing><Case=Acc>
 
 арассыыйа	+?
 
 кинини	кини<PRON><Case=Acc><Number=Sing><Person=3><PronType=Prs>
 
-букатын	+?
+букатын	букатын<ADV>
 
 син	син<INTJ>
 
@@ -700,18 +733,19 @@
 үлэлээбит	үлэлээ<VERB><Number=Plur><Person=1><Tense=Pres>
 үлэлээбит	үлэлээ<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
-улуус	+?
+улуус	улуус<NOUN><Number=Sing><Case=Nom>
 
 этэллэр	эт<VERB><Number=Plur><Person=3><Tense=Pres>
 
 оннук	+?
 
-киинэ	+?
+киинэ	киин<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 мин	мин<NOUN><Number=Sing><Case=Nom>
 мин	мин<PRON><Case=Nom><Number=Sing><Person=1><PronType=Prs>
 
-хаалар	+?
+хаалар	хаал<VERB><Number=Sing><Person=3><Tense=Pres>
+хаалар	хаалар<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 
 анаан	+?
 
@@ -722,19 +756,19 @@
 
 толору	+?
 
-ааттыыллар	+?
+ааттыыллар	ааттаа<VERB><Number=Plur><Person=3><Tense=Pres>
 
-үлэһит	+?
+үлэһит	үлэһит<NOUN><Number=Sing><Case=Nom>
 
 истэҕинэ	+?
 
 иһэн	+?
 
-киэҥ	+?
+киэҥ	киэҥ<ADJ>
 
 маны	бу<DET><Case=Acc>
 
-түбэһэр	+?
+түбэһэр	түбэс<VERB><Number=Sing><Person=3><Tense=Pres>
 
 оҕото	оҕо<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 оҕото	оҕо<NOUN><Number=Sing><Case=Par>
@@ -744,22 +778,23 @@
 
 буолууну	+?
 
-кэм	+?
+кэм	кэм<NOUN><Number=Sing><Case=Nom>
 
 сатаан	+?
 
 эт	эт<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 эт	эт<NOUN><Number=Sing><Case=Nom>
 
-туран	+?
+туран	туран<PART>
 
-улаатар	+?
+улаатар	улаат<VERB><Number=Sing><Person=3><Tense=Pres>
 
 көрөр	көр<VERB><Number=Sing><Person=3><Tense=Pres>
 
-хаалбыт	+?
+хаалбыт	хаал<VERB><Number=Plur><Person=1><Tense=Pres>
+хаалбыт	хаал<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
-сахаларга	+?
+сахаларга	саха<NOUN><Number=Plur><Case=Dat>
 
 өйдөөх	+?
 
@@ -775,7 +810,7 @@
 
 ааттаах	+?
 
-өс	+?
+өс	өс<NOUN><Number=Sing><Case=Nom>
 
 туһугар	+?
 
@@ -787,17 +822,18 @@
 
 гына	гын<VERB><Tense=Pres><VerbForm=Trans>
 
-норуот	+?
+норуот	норуот<NOUN><Number=Sing><Case=Nom>
 
 үөрэтэн	+?
 
-өрө	+?
+өрө	өр<VERB><Tense=Pres><VerbForm=Trans>
+өрө	өрө<ADV>
 
 тыыннаах	+?
 
-эрэр	+?
+эрэр	эр<VERB><Number=Sing><Person=3><Tense=Pres>
 
-ыал	+?
+ыал	ыал<NOUN><Number=Sing><Case=Nom>
 
 суол	суол<NOUN><Number=Sing><Case=Nom>
 
@@ -813,13 +849,13 @@
 
 быһаарыы	+?
 
-арай	+?
+арай	арай<ADJ>
 
 үрдүкү	үрдүкү<ADJ>
 
 иҥэн	+?
 
-билии	+?
+билии	билии<NOUN><Number=Sing><Case=Nom>
 
 ирдэнэр	+?
 
@@ -836,11 +872,13 @@
 
 биллибэт	+?
 
+сирэ	сир<VERB><Tense=Pres><VerbForm=Trans>
 сирэ	сир<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-тимир	+?
+тимир	тимир<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+тимир	тимир<NOUN><Number=Sing><Case=Nom>
 
-бэлиэтиир	+?
+бэлиэтиир	бэлиэтээ<VERB><Number=Sing><Person=3><Tense=Pres>
 
 ыарыы	+?
 
@@ -854,7 +892,7 @@
 
 ылбыта	ыл<VERB><Number=Sing><Person=3><Tense=PastPerf>
 
-үчүгэйдик	үчүгэй<ADV><ADVLZ=Yes>
+үчүгэйдик	үчүгэйдик<ADV>
 
 биэрэн	+?
 
@@ -866,7 +904,7 @@
 
 оскуола	оскуола<NOUN><Number=Sing><Case=Nom>
 
-ситэ	+?
+ситэ	сит<VERB><Tense=Pres><VerbForm=Trans>
 
 олорон	+?
 
@@ -874,13 +912,14 @@
 
 түмүгэр	+?
 
-тас	+?
+тас	тас<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+тас	тас<NOUN><Number=Sing><Case=Nom>
 
 буолуута	+?
 
 дьэ	+?
 
-тиийэр	+?
+тиийэр	тиий<VERB><Number=Sing><Person=3><Tense=Pres>
 
 олорбут	олор<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
@@ -896,13 +935,13 @@
 
 уола	уол<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-күүскэ	+?
+күүскэ	күүс<NOUN><Number=Sing><Case=Dat>
 
 иһэллэр	ис<VERB><Number=Plur><Person=3><Tense=Pres>
 
 табыллар	+?
 
-кэмнэргэ	+?
+кэмнэргэ	кэм<NOUN><Number=Plur><Case=Dat>
 
 кылгас	кылгас<ADJ>
 
@@ -912,13 +951,14 @@
 
 буолла	буол<VERB><Number=Sing><Person=3><Tense=NearPast>
 
+быһа	быһа<ADV>
 быһа	быс<VERB><Tense=Pres><VerbForm=Trans>
 
 муус	+?
 
 туттар	+?
 
-аймах	+?
+аймах	аймах<NOUN><Number=Sing><Case=Nom>
 
 сатыыр	сатаа<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -950,11 +990,12 @@
 
 көрсүө	+?
 
-үлэтэ	+?
+үлэтэ	үлэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+үлэтэ	үлэ<NOUN><Number=Sing><Case=Par>
 
 сүөһү	сүөһү<NOUN><Number=Sing><Case=Nom>
 
-буолуо	+?
+буолуо	буолуо<PART>
 
 билэллэр	бил<VERB><Number=Plur><Person=3><Tense=Pres>
 
@@ -968,21 +1009,21 @@
 
 сайдыылаах	+?
 
-эбии	+?
+эбии	эбии<NOUN><Number=Sing><Case=Nom>
 
 барыларын	+?
 
 аатын	аат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
-илик	+?
+илик	илик<PART>
 
-үйэҕэ	+?
+үйэҕэ	үйэ<NOUN><Number=Sing><Case=Dat>
 
 өттүнэн	+?
 
 үрдүгэр	+?
 
-таас	+?
+таас	таас<NOUN><Number=Sing><Case=Nom>
 
 тоҕо	тоҕо<PRON><PronType=Int>
 
@@ -991,7 +1032,7 @@
 
 бэрт	бэрт<ADV>
 
-олоҕо	+?
+олоҕо	олох<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 чилиэнэ	+?
 
@@ -1029,9 +1070,9 @@
 
 быһыыларын	+?
 
-тутар	+?
+тутар	тут<VERB><Number=Sing><Person=3><Tense=Pres>
 
-айылҕаҕа	+?
+айылҕаҕа	айылҕа<NOUN><Number=Sing><Case=Dat>
 
 оҥорорго	+?
 
@@ -1043,17 +1084,17 @@
 
 сылтан	сыл<NOUN><Number=Sing><Case=Abl>
 
-бэйэтигэр	+?
+бэйэтигэр	бэйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
 
 уо	+?
 
 сыыйа	+?
 
-маҥнайгы	+?
+маҥнайгы	маҥнайгы<ADJ>
 
 сайдар	+?
 
-сырдык	+?
+сырдык	сырдык<ADJ>
 
 биирдэстэрэ	+?
 
@@ -1075,11 +1116,12 @@
 кэлбит	кэл<VERB><Number=Plur><Person=1><Tense=Pres>
 кэлбит	кэл<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
-таҥараларын	+?
+таҥараларын	таҥара<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+таҥараларын	таҥара<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 кэргэн	кэргэн<NOUN><Number=Sing><Case=Nom>
 
-үһү	+?
+үһү	үһү<PART>
 
 быһыылара	+?
 
@@ -1087,9 +1129,9 @@
 
 уопсай	+?
 
-күүһэ	+?
+күүһэ	күүс<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-уустук	+?
+уустук	уустук<ADJ>
 
 сылдьыбыта	+?
 
@@ -1099,15 +1141,15 @@
 
 өрөспүүбүлүкэтин	+?
 
-эдэрдэр	+?
+эдэрдэр	эдэр<NOUN><Number=Plur><Case=Nom>
 
 оннугар	+?
 
-бөдөҥ	+?
+бөдөҥ	бөдөҥ<ADJ>
 
-кытаанах	+?
+кытаанах	кытаанах<ADJ>
 
-таһаарар	+?
+таһаарар	таһаар<VERB><Number=Sing><Person=3><Tense=Pres>
 
 саҕалаан	+?
 
@@ -1118,6 +1160,7 @@
 сэриитин	+?
 
 буолбатах	буол<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=PastResultI>
+буолбатах	буолбатах<CCONJ>
 
 дойдуну	+?
 
@@ -1129,17 +1172,17 @@
 
 соҕотох	соҕотох<ADJ>
 
-уһуна	+?
+уһуна	уһун<VERB><Tense=Pres><VerbForm=Trans>
 
 буолбуттара	+?
 
 олохторугар	+?
 
-туһаналлар	+?
+туһаналлар	туһан<VERB><Number=Plur><Person=3><Tense=Pres>
 
 туһанан	+?
 
-ситиһэр	+?
+ситиһэр	ситис<VERB><Number=Sing><Person=3><Tense=Pres>
 
 түһэр	түс<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -1150,11 +1193,11 @@
 
 көтөр	көтөр<NOUN><Number=Sing><Case=Nom>
 
-күөх	+?
+күөх	күөх<ADJ>
 
 түһэн	+?
 
-этиини	+?
+этиини	этии<NOUN><Number=Sing><Case=Acc>
 
 уран	уран<ADJ>
 
@@ -1164,7 +1207,7 @@
 
 үөрэтиигэ	+?
 
-чугас	+?
+чугас	чугас<ADJ>
 
 сиин	+?
 
@@ -1174,7 +1217,7 @@
 
 төрөппүт	+?
 
-айар	+?
+айар	ай<VERB><Number=Sing><Person=3><Tense=Pres>
 
 уон	уон<NUM><NumType=Card>
 
@@ -1200,7 +1243,7 @@
 
 быһааран	+?
 
-туһанар	+?
+туһанар	туһан<VERB><Number=Sing><Person=3><Tense=Pres>
 
 оскуолаҕа	оскуола<NOUN><Number=Sing><Case=Dat>
 
@@ -1210,7 +1253,7 @@
 
 сэриигэ	+?
 
-айылҕаны	+?
+айылҕаны	айылҕа<NOUN><Number=Sing><Case=Acc>
 
 тыһ	+?
 
@@ -1250,7 +1293,7 @@
 
 буолуохтаах	+?
 
-ахсааннара	+?
+ахсааннара	ахсаан<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 тахсыбыта	+?
 
@@ -1290,7 +1333,7 @@
 
 тыллары	тыл<NOUN><Number=Plur><Case=Acc>
 
-бастыҥ	+?
+бастыҥ	бастыҥ<ADJ>
 
 киһиттэн	+?
 
@@ -1313,21 +1356,22 @@
 барбыт	бар<VERB><Number=Plur><Person=1><Tense=Pres>
 барбыт	бар<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
+ааспыт	аас<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
 ааспыт	аас<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
 түүр	+?
 
 суруйааччы	+?
 
-кырдьык	кырдьык<ADV>
+кырдьык	кырдьык<ADJ>
 
-ыраах	ыраах<ADV>
+ыраах	ыраах<ADJ>
 
 устар	уст<VERB><Number=Sing><Person=3><Tense=Pres>
 
 суруйар	суруй<VERB><Number=Sing><Person=3><Tense=Pres>
 
-тиийэ	+?
+тиийэ	тиий<VERB><Tense=Pres><VerbForm=Trans>
 
 үүнэр	үүн<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -1351,11 +1395,11 @@
 
 өһөс	+?
 
-бүтүн	+?
+бүтүн	бүтүн<ADJ>
 
 киниэхэ	кини<PRON><Case=Dat><Number=Sing><Person=3><PronType=Prs>
 
-билиини	+?
+билиини	билии<NOUN><Number=Sing><Case=Acc>
 
 барбыта	бар<VERB><Number=Sing><Person=3><Tense=PastPerf>
 
@@ -1374,11 +1418,11 @@
 
 үөрэнэ	үөрэн<VERB><Tense=Pres><VerbForm=Trans>
 
-анал	+?
+анал	анал<NOUN><Number=Sing><Case=Nom>
 
 этэн	+?
 
-түбэспэт	+?
+түбэспэт	түбэс<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
 
 иһэрин	+?
 
@@ -1393,7 +1437,7 @@
 
 дойдуларга	дойду<NOUN><Number=Plur><Case=Dat>
 
-үлэһитэ	+?
+үлэһитэ	үлэһит<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 оҥороллор	+?
 
@@ -1401,7 +1445,7 @@
 
 кинилэри	кини<PRON><Case=Acc><Number=Plur><Person=3><PronType=Prs>
 
-үлэтигэр	+?
+үлэтигэр	үлэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
 
 тутталлар	+?
 
@@ -1432,7 +1476,7 @@
 
 оччотооҕу	+?
 
-күүс	+?
+күүс	күүс<NOUN><Number=Sing><Case=Nom>
 
 туһаныы	+?
 
@@ -1440,7 +1484,7 @@
 
 үөрэхтээх	+?
 
-тута	+?
+тута	тут<VERB><Tense=Pres><VerbForm=Trans>
 
 эти	эт<NOUN><Number=Sing><Case=Acc>
 
@@ -1450,7 +1494,7 @@
 
 дорҕоон	+?
 
-атырдьах	+?
+атырдьах	атырдьах<NOUN><Number=Sing><Case=Nom>
 
 кииниттэн	+?
 
@@ -1458,9 +1502,9 @@
 
 сатааһын	+?
 
-ырыа	+?
+ырыа	ырыа<NOUN><Number=Sing><Case=Nom>
 
-хараҥа	+?
+хараҥа	хараҥа<ADJ>
 
 эрдэттэн	+?
 
@@ -1472,7 +1516,7 @@
 
 истэн	+?
 
-атаах	+?
+атаах	атаах<ADJ>
 
 тутулуга	+?
 
@@ -1480,7 +1524,7 @@
 
 өттүн	+?
 
-көмө	+?
+көмө	көмө<NOUN><Number=Sing><Case=Nom>
 
 ууну	уу<NOUN><Number=Sing><Case=Acc>
 
@@ -1489,15 +1533,15 @@
 
 олохсуйбут	+?
 
-сэттэ	+?
+сэттэ	сэттэ<NUM><NumType=Card>
 
-дии	+?
+дии	дии<PART>
 
 таһыгар	+?
 
 суруйбута	суруй<VERB><Number=Sing><Person=3><Tense=PastPerf>
 
-лаппа	+?
+лаппа	лаппа<ADV>
 
 көтөн	+?
 
@@ -1505,11 +1549,11 @@
 
 тылга	тыл<NOUN><Number=Sing><Case=Dat>
 
-өйдөрүн	+?
+өйдөрүн	өй<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 европа	+?
 
-тутуһар	+?
+тутуһар	тутус<VERB><Number=Sing><Person=3><Tense=Pres>
 
 баһылаан	+?
 
@@ -1517,9 +1561,9 @@
 
 үөрэхтэрин	+?
 
-балаҕан	+?
+балаҕан	балаҕан<NOUN><Number=Sing><Case=Nom>
 
-санаалар	+?
+санаалар	санаа<NOUN><Number=Plur><Case=Nom>
 
 ыҥырар	ыҥыр<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -1527,19 +1571,19 @@
 
 уларыйар	+?
 
-тутаах	+?
+тутаах	тутаах<NOUN><Number=Sing><Case=Nom>
 
 үйэтин	+?
 
 васильевич	+?
 
-үлэһиттэр	+?
+үлэһиттэр	үлэһит<NOUN><Number=Plur><Case=Nom>
 
 дьиҥнээх	+?
 
 оҥорууга	+?
 
-үйэлэргэ	+?
+үйэлэргэ	үйэ<NOUN><Number=Plur><Case=Dat>
 
 быһыыга	+?
 
@@ -1547,7 +1591,7 @@
 
 дьонугар	+?
 
-харчы	+?
+харчы	харчы<NOUN><Number=Sing><Case=Nom>
 
 бэриллэр	+?
 
@@ -1557,9 +1601,9 @@
 
 норуотун	+?
 
-кыратык	+?
+кыратык	кыратык<ADV>
 
-кыаҕын	+?
+кыаҕын	кыах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 оскуолатын	+?
 
@@ -1571,7 +1615,7 @@
 
 эбиттэр	+?
 
-өйгө	+?
+өйгө	өй<NOUN><Number=Sing><Case=Dat>
 
 ыраахтааҕы	+?
 
@@ -1579,10 +1623,11 @@
 
 быһаарыыны	+?
 
-таҥараны	+?
+таҥараны	таҥара<NOUN><Number=Sing><Case=Acc>
 
-кыахтара	+?
+кыахтара	кыах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
+ортотугар	орто<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
 ортотугар	ортотугар<ADP>
 
 өйдөөн	+?
@@ -1591,7 +1636,7 @@
 
 инники	+?
 
-сыыһаны	+?
+сыыһаны	сыыһа<NOUN><Number=Sing><Case=Acc>
 
 күнэ	күн<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
@@ -1599,16 +1644,18 @@
 
 кэбиһэр	+?
 
-баайа	+?
+баайа	баай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 хаһаайыстыбатын	+?
 
 үгүстүк	+?
 
 көрө	көр<VERB><Tense=Pres><VerbForm=Trans>
+көрө	көр<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 николаевич	+?
 
+эрдэ	эр<VERB><Number=Sing><Person=3><Tense=NearPast>
 эрдэ	эр<NOUN><Number=Sing><Case=Par>
 эрдэ	эрдэ<ADV>
 
@@ -1620,7 +1667,7 @@
 
 диэни	+?
 
-этиигэ	+?
+этиигэ	этии<NOUN><Number=Sing><Case=Dat>
 
 ыам	+?
 
@@ -1632,7 +1679,8 @@
 
 элбэҕи	+?
 
-үлэлэрин	+?
+үлэлэрин	үлэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+үлэлэрин	үлэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 кутугар	+?
 
@@ -1640,7 +1688,7 @@
 
 бэлиэ	+?
 
-кэминэн	+?
+кэминэн	кэм<NOUN><Number=Sing><Case=Ins>
 
 кэргэнэ	кэргэн<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
@@ -1650,7 +1698,7 @@
 
 сайдыы	+?
 
-көрүү	+?
+көрүү	көрүү<NOUN><Number=Sing><Case=Nom>
 
 үксүгэр	+?
 
@@ -1666,7 +1714,7 @@
 
 харыстааһын	+?
 
-тула	+?
+тула	тула<NOUN><Number=Sing><Case=Nom>
 
 охсон	+?
 
@@ -1703,13 +1751,13 @@
 
 өлбүтүн	+?
 
-саныыр	+?
+саныыр	санаа<VERB><Number=Sing><Person=3><Tense=Pres>
 
 сылларыгар	+?
 
 нөҥүө	+?
 
-учуутал	+?
+учуутал	учуутал<NOUN><Number=Sing><Case=Nom>
 
 суруллубут	+?
 
@@ -1739,7 +1787,8 @@
 
 кэриҥэ	+?
 
-мэҥэ	+?
+мэҥэ	мэҥ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+мэҥэ	мэҥэ<ADJ>
 
 иванович	+?
 
@@ -1753,13 +1802,13 @@
 
 туттан	+?
 
-айылҕаттан	+?
+айылҕаттан	айылҕа<NOUN><Number=Sing><Case=Abl>
 
 оҥорбута	+?
 
-ил	+?
+ил	ил<NOUN><Number=Sing><Case=Nom>
 
-тэҥ	+?
+тэҥ	тэҥ<ADJ>
 
 тэҥнээн	+?
 
@@ -1795,13 +1844,13 @@
 
 тыллаах	+?
 
-тэҥҥэ	+?
+тэҥҥэ	тэҥҥэ<ADV>
 
 киллэрэр	киллэр<VERB><Number=Sing><Person=3><Tense=Pres>
 
 ыарыыны	+?
 
-санаалары	+?
+санаалары	санаа<NOUN><Number=Plur><Case=Acc>
 
 дьарыктанар	+?
 
@@ -1819,7 +1868,7 @@
 
 оҥостон	+?
 
-иитэр	+?
+иитэр	иит<VERB><Number=Sing><Person=3><Tense=Pres>
 
 суруйааччыларын	+?
 
@@ -1829,7 +1878,7 @@
 
 дьиэтигэр	+?
 
-эрэн	+?
+эрэн	эрэн<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 
 иһэрэ	+?
 
@@ -1849,7 +1898,8 @@
 
 уҥа	+?
 
-этиилэрэ	+?
+этиилэрэ	этии<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+этиилэрэ	этии<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 мантан	+?
 
@@ -1861,7 +1911,7 @@
 
 буолбат	буол<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
 
-уот	+?
+уот	уот<NOUN><Number=Sing><Case=Nom>
 
 күүһүрэн	+?
 
@@ -1869,15 +1919,16 @@
 
 ааһар	аас<VERB><Number=Sing><Person=3><Tense=Pres>
 
-кыайа	+?
+кыайа	кыай<VERB><Tense=Pres><VerbForm=Trans>
 
 оҕолоругар	+?
 
 уратыларын	+?
 
-сулус	+?
+сулус	сулус<NOUN><Number=Sing><Case=Nom>
 
 бөҕө	бөҕө<ADJ>
+бөҕө	бөх<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 тылбыт	тыл<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
 
@@ -1895,7 +1946,7 @@
 
 алдан	+?
 
-билимин	+?
+билимин	билим<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 сылтаан	+?
 
@@ -1915,11 +1966,11 @@
 
 сирдэрэ	сир<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-уларыйбат	+?
+уларыйбат	уларый<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
 
-норуоттар	+?
+норуоттар	норуот<NOUN><Number=Plur><Case=Nom>
 
-кыах	+?
+кыах	кыах<NOUN><Number=Sing><Case=Nom>
 
 элбиир	+?
 
@@ -1933,7 +1984,7 @@
 
 үгэстэри	+?
 
-тиийбэт	+?
+тиийбэт	тиий<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
 
 аньыы	+?
 
@@ -1953,7 +2004,7 @@
 
 иитэн	+?
 
-куһаҕана	+?
+куһаҕана	куһаҕана<ADJ>
 
 олортон	+?
 
@@ -1961,13 +2012,13 @@
 
 арыы	арыы<NOUN><Number=Sing><Case=Nom>
 
-көлүөнэ	+?
+көлүөнэ	көлүөнэ<NOUN><Number=Sing><Case=Nom>
 
 киирэллэр	киир<VERB><Number=Plur><Person=3><Tense=Pres>
 
-кэмин	+?
+кэмин	кэм<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
-дьоннор	дьон<NOUN><Number=Plur><Case=Nom>
+дьоннор	+?
 
 сэргэ	+?
 
@@ -1980,9 +2031,10 @@
 туохха	туох<PRON><Case=Dat><PronType=Int>
 
 кыһын	кыһын<ADV>
+кыһын	кыһын<NOUN><Number=Sing><Case=Nom>
 кыһын	кыс<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
-ай	+?
+ай	ай<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 
 уратылаах	+?
 
@@ -2024,7 +2076,7 @@
 
 сүрүннээн	+?
 
-айыылар	+?
+айыылар	айыы<NOUN><Number=Plur><Case=Nom>
 
 сө	+?
 
@@ -2032,11 +2084,11 @@
 
 бириэмэҕэ	+?
 
-айан	+?
+айан	айан<NOUN><Number=Sing><Case=Nom>
 
 дойдуларыгар	+?
 
-тохсунньу	+?
+тохсунньу	тохсунньу<NOUN><Number=Sing><Case=Nom>
 
 сис	сис<NOUN><Number=Sing><Case=Nom>
 
@@ -2053,7 +2105,7 @@
 
 олоро	олор<VERB><Tense=Pres><VerbForm=Trans>
 
-туһана	+?
+туһана	туһан<VERB><Tense=Pres><VerbForm=Trans>
 
 ыт	ыт<NOUN><Number=Sing><Case=Nom>
 
@@ -2115,7 +2167,7 @@
 
 дьоппуон	+?
 
-саҕалаабыта	+?
+саҕалаабыта	саҕалаа<VERB><Number=Sing><Person=3><Tense=PastPerf>
 
 буолуулара	+?
 
@@ -2126,6 +2178,7 @@
 семен	+?
 
 ыаллар	ыа<VERB><Number=Plur><Person=3><Tense=Pres>
+ыаллар	ыал<NOUN><Number=Plur><Case=Nom>
 
 туһалыыр	туһалаа<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -2165,7 +2218,7 @@
 
 анаммыт	+?
 
-санаатынан	+?
+санаатынан	санаа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
 
 умнан	+?
 
@@ -2181,7 +2234,7 @@
 
 сирдэргэ	сир<NOUN><Number=Plur><Case=Dat>
 
-билим	+?
+билим	билим<NOUN><Number=Sing><Case=Nom>
 
 ылынар	+?
 
@@ -2191,7 +2244,7 @@
 
 быһаарыылаах	+?
 
-ортотунан	+?
+ортотунан	орто<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
 
 тардыытын	+?
 
@@ -2209,7 +2262,7 @@
 
 буоларыгар	+?
 
-кыайар	+?
+кыайар	кыай<VERB><Number=Sing><Person=3><Tense=Pres>
 
 боотур	+?
 
@@ -2219,11 +2272,11 @@
 
 биэрэллэр	биэр<VERB><Number=Plur><Person=3><Tense=Pres>
 
-көлүөнэлэр	+?
+көлүөнэлэр	көлүөнэ<NOUN><Number=Plur><Case=Nom>
 
 биллибит	бил<VERB><Number=Plur><Person=1><Tense=NearPast>
 
-эрэллэр	+?
+эрэллэр	эр<VERB><Number=Plur><Person=3><Tense=Pres>
 
 улааппыт	+?
 
@@ -2231,13 +2284,13 @@
 
 маҥан	маҥан<ADJ>
 
-хантан	+?
+хантан	хантан<PRON><PronType=Int>
 
 биһиэхэ	биһиги<PRON><Case=Dat><Number=Plur><Person=1><PronType=Prs>
 
 көнө	+?
 
-элбээтэ	+?
+элбээтэ	элбээ<VERB><Number=Sing><Person=3><Tense=NearPast>
 
 ардыгар	+?
 
@@ -2251,11 +2304,12 @@
 
 түүн	түүн<NOUN><Number=Sing><Case=Nom>
 
-таҥаралара	+?
+таҥаралара	таҥара<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+таҥаралара	таҥара<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 өйүнэн	+?
 
-салайааччы	+?
+салайааччы	салайааччы<NOUN><Number=Sing><Case=Nom>
 
 ырытан	+?
 
@@ -2263,7 +2317,7 @@
 
 дэнэр	+?
 
-таҥаралар	+?
+таҥаралар	таҥара<NOUN><Number=Plur><Case=Nom>
 
 история	+?
 
@@ -2275,7 +2329,7 @@
 
 иннигэр	+?
 
-омугу	+?
+омугу	омук<NOUN><Number=Sing><Case=Acc>
 
 рсфср	+?
 
@@ -2291,7 +2345,7 @@
 
 майгы	+?
 
-быһаараллар	+?
+быһаараллар	быһаар<VERB><Number=Plur><Person=3><Tense=Pres>
 
 сөбүлүүр	+?
 
@@ -2299,7 +2353,7 @@
 
 өлөн	+?
 
-ыра	+?
+ыра	ыр<VERB><Tense=Pres><VerbForm=Trans>
 
 киирсэллэр	+?
 
@@ -2364,7 +2418,7 @@
 
 амма	+?
 
-хаалбыта	+?
+хаалбыта	хаал<VERB><Number=Sing><Person=3><Tense=PastPerf>
 
 көрдөххө	+?
 
@@ -2373,6 +2427,7 @@
 баһылыыр	+?
 
 көрүҥ	көр<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>
+көрүҥ	көр<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>
 
 бастакынан	+?
 
@@ -2386,7 +2441,7 @@
 
 буоларынан	+?
 
-кэмнэрэ	+?
+кэмнэрэ	кэм<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 суолунан	+?
 
@@ -2423,17 +2478,17 @@
 
 диэкки	+?
 
-алтынньы	+?
+алтынньы	алтынньы<NOUN><Number=Sing><Case=Nom>
 
 оҥордоҕуна	+?
 
-олохторо	+?
+олохторо	олох<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-үөрүйэх	+?
+үөрүйэх	үөрүйэх<NOUN><Number=Sing><Case=Nom>
 
-хата	+?
+хата	хата<ADV>
 
-тимири	+?
+тимири	тимир<NOUN><Number=Sing><Case=Acc>
 
 онуоха	ол<PRON><Case=Dat><PronType=Int>
 
@@ -2457,7 +2512,8 @@
 
 сойуус	+?
 
-үлэлэрэ	+?
+үлэлэрэ	үлэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+үлэлэрэ	үлэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 сүрэх	+?
 
@@ -2514,13 +2570,13 @@
 
 олоҥхо	олоҥхо<NOUN><Number=Sing><Case=Nom>
 
-сүнньүнэн	+?
+сүнньүнэн	сүнньүнэн<ADV>
 
 ыытыллыбыт	+?
 
 таҥас	таҥас<NOUN><Number=Sing><Case=Nom>
 
-илэ	+?
+илэ	ил<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 түүлүгэр	+?
 
@@ -2530,7 +2586,7 @@
 
 аһы	ас<NOUN><Number=Sing><Case=Acc>
 
-атыннык	+?
+атыннык	атыннык<ADV>
 
 балык	балык<NOUN><Number=Sing><Case=Nom>
 
@@ -2540,7 +2596,7 @@
 
 млн	+?
 
-олунньу	+?
+олунньу	олунньу<NOUN><Number=Sing><Case=Nom>
 
 бараллар	бар<VERB><Number=Plur><Person=3><Tense=Pres>
 
@@ -2554,7 +2610,7 @@
 
 хаар	хаар<NOUN><Number=Sing><Case=Nom>
 
-учуутала	+?
+учуутала	учуутал<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 хатылаан	+?
 
@@ -2564,7 +2620,7 @@
 
 эйэлээх	+?
 
-көрдөбүл	+?
+көрдөбүл	көрдөбүл<NOUN><Number=Sing><Case=Nom>
 
 өйдөбүллэрэ	+?
 
@@ -2580,17 +2636,17 @@
 
 ылынан	+?
 
-тоҕус	+?
+тоҕус	тоҕус<NUM><NumType=Card>
 
 көтөрдөр	көтөр<NOUN><Number=Plur><Case=Nom>
 
-тулуура	+?
+тулуура	тулуур<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 хоһоонноро	+?
 
-судургу	+?
+судургу	судургу<ADJ>
 
-тутта	+?
+тутта	тут<VERB><Number=Sing><Person=3><Tense=NearPast>
 
 салҕанан	+?
 
@@ -2608,11 +2664,11 @@
 
 ыччат	+?
 
-ахсынньы	+?
+ахсынньы	ахсынньы<NOUN><Number=Sing><Case=Nom>
 
 бэлиэтинэн	+?
 
-айыылары	+?
+айыылары	айыы<NOUN><Number=Plur><Case=Acc>
 
 өлүөнэ	+?
 
@@ -2620,13 +2676,14 @@
 
 хайалар	хайа<NOUN><Number=Plur><Case=Nom>
 
-күһүн	+?
+күһүн	күһүн<ADV>
+күһүн	күһүн<NOUN><Number=Sing><Case=Nom>
 
 нэһилиэгэ	+?
 
 кытылыгар	+?
 
-итии	+?
+итии	итии<NOUN><Number=Sing><Case=Nom>
 
 кэллэҕинэ	+?
 
@@ -2636,7 +2693,7 @@
 
 хорсун	+?
 
-наһаа	+?
+наһаа	наһаа<ADV>
 
 бэлиэтииллэр	+?
 
@@ -2646,7 +2703,8 @@
 
 кыахтаахтар	+?
 
-салайааччыта	+?
+салайааччыта	салайааччы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+салайааччыта	салайааччы<NOUN><Number=Sing><Case=Par>
 
 буолуутугар	+?
 
@@ -2674,7 +2732,7 @@
 
 куоратыгар	+?
 
-кэми	+?
+кэми	кэм<NOUN><Number=Sing><Case=Acc>
 
 кэлэрин	+?
 
@@ -2699,7 +2757,7 @@
 
 билинэн	+?
 
-салайааччылар	+?
+салайааччылар	салайааччы<NOUN><Number=Plur><Case=Nom>
 
 социалистическай	+?
 
@@ -2730,9 +2788,9 @@
 
 куту	+?
 
-үлэһиттэрэ	+?
+үлэһиттэрэ	үлэһит<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
-сыһыана	+?
+сыһыана	сыһыан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
 
 сайыҥҥы	+?
 
@@ -2765,13 +2823,14 @@
 
 наар	+?
 
-билиитэ	+?
+билиитэ	билии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+билиитэ	билии<NOUN><Number=Sing><Case=Par>
 
 быһыытыгар	+?
 
-куһаҕаннык	+?
+куһаҕаннык	куһаҕаннык<ADV>
 
-ахсаан	+?
+ахсаан	ахсаан<NOUN><Number=Sing><Case=Nom>
 
 общественнай	+?
 
@@ -2791,7 +2850,8 @@
 
 хаайыыга	+?
 
-таһаарбыт	+?
+таһаарбыт	таһаар<VERB><Number=Plur><Person=1><Tense=Pres>
+таһаарбыт	таһаар<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
 христос	+?
 
@@ -2835,7 +2895,7 @@
 
 булчут	булчут<NOUN><Number=Sing><Case=Nom>
 
-сахалары	+?
+сахалары	саха<NOUN><Number=Plur><Case=Acc>
 
 улаатыннарар	+?
 
@@ -2851,7 +2911,7 @@
 
 кэпсээн	+?
 
-дьыл	+?
+дьыл	дьыл<NOUN><Number=Sing><Case=Nom>
 
 учууталынан	+?
 
@@ -2868,7 +2928,7 @@
 
 үөрэннэҕинэ	+?
 
-таһаарбыта	+?
+таһаарбыта	таһаар<VERB><Number=Sing><Person=3><Tense=PastPerf>
 
 кыттыбыта	+?
 
@@ -2896,7 +2956,7 @@
 
 кэллэ	кэл<VERB><Number=Sing><Person=3><Tense=NearPast>
 
-хаалара	+?
+хаалара	хаалар<VERB><Tense=Pres><VerbForm=Trans>
 
 сытыы	+?
 
@@ -2912,7 +2972,7 @@
 
 биллэрдик	+?
 
-көлүөнэлэри	+?
+көлүөнэлэри	көлүөнэ<NOUN><Number=Plur><Case=Acc>
 
 тустарынан	+?
 
@@ -2962,7 +3022,7 @@
 
 арахсаллар	+?
 
-этиилэр	+?
+этиилэр	этии<NOUN><Number=Plur><Case=Nom>
 
 түспүт	түс<VERB><Number=Sing><Person=3><Tense=PastResultI>
 
@@ -2978,13 +3038,13 @@
 
 хойутаан	+?
 
-босхо	+?
+босхо	босхо<ADJ>
 
 тулалыыр	+?
 
 хоро	+?
 
-ситиһэ	+?
+ситиһэ	ситис<VERB><Tense=Pres><VerbForm=Trans>
 
 сайыннаран	+?
 
@@ -2998,7 +3058,7 @@
 
 сыллаахтан	+?
 
-арыгыга	+?
+арыгыга	арыгы<NOUN><Number=Sing><Case=Dat>
 
 үөрэниитэ	+?
 
@@ -3032,7 +3092,7 @@
 
 ыарыыта	+?
 
-сэтинньи	+?
+сэтинньи	сэтинньи<NOUN><Number=Sing><Case=Nom>
 
 кэпсиир	кэпсээ<VERB><Number=Sing><Person=3><Tense=Pres>
 
@@ -3048,7 +3108,7 @@
 
 майгынын	+?
 
-ааттыыр	+?
+ааттыыр	ааттаа<VERB><Number=Sing><Person=3><Tense=Pres>
 
 төрүттэрэ	+?
 
@@ -3075,23 +3135,23 @@
 
 саҕаламмыт	+?
 
-баҕар	+?
+баҕар	баҕар<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
 
 иликтэр	+?
 
-бичик	+?
+бичик	бичик<NOUN><Number=Sing><Case=Nom>
 
 эппит	эт<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
 
 сылын	сыл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
-бэлэм	+?
+бэлэм	бэлэм<ADJ>
 
-уокка	+?
+уокка	уот<NOUN><Number=Sing><Case=Dat>
 
 степан	+?
 
-баайдар	+?
+баайдар	баай<NOUN><Number=Plur><Case=Nom>
 
 киэн	+?
 
@@ -3111,7 +3171,7 @@
 
 ааптара	+?
 
-баайын	+?
+баайын	баай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
 
 быраас	быраас<NOUN><Number=Sing><Case=Nom>
 
@@ -3129,7 +3189,7 @@
 
 тылбаас	+?
 
-таһыма	+?
+таһыма	тас<VERB><Mood=Imp><Number=Sing><Person=2><Polarity=Neg><Tense=Pres>
 
 итэҕэйэр	+?
 
@@ -3153,8 +3213,14064 @@
 
 көрбүт	көр<VERB><Number=Plur><Person=1><Tense=Pres>
 көрбүт	көр<VERB><Number=Sing><Person=3><Tense=PastResultI>
+көрбүт	көр<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
 
 үрдүктүк	+?
 
 дакаастыыр	+?
+
+педагогическай	+?
+
+намыһах	+?
+
+кэмнээх	+?
+
+чааһа	чаас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+саҕаланан	+?
+
+туохтан	+?
+
+холбоһон	+?
+
+бөрө	бөрө<NOUN><Number=Sing><Case=Nom>
+
+институт	+?
+
+мм	+?
+
+аҕыс	аҕыс<NUM><NumType=Card>
+
+ордон	+?
+
+сахабыт	саха<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+инньэ	инньэ<NOUN><Number=Sing><Case=Nom>
+
+испэт	ис<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+сергей	сергей<PROPN>
+
+сыллардаахха	+?
+
+кыаллыбат	+?
+
+баҕараллар	баҕар<VERB><Number=Plur><Person=3><Tense=Pres>
+
+толкуйдуур	+?
+
+сөбүлээбэт	+?
+
+түргэн	түргэн<ADJ>
+
+ка	+?
+
+билинэр	+?
+
+уларыйыылары	+?
+
+үгэстэрэ	+?
+
+сэдэх	+?
+
+аармыйаҕа	+?
+
+москва	москва<PROPN>
+
+куһаҕанын	+?
+
+үөрэхтээхтэр	+?
+
+ча	+?
+
+тэнийэн	+?
+
+ситиспит	ситис<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+тосту	+?
+
+президиумун	+?
+
+синньигэс	синньигэс<ADJ>
+
+сатыы	+?
+
+демократия	+?
+
+аймахтар	аймах<NOUN><Number=Plur><Case=Nom>
+
+на	+?
+
+тэрилтэлэр	+?
+
+иһиитин	+?
+
+санааларыттан	+?
+
+ситиһэн	+?
+
+ылыммыт	+?
+
+көстүүтэ	+?
+
+тутуллубут	+?
+
+сэриитэ	+?
+
+учууталлар	учуутал<NOUN><Number=Plur><Case=Nom>
+
+олорбуттар	+?
+
+түүлээх	+?
+
+хоһооннорун	+?
+
+өлүү	+?
+
+үлэлииллэр	үлэлээ<VERB><Number=Plur><Person=3><Tense=Pres>
+
+түмэн	түмэн<NOUN><Number=Sing><Case=Nom>
+
+үөр	+?
+
+быһаарыытынан	+?
+
+олоруу	+?
+
+кыттыбыт	+?
+
+олорбуттара	+?
+
+анна	+?
+
+киинэҕэ	+?
+
+өрүттээҕин	+?
+
+үөрэнэрэ	+?
+
+иккиэн	+?
+
+революция	+?
+
+киэһэ	киэһэ<ADV>
+
+кырдьаҕастар	+?
+
+туhунан	+?
+
+сүүс	+?
+
+айымньы	айымньы<NOUN><Number=Sing><Case=Nom>
+
+туттунан	+?
+
+дьыала	+?
+
+истэригэр	+?
+
+сурунаал	+?
+
+кистэлэҥ	+?
+
+киирэ	киир<VERB><Tense=Pres><VerbForm=Trans>
+
+үгэстэрин	+?
+
+төбөтө	+?
+
+итирэн	+?
+
+аҕалан	+?
+
+сэриилээн	+?
+
+баайы	баай<NOUN><Number=Sing><Case=Acc>
+
+үтүөнү	+?
+
+наадалаах	+?
+
+бэйэни	бэйэ<NOUN><Number=Sing><Case=Acc>
+
+кытайга	+?
+
+үөрэтэ	үөрэт<VERB><Tense=Pres><VerbForm=Trans>
+
+үгэстэр	+?
+
+ыалдьыбыт	ыарый<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+үп	үп<NOUN><Number=Sing><Case=Nom>
+
+тэрийэн	+?
+
+көтө	+?
+
+кураанах	+?
+
+айа	ай<VERB><Tense=Pres><VerbForm=Trans>
+
+эҥин	+?
+
+хоһоон	хоһоон<NOUN><Number=Sing><Case=Nom>
+
+дуо	дуо<PART>
+
+төрдүттэн	+?
+
+саастааҕар	саас<NOUN><Number=Sing><Case=Cmp>
+
+ыыппыт	+?
+
+тулаайах	+?
+
+кыттар	+?
+
+биэрэрэ	+?
+
+туругун	+?
+
+сатыыллара	+?
+
+саҕаланыытыгар	+?
+
+барбакка	+?
+
+баарынан	+?
+
+арыйан	+?
+
+хаалбат	хаал<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+араҕас	араҕас<ADJ>
+
+арҕааҥҥы	+?
+
+диэбит	+?
+
+минээн	+?
+
+таҥараҕа	таҥара<NOUN><Number=Sing><Case=Dat>
+
+нам	+?
+
+иһит	иһит<NOUN><Number=Sing><Case=Nom>
+
+өрүтэ	+?
+
+бардаҕына	+?
+
+буорту	+?
+
+тымныыны	+?
+
+буолаллара	+?
+
+өттүлэрэ	+?
+
+альбом	+?
+
+сылынан	сыл<NOUN><Number=Sing><Case=Ins>
+
+бурдук	бурдук<NOUN><Number=Sing><Case=Nom>
+
+музыкальнай	+?
+
+тардар	+?
+
+оҥороруттан	+?
+
+киллэрбитэ	киллэр<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+төрдө	+?
+
+сыала	+?
+
+көстүү	+?
+
+түмэл	+?
+
+олохтооҕо	+?
+
+оччоҕуна	+?
+
+эттээх	+?
+
+иэс	+?
+
+алексеев	+?
+
+эмэни	+?
+
+көрүҥнэрэ	+?
+
+киллэрэ	киллэр<VERB><Tense=Pres><VerbForm=Trans>
+
+истэхтэринэ	+?
+
+дьулуурдаах	+?
+
+чуолкай	+?
+
+туттулла	+?
+
+слепцов	+?
+
+толкуйдаан	+?
+
+итэҕэли	+?
+
+ытааһын	+?
+
+чинчийээччилэр	+?
+
+күндү	+?
+
+көскө	+?
+
+киллэрбит	киллэр<VERB><Number=Plur><Person=1><Tense=Pres>
+киллэрбит	киллэр<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+хамсыыр	+?
+
+барарын	+?
+
+тардан	+?
+
+төрүттэрин	+?
+
+састаабыгар	+?
+
+рф	+?
+
+үйэлэр	үйэ<NOUN><Number=Plur><Case=Nom>
+
+барбыттара	бар<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+литература	+?
+
+суруйааччыта	+?
+
+иҥэрэн	+?
+
+иннинээҕи	+?
+
+ааттаабыттар	+?
+
+эбэ	эбэ<NOUN><Number=Sing><Case=Nom>
+
+аймахтара	аймах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+хайалара	хайа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+хайалара	хайа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+москваҕа	москва<PROPN><Case=Dat>
+
+кылаас	кылаас<NOUN><Number=Sing><Case=Nom>
+
+быһыыларыттан	+?
+
+баҕара	баҕар<VERB><Tense=Pres><VerbForm=Trans>
+
+минньигэс	+?
+
+га	+?
+
+таһымнаах	+?
+
+бүтүүтүгэр	+?
+
+ааттыыллара	+?
+
+айымньылара	айымньы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+айымньылара	айымньы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+малы	+?
+
+иhин	+?
+
+испит	ис<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+түмэт	+?
+
+өстөөх	+?
+
+хааны	хаан<NOUN><Number=Sing><Case=Acc>
+
+москуба	+?
+
+хамсаныылары	+?
+
+иһэллэрин	+?
+
+куттарын	+?
+
+профессор	профессор<NOUN><Number=Sing><Case=Nom>
+
+сааһын	саас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+этиилэрин	этии<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+этиилэрин	этии<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+омукка	+?
+
+сыаналаах	+?
+
+барыны	+?
+
+устун	+?
+
+сайдарыгар	+?
+
+ааттарын	аат<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+киллэрии	+?
+
+уларыйыыта	+?
+
+улууска	улуус<NOUN><Number=Sing><Case=Dat>
+
+биирдиилээн	+?
+
+хандьыдаата	+?
+
+киһилээх	+?
+
+алын	алын<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+алын	алын<NOUN><Number=Sing><Case=Nom>
+
+көстөллөр	+?
+
+баһылыга	+?
+
+ууран	+?
+
+сэриини	+?
+
+барара	+?
+
+айаннаан	+?
+
+арааһа	+?
+
+бириэмэтигэр	+?
+
+чинчийээччи	+?
+
+тутулуктанан	+?
+
+күөлгэ	күөл<NOUN><Number=Sing><Case=Dat>
+
+таптал	таптал<NOUN><Number=Sing><Case=Nom>
+
+оччоҕо	оччоҕо<ADV>
+
+уолун	+?
+
+сунтаар	+?
+
+таары	+?
+
+үксүлэрэ	+?
+
+мааны	+?
+
+ахтыллар	+?
+
+иэннээх	+?
+
+уустар	уус<NOUN><Number=Plur><Case=Nom>
+
+уопсайа	+?
+
+хайалаах	+?
+
+сирдэр	сир<NOUN><Number=Plur><Case=Nom>
+
+ааспыта	аас<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+партийнай	+?
+
+улаатарын	+?
+
+быраҕан	+?
+
+көс	көс<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+көс	көс<NOUN><Number=Sing><Case=Nom>
+
+хаалларан	+?
+
+уунан	уу<NOUN><Number=Sing><Case=Ins>
+
+итэҕэлин	+?
+
+саҕалаабыт	саҕалаа<VERB><Number=Plur><Person=1><Tense=Pres>
+саҕалаабыт	саҕалаа<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+санааттан	санаа<NOUN><Number=Sing><Case=Abl>
+
+оҕонньор	оҕонньор<NOUN><Number=Sing><Case=Nom>
+
+киирдэҕинэ	+?
+
+үгүстэрэ	+?
+
+дойдуларын	+?
+
+уопсастыба	+?
+
+иккитэ	икки<NUM><Case=Par><NumType=Card>
+
+оҕуруот	оҕуруот<NOUN><Number=Sing><Case=Nom>
+
+бойобуой	+?
+
+куттар	+?
+
+соҕуруулуу	+?
+
+ордуу	+?
+
+кубулуйбут	+?
+
+була	бул<VERB><Tense=Pres><VerbForm=Trans>
+
+бэрээдэктээх	+?
+
+көрдөбүлэ	+?
+
+өлүөхүмэ	+?
+
+маһы	мас<NOUN><Number=Sing><Case=Acc>
+
+улууһа	улуус<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+оҕус	оҕус<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+чаас	чаас<NOUN><Number=Sing><Case=Nom>
+
+афанасьевич	+?
+
+санаабыт	санаа<VERB><Number=Plur><Person=1><Tense=Pres>
+санаабыт	санаа<VERB><Number=Sing><Person=3><Tense=PastResultI>
+санаабыт	санаа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+тутулуктарын	+?
+
+таҥаралаах	+?
+
+сиринээҕи	+?
+
+омуктарын	+?
+
+ууһун	уус<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+кыһыҥҥы	+?
+
+тупсаран	+?
+
+бэйэлэриттэн	+?
+
+быһыыларыгар	+?
+
+харыстыырга	+?
+
+көстүбэт	+?
+
+украина	+?
+
+туһаналлара	+?
+
+инниттэн	+?
+
+төрдүс	+?
+
+дьайыылара	+?
+
+ыҥырыллыбыт	+?
+
+аһын	ас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+өйдөөбөт	+?
+
+кэһии	+?
+
+хабан	+?
+
+аһаабакка	+?
+
+саҕанааҕы	+?
+
+төбөтүн	+?
+
+ситиһиигэ	+?
+
+хатыҥ	+?
+
+бука	бука<ADV>
+
+киьи	+?
+
+кинигэни	кинигэ<NOUN><Number=Sing><Case=Acc>
+
+быыһыгар	+?
+
+сииҥҥэ	+?
+
+буоллахха	+?
+
+оруола	+?
+
+алгыс	+?
+
+туга	+?
+
+уларыйыы	+?
+
+дьайыытын	+?
+
+оҥорботторун	+?
+
+өрүстэр	+?
+
+аһаан	+?
+
+ууруллан	+?
+
+чаҕылхай	+?
+
+олоҥхоһут	+?
+
+үөскээһинигэр	+?
+
+сыһыан	сыһыан<NOUN><Number=Sing><Case=Nom>
+
+билбит	бил<VERB><Number=Plur><Person=1><Tense=Pres>
+билбит	бил<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+өрүскэ	+?
+
+алексеевич	+?
+
+этэллэрэ	+?
+
+ыйа	ый<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+көрбүтэ	+?
+
+илиитин	+?
+
+салаллан	+?
+
+көлүөнэҕэ	көлүөнэ<NOUN><Number=Sing><Case=Dat>
+
+төбө	+?
+
+атыы	+?
+
+салаата	салаа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+салаата	салаа<NOUN><Number=Sing><Case=Par>
+
+татаар	+?
+
+эйэ	+?
+
+ханан	+?
+
+хамсааһыны	хамсааһын<NOUN><Number=Sing><Case=Acc>
+
+үрдүктээх	үрдүк<ADJ><Poss=Yes>
+
+кэргэнин	кэргэн<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сэбиэдиссэйинэн	+?
+
+хонук	+?
+
+иһэллэрэ	+?
+
+хонуу	хонуу<NOUN><Number=Sing><Case=Nom>
+
+этиитэ	этии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+этиитэ	этии<NOUN><Number=Sing><Case=Par>
+
+институтун	+?
+
+николаевна	+?
+
+иһиллэр	+?
+
+спордун	+?
+
+ср	+?
+
+тирии	+?
+
+тутуллан	+?
+
+атаахтык	+?
+
+көлүөнэлэргэ	көлүөнэ<NOUN><Number=Plur><Case=Dat>
+
+ортолоругар	+?
+
+сыаната	+?
+
+оруолун	+?
+
+христианскай	+?
+
+итэҕэлэ	+?
+
+көрбөт	көр<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+ыраатта	+?
+
+ыарыыга	+?
+
+данилов	+?
+
+өйдүүр	+?
+
+андрей	+?
+
+николаев	+?
+
+павел	+?
+
+дорҕооннор	+?
+
+көрүүгэ	+?
+
+майгынныыр	+?
+
+түһээн	+?
+
+быһалыы	+?
+
+ойуур	ойуур<NOUN><Number=Sing><Case=Nom>
+
+баттах	+?
+
+саҥата	саҥа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+саҥата	саҥа<NOUN><Number=Sing><Case=Par>
+
+хатыланан	+?
+
+чыпчаала	+?
+
+чилиэнинэн	+?
+
+идэтин	+?
+
+ыйга	ый<NOUN><Number=Sing><Case=Dat>
+
+ылбыттара	ыл<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+отой	+?
+
+түүлү	+?
+
+доруобай	+?
+
+дакаастанар	+?
+
+ситэн	+?
+
+ситиһиллэр	+?
+
+биэрбэт	биэр<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+бар	бар<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+устуоруйа	+?
+
+чараас	+?
+
+дьикти	дьикти<ADJ>
+дьикти	дьикти<NOUN><Number=Sing><Case=Nom>
+
+бэриллибит	+?
+
+колхозка	+?
+
+баҕата	баҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+баҕата	баҕа<NOUN><Number=Sing><Case=Par>
+
+фроҥҥа	+?
+
+кв	+?
+
+тутулуктааҕын	+?
+
+ардыларынан	+?
+
+сиэрэ	+?
+
+араарыы	+?
+
+кээмэйэ	+?
+
+ахсааннарыгар	+?
+
+тэрийбит	+?
+
+ситим	+?
+
+үөрэтиини	+?
+
+төрүтэ	+?
+
+кг	+?
+
+оҥостор	+?
+
+истэ	иһит<VERB><Tense=Pres><VerbForm=Trans>
+истэ	ис<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+үөскэппит	+?
+
+мөлүйүөн	+?
+
+сүтэн	+?
+
+сылдьыбыттар	+?
+
+сүдү	+?
+
+ахсын	+?
+
+сурунаалга	+?
+
+билбэккэ	+?
+
+билиилэрэ	билии<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+билиилэрэ	билии<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+дорҕооннорун	+?
+
+хаана	хаан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+уулаах	+?
+
+геройа	+?
+
+дмитриевич	+?
+
+үрдүккэ	+?
+
+иһэргэ	+?
+
+биитэр	+?
+
+семенович	+?
+
+майгыга	+?
+
+айбыта	ай<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+ырыаһыт	+?
+
+эйгэҕэ	+?
+
+баалларын	+?
+
+боростуой	+?
+
+ыытан	+?
+
+саҥаттан	саҥа<NOUN><Number=Sing><Case=Abl>
+
+көҥүлүнэн	+?
+
+кэлиэн	+?
+
+бэрэссэдээтэлэ	+?
+
+артыыс	+?
+
+япония	+?
+
+быһаарарга	+?
+
+өйдөнөр	+?
+
+аҕыйыыр	аҕыйаа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+хотун	+?
+
+кэлбитин	+?
+
+кэбиһэллэр	+?
+
+салаалара	салаа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+салаалара	салаа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+нэһилиэнньэтэ	+?
+
+бириэмийэтин	+?
+
+тарҕаммыта	+?
+
+табыгастаах	+?
+
+де	+?
+
+көмүллүбүт	+?
+
+атыттары	+?
+
+кэбиһиэн	+?
+
+нууччалары	+?
+
+тупсарар	+?
+
+суруллар	+?
+
+көлүөнэлэрин	көлүөнэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+көлүөнэлэрин	көлүөнэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+киһинэн	киһи<NOUN><Number=Sing><Case=Ins>
+
+көрүүтэ	+?
+
+бэйэтинэн	бэйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+сылдьарга	+?
+
+аал	+?
+
+итинтэн	+?
+
+гыммыт	+?
+
+тыйаатыр	+?
+
+мээнэ	+?
+
+сибииргэ	+?
+
+айыыта	айыы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+айыыта	айыы<NOUN><Number=Sing><Case=Par>
+
+кэриэс	+?
+
+этэллэринэн	+?
+
+сорохторо	+?
+
+бүтэр	бүт<VERB><Number=Sing><Person=3><Tense=Pres>
+
+эттэрин	эт<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+тэрийбитэ	+?
+
+бэлэмниир	+?
+
+иитиллэн	+?
+
+хамсыы	+?
+
+тэҥнэһии	+?
+
+биллэллэр	+?
+
+ыкса	+?
+
+салайбыта	салай<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+тириэрдэрэ	+?
+
+иннин	+?
+
+харыстаан	+?
+
+сэһэн	+?
+
+кыаҕы	кыах<NOUN><Number=Sing><Case=Acc>
+
+куобах	+?
+
+ыалга	ыал<NOUN><Number=Sing><Case=Dat>
+
+суоҕуттан	+?
+
+усталарыгар	+?
+
+кыргыһыыга	+?
+
+айбыт	ай<VERB><Number=Plur><Person=1><Tense=Pres>
+айбыт	ай<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+хойуу	+?
+
+кыраадыс	+?
+
+билэллэрин	+?
+
+иҥмит	+?
+
+былыргылар	+?
+
+эмит	+?
+
+иитиитигэр	+?
+
+утумнаахтык	+?
+
+үөрэтэргэ	+?
+
+салаатыгар	салаа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+иччитэ	+?
+
+ылара	+?
+
+тэрилтэлэригэр	+?
+
+кумах	+?
+
+федеральнай	+?
+
+ыыппыта	+?
+
+булт	+?
+
+биэрбитэ	биэр<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+эбэн	+?
+
+кэбиһии	+?
+
+дойдутун	+?
+
+оҥордоххо	+?
+
+дьадаҥылар	+?
+
+петровна	+?
+
+сайдарын	+?
+
+чөлүгэр	+?
+
+элбэҕиттэн	+?
+
+мал	+?
+
+кыттыыны	+?
+
+тустууга	+?
+
+хаалаллар	хаал<VERB><Number=Plur><Person=3><Tense=Pres>
+
+суут	+?
+
+георгий	+?
+
+үүнээйилэр	+?
+
+сүөһүнү	сүөһү<NOUN><Number=Sing><Case=Acc>
+
+уҥуоҕун	+?
+
+эмп	+?
+
+ньыма	+?
+
+туттунара	+?
+
+америкаҕа	+?
+
+тарҕанар	+?
+
+сайыннарыы	+?
+
+кэлиитэ	+?
+
+музыка	+?
+
+университетыгар	+?
+
+саныы	+?
+
+араарар	араар<VERB><Number=Sing><Person=3><Tense=Pres>
+
+ойох	+?
+
+аттаах	+?
+
+тыас	+?
+
+аналланар	+?
+
+арахсыы	+?
+
+үөрэҕириитин	+?
+
+чэ	чэ<INTJ>
+
+тыһы	+?
+
+мэтээл	+?
+
+бырайыак	+?
+
+оскуолата	оскуола<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+оскуолата	оскуола<NOUN><Number=Sing><Case=Par>
+
+атыыһыт	+?
+
+акаары	+?
+
+иккилии	+?
+
+көрүҥүн	+?
+
+чааһынай	+?
+
+көрүҥүнэн	+?
+
+куораттарга	куорат<NOUN><Number=Plur><Case=Dat>
+
+биллэ	бил<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+эрэйдээх	+?
+
+туос	+?
+
+кыыллары	кыыл<NOUN><Number=Plur><Case=Acc>
+
+оҕотугар	+?
+
+ирдиир	+?
+
+доруобуйа	+?
+
+бүтүннүү	+?
+
+омуга	+?
+
+төгүллээх	+?
+
+павлов	+?
+
+хамсааһын	хамсааһын<NOUN><Number=Sing><Case=Nom>
+
+туруору	+?
+
+остуоруйа	+?
+
+кыайбыт	кыай<VERB><Number=Plur><Person=1><Tense=Pres>
+кыайбыт	кыай<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+сокуоннары	+?
+
+доруобуйата	+?
+
+көрдөрөллөр	+?
+
+атаҕа	атах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+бобуу	+?
+
+билиигэ	билии<NOUN><Number=Sing><Case=Dat>
+
+көрүҥэр	+?
+
+политическай	+?
+
+диэйэтэлэ	+?
+
+дойдулара	дойду<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+дойдулара	дойду<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+халыҥ	+?
+
+ыарыылар	+?
+
+спортивнай	+?
+
+туруу	+?
+
+бүттүүн	+?
+
+көнөтүк	+?
+
+күнтэн	+?
+
+өйдөбүлүн	+?
+
+оҥорбуттара	+?
+
+университетын	+?
+
+тахсыбыттара	+?
+
+итиннэ	+?
+
+таах	+?
+
+этэрин	+?
+
+иитиилээх	+?
+
+чуолаан	+?
+
+тугунан	+?
+
+эмтээх	+?
+
+дьоннорун	+?
+
+араараллар	араар<VERB><Number=Plur><Person=3><Tense=Pres>
+
+халыма	+?
+
+иннокентьевич	+?
+
+юрий	+?
+
+республикаҕа	+?
+
+элбэҕин	+?
+
+үгүстэр	+?
+
+аҥара	+?
+
+ааҕаллар	аах<VERB><Number=Plur><Person=3><Tense=Pres>
+
+олимпийскай	+?
+
+наркотиктары	+?
+
+сыла	сыл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ыҥырыы	+?
+
+турция	+?
+
+ууруллар	+?
+
+дьоҕура	+?
+
+историятын	+?
+
+билиилэрин	билии<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+билиилэрин	билии<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+наадата	+?
+
+билимнэрин	билим<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+билиитин	+?
+
+үлэтинэн	үлэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+ылыныы	+?
+
+буолуохтааҕын	+?
+
+гаврил	+?
+
+майгылара	+?
+
+суруйуу	+?
+
+геройун	+?
+
+барыан	+?
+
+уларыйбакка	+?
+
+федор	+?
+
+алмаас	+?
+
+уратытынан	+?
+
+ынырык	ынырык<ADJ>
+
+тутуһа	тутус<VERB><Tense=Pres><VerbForm=Trans>
+
+иҥэриллибит	+?
+
+итиэннэ	+?
+
+тыһыта	+?
+
+киинигэр	+?
+
+дьиҥ	дьиҥ<ADJ>
+
+тэрилтэлэрин	+?
+
+мэдиссиинэ	+?
+
+кылаабынай	+?
+
+бордоҥ	+?
+
+сирдэринэн	сир<NOUN><Number=Plur><Case=Ins>
+
+көстүүлэрэ	+?
+
+буолууларын	+?
+
+медицина	+?
+
+хаалбыттар	+?
+
+саҥатыгар	саҥа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+бараннар	+?
+
+үлэттэн	+?
+
+компьютер	+?
+
+иҥэр	+?
+
+уустуктары	+?
+
+уонча	+?
+
+историческай	+?
+
+ох	+?
+
+атыыр	+?
+
+москубаҕа	+?
+
+кэпсээннэр	+?
+
+эбээн	+?
+
+биллэрэн	+?
+
+суохтаах	+?
+
+казах	+?
+
+кытайдар	+?
+
+кутан	+?
+
+саныыллар	санаа<VERB><Number=Plur><Person=3><Tense=Pres>
+
+чэпчэкитик	+?
+
+туус	+?
+
+бэчээккэ	+?
+
+харыстанар	+?
+
+ырыата	ырыа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+ырыата	ырыа<NOUN><Number=Sing><Case=Par>
+
+дьиэлэр	дьиэ<NOUN><Number=Plur><Case=Nom>
+
+тэптэрэн	+?
+
+куттаах	+?
+
+элбэтэр	+?
+
+аа	аа<INTJ>
+
+уган	+?
+
+кэлэ	кэл<VERB><Tense=Pres><VerbForm=Trans>
+
+кыттыһан	+?
+
+кэҥээн	+?
+
+медицинскэй	+?
+
+көрөллөр	көр<VERB><Number=Plur><Person=3><Tense=Pres>
+
+дэлби	+?
+
+уруу	+?
+
+уруккуттан	+?
+
+охсоору	+?
+
+уларыйыытын	+?
+
+суолугар	+?
+
+толоро	+?
+
+солбуйсан	+?
+
+уота	уот<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+туттуллубат	+?
+
+доктора	+?
+
+тиит	тиит<NOUN><Number=Sing><Case=Nom>
+
+ииппит	+?
+
+дьиэлэригэр	+?
+
+сылы	сыл<NOUN><Number=Sing><Case=Acc>
+
+эстэр	+?
+
+бөлөҕө	+?
+
+кэккэ	кэккэ<NOUN><Number=Sing><Case=Nom>
+
+бэчээттэммитэ	+?
+
+федоров	+?
+
+ситиһэргэ	+?
+
+соруга	+?
+
+ойуу	+?
+
+түбэһэллэр	түбэс<VERB><Number=Plur><Person=3><Tense=Pres>
+
+өлөрөн	+?
+
+үөрэ	+?
+
+улаханын	+?
+
+үгэһи	+?
+
+казахстан	+?
+
+кириэс	+?
+
+дорҕоонноро	+?
+
+дьахтары	+?
+
+нэдиэлэ	нэдиэлэ<NOUN><Number=Sing><Case=Nom>
+
+бириэмийэ	+?
+
+санааларынан	санаа<NOUN><Number=Plur><Case=Ins>
+
+дьонноро	+?
+
+оҥорботун	+?
+
+содул	+?
+
+туттунуу	+?
+
+тиһэх	+?
+
+бириэмэ	+?
+
+тылларга	тыл<NOUN><Number=Plur><Case=Dat>
+
+сыаналанар	+?
+
+брэгг	+?
+
+эуропа	+?
+
+ситимнээх	+?
+
+кимиэхэ	+?
+
+санаалартан	санаа<NOUN><Number=Plur><Case=Abl>
+
+сиэнэ	+?
+
+кэпсэтии	+?
+
+сөпкө	сөпкө<ADV>
+
+тутарга	+?
+
+соруктаах	+?
+
+таhынан	+?
+
+курдуктар	+?
+
+айыылартан	айыы<NOUN><Number=Plur><Case=Abl>
+
+кытыытыгар	+?
+
+кулууп	+?
+
+дьоммут	+?
+
+төрөппүтэ	+?
+
+уотун	+?
+
+сулууспалаабыт	+?
+
+бэтэрээнэ	+?
+
+константин	+?
+
+бороҥ	+?
+
+арыылаах	+?
+
+хайысхалаах	+?
+
+кыыһын	кыыс<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+уһук	уһук<NOUN><Number=Sing><Case=Nom>
+
+эйэлээхтик	+?
+
+таһымыгар	+?
+
+ардах	+?
+
+кыана	+?
+
+тыс	тыс<NOUN><Number=Sing><Case=Nom>
+
+дьыалалары	+?
+
+коммунистар	+?
+
+сыаналыыр	+?
+
+көппүт	+?
+
+ырыаларын	ырыа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+ырыаларын	ырыа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+армияҕа	+?
+
+таһымын	+?
+
+генеральнай	+?
+
+үөскээбиттэр	+?
+
+үрдээн	+?
+
+чемпиона	+?
+
+кыргыттар	+?
+
+кыым	+?
+
+саҕалыыр	саҕалаа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+атомнай	+?
+
+кыахтарын	кыах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+тыал	тыал<NOUN><Number=Sing><Case=Nom>
+
+сүрэ	сүр<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+убайа	убай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+иҥэриллибитэ	+?
+
+тыгын	+?
+
+тиийбит	тиий<VERB><Number=Plur><Person=1><Tense=Pres>
+тиийбит	тиий<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+чолбон	+?
+
+иркутскай	+?
+
+эрэйи	+?
+
+культуратын	+?
+
+петров	петров<PROPN>
+
+бэркэ	+?
+
+киниттэн	+?
+
+армия	+?
+
+сөбүттэн	+?
+
+квадрат	+?
+
+ситиһиитэ	+?
+
+таҕыста	таҕыс<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+өрүт	+?
+
+көрөрө	+?
+
+үлэлииргэ	+?
+
+түүрдэр	+?
+
+математика	+?
+
+бүтүүтэ	+?
+
+енисей	+?
+
+сыһыаннара	сыһыан<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+туоһулуур	+?
+
+симэлийэн	+?
+
+сыалын	+?
+
+хараҕын	харах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+дьарыктанан	+?
+
+истэҕин	иһит<VERB><Number=Sing><Person=2><Tense=Pres>
+
+уордьанынан	+?
+
+быһаарыллан	+?
+
+тыллартан	тыл<NOUN><Number=Plur><Case=Abl>
+
+кыһанан	+?
+
+ини	+?
+
+илиинэн	илии<NOUN><Number=Sing><Case=Ins>
+
+көрдөбүллэрин	+?
+
+ксенофонтов	+?
+
+ойуута	+?
+
+барыытын	+?
+
+дьоруойа	+?
+
+турукка	+?
+
+словарь	+?
+
+урутаан	+?
+
+сыталлар	сыт<VERB><Number=Plur><Person=3><Tense=Pres>
+
+балта	+?
+
+ыытыллыбыта	+?
+
+эллэй	+?
+
+кыаҕынан	кыах<NOUN><Number=Sing><Case=Ins>
+
+быhыытынан	+?
+
+эппитэ	+?
+
+тылларыттан	+?
+
+германияҕа	+?
+
+ааттаммыта	+?
+
+дириэктэрэ	+?
+
+совхоз	+?
+
+сүһүөх	+?
+
+үйэтигэр	үйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+павлович	+?
+
+уустарын	+?
+
+сөптөөхтүк	+?
+
+билэргэ	+?
+
+сгу	+?
+
+баһылай	+?
+
+сэбин	+?
+
+истии	+?
+
+буортулаах	+?
+
+ааттанара	+?
+
+атыттартан	+?
+
+барбыттар	+?
+
+эттэрэ	эт<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+театр	+?
+
+үлэнэн	үлэ<NOUN><Number=Sing><Case=Ins>
+
+тириэрдэрин	+?
+
+тылбытын	+?
+
+оннун	+?
+
+биэрэрин	+?
+
+аҥаара	+?
+
+ылбыттар	+?
+
+хаалыыта	+?
+
+түүллэри	+?
+
+улахана	+?
+
+этэҥҥэ	+?
+
+сүбэ	+?
+
+кими	+?
+
+интернет	+?
+
+кыттааччы	+?
+
+аатыгар	+?
+
+салалтата	салалта<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+салалтата	салалта<NOUN><Number=Sing><Case=Par>
+
+туһанарга	+?
+
+бултаан	+?
+
+организм	+?
+
+кэргэҥҥэ	кэргэн<NOUN><Number=Sing><Case=Dat>
+
+арыыга	арыы<NOUN><Number=Sing><Case=Dat>
+
+дьоҕурдаах	+?
+
+кээмэйдээх	+?
+
+хамсатар	+?
+
+уопсастыбаннай	+?
+
+кырата	+?
+
+сэрэнэн	+?
+
+салаалаах	+?
+
+бэйэбит	бэйэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+улам	+?
+
+оонньообута	+?
+
+атаҕар	+?
+
+сомоҕо	+?
+
+сах	+?
+
+араарыллан	+?
+
+арыллан	+?
+
+истэххэ	+?
+
+тиийэллэр	тиий<VERB><Number=Plur><Person=3><Tense=Pres>
+
+куттала	+?
+
+турара	+?
+
+үөрэтэрэ	+?
+
+сэбиэдиссэйэ	+?
+
+аһылыкка	+?
+
+улаатыннаран	+?
+
+тутуспат	тутус<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+эрэйэр	+?
+
+бичигэ	бичик<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+билбэттэриттэн	+?
+
+албан	+?
+
+кэмитиэтин	+?
+
+ыыталлар	ыыт<VERB><Number=Plur><Person=3><Tense=Pres>
+
+муҥура	+?
+
+уларытыы	+?
+
+кыргыһыы	+?
+
+өскөтүн	+?
+
+суруга	сурук<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+таптыыр	таптаа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+система	+?
+
+атыыга	+?
+
+тыаҕа	тыа<NOUN><Number=Sing><Case=Dat>
+
+турарын	+?
+
+тахсыан	+?
+
+дуоктара	+?
+
+салайбыт	салай<VERB><Number=Plur><Person=1><Tense=Pres>
+салайбыт	салай<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+уобалаһын	+?
+
+өйдөбүлүнэн	+?
+
+үөскээбитин	+?
+
+этиинэн	этии<NOUN><Number=Sing><Case=Ins>
+
+кыайбат	кыай<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+хостуур	+?
+
+дьайыы	+?
+
+иккистээн	+?
+
+туһа	тус<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+сахалартан	саха<NOUN><Number=Plur><Case=Abl>
+
+илиитинэн	илии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+суолтаны	суолта<NOUN><Number=Sing><Case=Acc>
+
+биэриитэ	+?
+
+химическэй	+?
+
+сырыттахха	+?
+
+билэллэрэ	+?
+
+эдэрдэри	эдэр<NOUN><Number=Plur><Case=Acc>
+
+ситиһэригэр	+?
+
+талыллыбыт	+?
+
+дьыаланы	+?
+
+мэтээлинэн	+?
+
+испитэ	ис<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+дьарыктаммыта	+?
+
+бастатан	+?
+
+ылыллыбыт	+?
+
+аармыйа	+?
+
+үлэлэригэр	+?
+
+биэрэ	биэр<VERB><Tense=Pres><VerbForm=Trans>
+
+кэбиспит	+?
+
+уларыйа	уларый<VERB><Tense=Pres><VerbForm=Trans>
+
+өлөрүү	+?
+
+ситиһиини	+?
+
+былааһын	+?
+
+охсуһар	+?
+
+уопсайынан	+?
+
+ыарахаттары	+?
+
+туому	+?
+
+көстөн	+?
+
+өйдөбүллэрин	+?
+
+омугун	омук<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+дьиэни	+?
+
+харыстас	+?
+
+төрүүр	+?
+
+ивановна	+?
+
+үөл	+?
+
+аҕалара	аҕа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+аҕалара	аҕа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+дээх	+?
+
+бэрэссэдээтэлинэн	+?
+
+хаанын	хаан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+иһинээҕи	+?
+
+сэт	+?
+
+бүлүүгэ	+?
+
+диэмэ	+?
+
+киһитигэр	киһи<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+кэлэрэ	+?
+
+неустроев	+?
+
+бэйэҕэ	бэйэ<NOUN><Number=Sing><Case=Dat>
+
+сииннэрин	+?
+
+дэхси	+?
+
+атыыра	+?
+
+кэтитэ	+?
+
+сииннээх	+?
+
+алдьатар	+?
+
+хааннаах	+?
+
+көннөрөн	+?
+
+буоллаҕа	+?
+
+үйэтэ	үйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+үйэтэ	үйэ<NOUN><Number=Sing><Case=Par>
+
+этиттэн	+?
+
+итэҕэллэрэ	+?
+
+бэлиэлэрэ	+?
+
+таҥаһын	таҥас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+алаас	+?
+
+үөскэтии	+?
+
+харчыны	харчы<NOUN><Number=Sing><Case=Acc>
+
+эмээхсин	+?
+
+тириэрдэн	+?
+
+этиитин	+?
+
+уратыны	+?
+
+былааска	+?
+
+оонньоон	+?
+
+эттиктэр	+?
+
+мөлтүүр	+?
+
+эйгэ	+?
+
+мэйиитигэр	+?
+
+баартыйа	+?
+
+көмөлөрүнэн	+?
+
+батыһан	+?
+
+талыллан	+?
+
+ааттанан	+?
+
+барыма	+?
+
+электроннай	+?
+
+тэҥнэһэр	+?
+
+хан	+?
+
+киирбиттэрэ	+?
+
+дьоҕус	+?
+
+кыракый	+?
+
+экономическай	+?
+
+өйдөнөн	+?
+
+социализм	+?
+
+туругунан	+?
+
+холоон	+?
+
+британия	+?
+
+балыыһа	+?
+
+хаттаан	+?
+
+быһаарыыта	+?
+
+тугун	+?
+
+маска	мас<NOUN><Number=Sing><Case=Dat>
+
+тэриллэр	тэрил<NOUN><Number=Plur><Case=Nom>
+
+миэтэрэ	+?
+
+буоллун	буоллун<PART>
+
+политика	+?
+
+тутууга	+?
+
+абааһылар	+?
+
+оскуолаларыгар	+?
+
+аһа	ас<VERB><Tense=Pres><VerbForm=Trans>
+аһа	ас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+уолу	+?
+
+наукаҕа	+?
+
+кэбиһэн	+?
+
+суолталара	суолта<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+суолталара	суолта<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+биллэрэллэр	+?
+
+варвара	+?
+
+балачча	+?
+
+атаахтатан	+?
+
+дьайыытыттан	+?
+
+атаҕын	атах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+ыйыттан	+?
+
+оҥорбуттар	+?
+
+тэҥник	+?
+
+аһылыктан	+?
+
+хааларын	+?
+
+оруннаах	+?
+
+күннээҕи	+?
+
+дьүһүннээх	+?
+
+тумул	+?
+
+анастасия	+?
+
+өлөрөр	өлөр<VERB><Number=Sing><Person=3><Tense=Pres>
+
+тэҥнэнэр	+?
+
+бүтэй	+?
+
+ыараханнык	+?
+
+итэҕэллэрин	+?
+
+наҕараадаламмыт	+?
+
+охсуһууга	+?
+
+атыттарга	+?
+
+ахтар	+?
+
+вирус	+?
+
+режиссер	+?
+
+аатыттан	+?
+
+якутия	+?
+
+эппитин	+?
+
+мүнүүтэ	мүнүүтэ<NOUN><Number=Sing><Case=Nom>
+
+баһыйан	+?
+
+үөскэтэрин	+?
+
+тарҕатар	+?
+
+киириитэ	+?
+
+күүһүрдэн	+?
+
+халлаантан	халлаан<NOUN><Number=Sing><Case=Abl>
+
+хаайыы	+?
+
+албынныы	+?
+
+ньургун	+?
+
+улаатарыгар	+?
+
+үөрэҕинэн	+?
+
+бытархай	+?
+
+оһоҕос	+?
+
+сэрэтэр	+?
+
+атыылыыр	атыылаа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+киинин	киин<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+диэнтэн	+?
+
+иитиитэ	+?
+
+көрсөр	+?
+
+тутулуктанар	+?
+
+сирдээҕи	+?
+
+оҥоһуулаах	+?
+
+наркотик	+?
+
+хат	хат<ADV>
+
+сыаллаах	+?
+
+ускуустуба	+?
+
+кыттан	+?
+
+алтаай	+?
+
+моҕол	+?
+
+сивцев	+?
+
+умнуллан	+?
+
+бахсы	+?
+
+ааспытын	+?
+
+оо	+?
+
+күнүн	күн<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+киирэрэ	+?
+
+билинэллэр	+?
+
+норуоттарын	норуот<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сулууспалаабыта	+?
+
+үөрэхтээһин	+?
+
+кыахтанарын	+?
+
+көрүөххэ	+?
+
+сиһилии	+?
+
+көрүүнү	көрүү<NOUN><Number=Sing><Case=Acc>
+
+химия	+?
+
+сэмэн	+?
+
+рим	+?
+
+комитетын	+?
+
+гаврильевич	+?
+
+нэһилиэккэ	+?
+
+наадыйар	+?
+
+сирэй	+?
+
+сөбүлээбэттэр	+?
+
+чөл	+?
+
+алдьатыы	+?
+
+үөскээһинин	+?
+
+сааскы	+?
+
+доруобуйатын	+?
+
+өлүүгэ	+?
+
+болугур	+?
+
+хойут	хойут<ADV>
+
+биэрэллэрэ	+?
+
+буолары	+?
+
+сибиирдээҕи	+?
+
+факультетын	+?
+
+аммосов	+?
+
+ыарыылары	+?
+
+кинилэртэн	+?
+
+барыытыгар	+?
+
+кавалера	+?
+
+якутск	+?
+
+сыллахха	+?
+
+кус	кус<NOUN><Number=Sing><Case=Nom>
+
+аннынааҕы	+?
+
+сибээс	+?
+
+ситимэ	+?
+
+эрчийэн	+?
+
+ыһыллан	+?
+
+көлүөнэттэн	+?
+
+эрэйэ	+?
+
+туттарга	+?
+
+күннэригэр	+?
+
+хаалларбыт	хаар<NOUN><Number=Plur><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+олимпия	+?
+
+кыараҕас	+?
+
+ньымата	+?
+
+саҥаран	+?
+
+саарбаҕа	+?
+
+харахха	харах<NOUN><Number=Sing><Case=Dat>
+
+салаа	салаа<VERB><Tense=Pres><VerbForm=Trans>
+салаа	салаа<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+салаа	салаа<NOUN><Number=Sing><Case=Nom>
+
+оту	от<NOUN><Number=Sing><Case=Acc>
+
+быраата	быраат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+бэлэмнэнии	+?
+
+өктөөп	+?
+
+онтун	+?
+
+тиийимтиэ	+?
+
+өрөбөлүүссүйэ	+?
+
+сүҥкэн	+?
+
+биллэрэ	+?
+
+эстэн	+?
+
+туораан	+?
+
+кэминээҕи	+?
+
+кинигэҕэ	кинигэ<NOUN><Number=Sing><Case=Dat>
+
+григорий	+?
+
+өрүтүн	+?
+
+тааһы	таас<NOUN><Number=Sing><Case=Acc>
+
+өйдөбүлгэ	+?
+
+билиммэт	+?
+
+герой	+?
+
+иҥэрэр	+?
+
+чуолкайдаан	+?
+
+сиэргэ	+?
+
+арахсыылара	+?
+
+убаҕас	+?
+
+оҥоруута	+?
+
+үлэлээбэт	үлэлээ<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+көрүҥҥэ	+?
+
+президент	+?
+
+холобурга	+?
+
+никифоров	+?
+
+бөлөхтөрө	+?
+
+ойуулуур	+?
+
+кылааска	кылаас<NOUN><Number=Sing><Case=Dat>
+
+суруйарынан	+?
+
+султан	+?
+
+байаҕантай	+?
+
+экспедиция	+?
+
+хаптаҕай	+?
+
+стрелковай	+?
+
+көмүскэнэр	+?
+
+аҕаларын	аҕа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+аҕаларын	аҕа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+официальнай	+?
+
+бүгүн	бүгүн<ADV>
+
+дьиэлэрин	+?
+
+түөлбэ	түөлбэ<NOUN><Number=Sing><Case=Nom>
+
+тэрил	тэрил<NOUN><Number=Sing><Case=Nom>
+
+аһааһын	+?
+
+англия	+?
+
+быһыыларга	+?
+
+степанович	+?
+
+сэбиэт	+?
+
+сибэтиэй	+?
+
+итирбит	+?
+
+умнубат	+?
+
+киирбиттэр	+?
+
+афанасьев	+?
+
+кыраайы	+?
+
+таҥарата	таҥара<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+таҥарата	таҥара<NOUN><Number=Sing><Case=Par>
+
+сүүрэн	+?
+
+туппут	+?
+
+илья	+?
+
+училищеҕа	+?
+
+сииннэрэ	+?
+
+оҥороллорун	+?
+
+егоров	+?
+
+кубулуйдаҕына	+?
+
+аймахтарын	аймах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+саһан	+?
+
+аналлаахтар	+?
+
+өйдөбүллэригэр	+?
+
+билбэттэр	бил<VERB><Number=Plur><Person=3><Polarity=Neg><Tense=Pres>
+
+софрон	+?
+
+үрэхтэр	үрэх<NOUN><Number=Plur><Case=Nom>
+
+чинчийии	+?
+
+хомуллан	+?
+
+эрабыт	+?
+
+сибээстээн	+?
+
+уолаттара	уол<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+уолаттара	уол<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+миэстэҕэ	+?
+
+ыарыытыгар	+?
+
+тымныыга	+?
+
+оҥорбокко	+?
+
+төһөнөн	+?
+
+ытыктыыр	+?
+
+бэйэҥ	бэйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>
+
+булар	бул<VERB><Number=Sing><Person=3><Tense=Pres>
+
+университета	+?
+
+ананар	+?
+
+куораттан	куорат<NOUN><Number=Sing><Case=Abl>
+
+омуктартан	+?
+
+уотугар	+?
+
+көстүбүт	көс<VERB><Number=Plur><Person=1><Tense=NearPast>
+
+дьарыктаммыт	+?
+
+сатаабыта	сатаа<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+туһаныахха	+?
+
+диэххэ	+?
+
+өртүттэн	+?
+
+тутуллубута	+?
+
+күүһүрдэр	+?
+
+саллаат	+?
+
+аатырар	+?
+
+сталин	+?
+
+сананар	+?
+
+бөһүөлэк	+?
+
+илиитигэр	илии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+түһэрэн	+?
+
+эттик	+?
+
+сибэкки	+?
+
+уордьана	+?
+
+васильевна	+?
+
+уйбаан	+?
+
+санкт	+?
+
+суоҕу	+?
+
+ыҥыран	+?
+
+бэйэмсэх	+?
+
+итиини	итии<NOUN><Number=Sing><Case=Acc>
+
+тэйэн	+?
+
+түһүү	+?
+
+сатыыра	сатаа<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+соҕотохто	+?
+
+мэчиэт	+?
+
+түҥ	+?
+
+кыаммат	+?
+
+олоҥхону	олоҥхо<NOUN><Number=Sing><Case=Acc>
+
+манаас	+?
+
+хааччыйыы	+?
+
+суругар	+?
+
+өҥ	+?
+
+винокуров	+?
+
+ырыаны	ырыа<NOUN><Number=Sing><Case=Acc>
+
+ааптар	+?
+
+төрөөн	+?
+
+аҕыйахтык	+?
+
+алҕас	+?
+
+бэрээдэккэ	+?
+
+уобалаһыгар	+?
+
+арыытыгар	арыы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+болҕомто	+?
+
+индия	+?
+
+африка	+?
+
+тэрилтэлэрэ	+?
+
+кылааһы	кылаас<NOUN><Number=Sing><Case=Acc>
+
+монголлар	+?
+
+тутуллар	+?
+
+дьиэлэрэ	дьиэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+дьиэлэрэ	дьиэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+үтүктэ	+?
+
+хараны	+?
+
+сскп	+?
+
+өлбүттэр	+?
+
+дьахталлары	+?
+
+сырдатар	+?
+
+үөрэппитэ	+?
+
+хаһаайыстыба	+?
+
+түһэрэр	+?
+
+билиннэ	+?
+
+тылдьыт	+?
+
+үлэлээх	+?
+
+мунньуллубут	+?
+
+холкуос	+?
+
+үһүйээн	+?
+
+арыыны	арыы<NOUN><Number=Sing><Case=Acc>
+
+устан	+?
+
+куттал	+?
+
+ырыаһыта	+?
+
+туттуллаллар	+?
+
+алтай	+?
+
+араастаан	+?
+
+ыраастыыр	+?
+
+уруттаан	+?
+
+кыыһы	+?
+
+албын	+?
+
+куораттар	куорат<NOUN><Number=Plur><Case=Nom>
+
+чинчийбит	+?
+
+оһол	+?
+
+сүүһүнэн	+?
+
+хаалбакка	+?
+
+булбут	+?
+
+үөскэтэрэ	+?
+
+сыттаах	+?
+
+улааппытын	+?
+
+эрэллээх	эрэл<ADJ><Poss=Yes>
+
+төрөппүттэриттэн	+?
+
+экэниэмикэ	+?
+
+хомуурунньуга	+?
+
+уотунан	+?
+
+түмсүү	+?
+
+быыстарыгар	+?
+
+күөҕэ	+?
+
+буолуоҕуттан	+?
+
+суруйаллар	суруй<VERB><Number=Plur><Person=3><Tense=Pres>
+
+ааттарынан	аат<NOUN><Number=Plur><Case=Ins>
+
+наркоман	+?
+
+төннүбүт	+?
+
+ситиһиилээх	+?
+
+искусство	+?
+
+сайдыбыта	+?
+
+историятыгар	+?
+
+тэйиччи	+?
+
+суруналыыс	+?
+
+киллэрэллэр	киллэр<VERB><Number=Plur><Person=3><Tense=Pres>
+
+үөскүүрүгэр	+?
+
+анаммыта	+?
+
+туттуллара	+?
+
+кэмнэрин	кэм<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+иһэригэр	+?
+
+кыыллартан	кыыл<NOUN><Number=Plur><Case=Abl>
+
+степанов	+?
+
+халтыны	+?
+
+тулуйарга	+?
+
+таҕыстаҕына	+?
+
+бүтэн	+?
+
+военкоматынан	+?
+
+училищены	+?
+
+билиилээх	+?
+
+үөрэнэллэр	үөрэн<VERB><Number=Plur><Person=3><Tense=Pres>
+
+эһэтэ	эһэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+эһэтэ	эһэ<NOUN><Number=Sing><Case=Par>
+
+арыт	арыт<ADV>
+
+балаһыанньа	+?
+
+сииктээх	+?
+
+куйаас	+?
+
+иһиититтэн	+?
+
+туһаҕа	+?
+
+устуоруйатын	+?
+
+төрдүгэр	+?
+
+элбэҕэ	+?
+
+эмтииргэ	+?
+
+оҕом	оҕо<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+
+максим	+?
+
+аһары	+?
+
+ойоҕо	+?
+
+көхтөөхтүк	+?
+
+уһуннаах	уһун<ADJ><Poss=Yes>
+
+батыһар	+?
+
+кыһанар	+?
+
+тимур	+?
+
+килбиэннээх	+?
+
+олохтообута	+?
+
+ыларга	+?
+
+дьоллоох	дьоллоох<ADJ>
+
+сэриилэспит	+?
+
+толоруу	+?
+
+кукка	+?
+
+тулуйан	+?
+
+буолууттан	+?
+
+тохтотон	+?
+
+итирдэҕинэ	+?
+
+кэннилэриттэн	+?
+
+чыычаах	+?
+
+харыстабылын	+?
+
+империя	+?
+
+дииллэрэ	+?
+
+таһымҥа	+?
+
+кэбиһэрэ	+?
+
+сынньанар	+?
+
+тоҥ	тоҥ<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+ырыатын	+?
+
+призера	+?
+
+температурата	+?
+
+ядернай	+?
+
+барыс	+?
+
+ситиһэллэр	ситис<VERB><Number=Plur><Person=3><Tense=Pres>
+
+улаатара	+?
+
+наадатын	+?
+
+коммунизм	+?
+
+дьайан	+?
+
+григорьевич	+?
+
+үөрэтэллэрэ	+?
+
+дьааҥы	+?
+
+оҥоруохха	+?
+
+сокуона	+?
+
+тыыннаахтар	+?
+
+кэмнээн	+?
+
+чааска	чаас<NOUN><Number=Sing><Case=Dat>
+
+сэрэхтээхтик	+?
+
+улаата	улаат<VERB><Tense=Pres><VerbForm=Trans>
+
+мандар	+?
+
+көспүтэ	+?
+
+тардыһар	+?
+
+уобаласка	+?
+
+арыйбыт	арый<VERB><Number=Plur><Person=1><Tense=Pres>
+арыйбыт	арый<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+утуйа	утуй<VERB><Tense=Pres><VerbForm=Trans>
+
+культурнай	+?
+
+бэйэм	бэйэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+бэйэм	бэйэм<PART>
+
+тыын	+?
+
+өрүһү	+?
+
+хаҕан	+?
+
+үтүөҕэ	+?
+
+сэбирдэхтээх	+?
+
+туттарбыт	+?
+
+алааска	+?
+
+ыккардыларынааҕы	+?
+
+санаалаахтар	+?
+
+кэлиҥҥи	+?
+
+кыахтааҕа	+?
+
+ааттааһын	+?
+
+үйэтээҕи	+?
+
+олохтообут	+?
+
+уонтан	+?
+
+үйэттэн	+?
+
+ийэлэр	ийэ<NOUN><Number=Plur><Case=Nom>
+
+күүстэрэ	күүс<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ыллыыр	ыллаа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+ниэмэс	+?
+
+уурааҕынан	+?
+
+бэргэн	+?
+
+бэчээттэнэн	+?
+
+халыйыыны	+?
+
+хнт	+?
+
+ыты	ыт<NOUN><Number=Sing><Case=Acc>
+
+билиитигэр	билии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+илэтигэр	+?
+
+үлэһиттэри	үлэһит<NOUN><Number=Plur><Case=Acc>
+
+кэс	+?
+
+музей	+?
+
+көспүт	көс<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+көспүт	көс<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+көнөн	+?
+
+чиҥ	+?
+
+бүппүтүн	+?
+
+ыарыытын	+?
+
+уонунан	+?
+
+сүүрбэ	+?
+
+сылдьыан	+?
+
+табылларын	+?
+
+ефремов	+?
+
+сиппит	+?
+
+хамыыһыйа	+?
+
+үтүктүү	+?
+
+балаһыанньаҕа	+?
+
+устудьуон	+?
+
+секретарынан	+?
+
+ли	+?
+
+улааталлар	улаат<VERB><Number=Plur><Person=3><Tense=Pres>
+
+мунньан	+?
+
+сыа	сыа<NOUN><Number=Sing><Case=Nom>
+
+сулустардаах	+?
+
+үстэ	үс<NUM><Case=Par><NumType=Card>
+
+утарар	утар<VERB><Number=Sing><Person=3><Tense=Pres>
+
+перс	+?
+
+эриэн	эриэн<ADJ>
+
+өйүүр	+?
+
+уһуллубута	+?
+
+дьокутаата	+?
+
+туттара	+?
+
+көттөҕүнэ	+?
+
+быһаара	быһаар<VERB><Tense=Pres><VerbForm=Trans>
+
+сон	сон<NOUN><Number=Sing><Case=Nom>
+
+түмүгэ	+?
+
+барыһы	+?
+
+манчаары	+?
+
+оонньууларын	+?
+
+үлэлээбиттэрэ	+?
+
+үлэһиттэрин	үлэһит<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+тиһэҕэр	+?
+
+киилэ	+?
+
+федерация	+?
+
+греция	+?
+
+сорҕото	+?
+
+дьайыыны	+?
+
+арыллар	+?
+
+муустаах	+?
+
+тымыр	+?
+
+өбүгэлэрбит	+?
+
+якутского	+?
+
+комсомол	+?
+
+александрович	+?
+
+таһаарыы	+?
+
+кэлэллэр	кэл<VERB><Number=Plur><Person=3><Tense=Pres>
+
+хотон	хотон<NOUN><Number=Sing><Case=Nom>
+
+классическай	+?
+
+айымньытын	+?
+
+уларыппакка	+?
+
+көрдөбүллэрэ	+?
+
+элбээһинэ	+?
+
+куотан	+?
+
+тото	тот<VERB><Tense=Pres><VerbForm=Trans>
+
+былааһа	+?
+
+өйдөбүллэринэн	+?
+
+туттунууга	+?
+
+тэрийии	+?
+
+хомолтолоох	+?
+
+уобаластааҕы	+?
+
+билиэн	+?
+
+туруоран	+?
+
+дьиэлэри	+?
+
+иннэ	+?
+
+сахаҕа	саха<NOUN><Number=Sing><Case=Dat>
+
+таастар	таас<NOUN><Number=Plur><Case=Nom>
+
+үөрэхтэринэн	+?
+
+бултуур	+?
+
+олохпут	+?
+
+бүтэрэр	+?
+
+манан	+?
+
+номнуо	+?
+
+куоратын	куорат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+араб	+?
+
+холбуур	+?
+
+тахсыыта	+?
+
+сэриилэрэ	+?
+
+туом	+?
+
+ыарыыттан	+?
+
+сыһыанын	сыһыан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+бэйэтиттэн	+?
+
+кырдьан	+?
+
+көрөргө	+?
+
+туттаран	+?
+
+гынар	гын<VERB><Number=Sing><Person=3><Tense=Pres>
+
+түбэспит	+?
+
+кэпсииллэр	+?
+
+тиэрэ	+?
+
+уһулуччулаах	+?
+
+манньыат	+?
+
+промышленность	+?
+
+санаалардаах	+?
+
+хамнаһа	хамнас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+кубулуйбута	+?
+
+сыыһатын	+?
+
+сайдыбытын	+?
+
+бэчээттэммит	+?
+
+ирбэт	+?
+
+нүөмэрдээх	+?
+
+чуумпу	чуумпу<ADJ>
+
+туой	+?
+
+ахтыбат	+?
+
+чох	чох<NOUN><Number=Sing><Case=Nom>
+
+ааттаабыттара	ааттаа<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+комсомольскай	+?
+
+уһулуччу	+?
+
+диэннэр	+?
+
+таҥаратын	+?
+
+ылларан	+?
+
+института	+?
+
+хамсааһына	хамсааһын<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+кумааҕыга	+?
+
+кэлбиттэрэ	+?
+
+билинии	+?
+
+диэннэргэ	+?
+
+тыаһа	+?
+
+буортуну	+?
+
+быраабылаларын	+?
+
+туолбат	+?
+
+иккиһинэн	+?
+
+баһа	бас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+литератураҕа	+?
+
+олордоҕуна	+?
+
+бэлиэлэр	+?
+
+тутуута	+?
+
+олороро	+?
+
+дойдулары	+?
+
+лат	+?
+
+өйдөбүллэри	+?
+
+салгыны	+?
+
+түүллэр	+?
+
+педагогика	+?
+
+күүстэрин	+?
+
+үйэлэрин	үйэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+үйэлэрин	үйэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+холобурунан	+?
+
+суон	суон<ADJ>
+
+туспатык	+?
+
+сэриинэн	+?
+
+оҥоһуллубута	+?
+
+улуустарга	улуус<NOUN><Number=Plur><Case=Dat>
+
+группа	+?
+
+хонтуруоллуур	+?
+
+лена	+?
+
+баайыллан	+?
+
+уларыйарын	+?
+
+хоһоонунан	+?
+
+кэпсэтэр	+?
+
+директора	+?
+
+сэриилэрин	+?
+
+кыргыс	+?
+
+көрдүү	+?
+
+хамсатан	+?
+
+көрдөөн	+?
+
+барбатын	+?
+
+иҥэринэр	+?
+
+истибэт	+?
+
+дьыалаларын	+?
+
+ийэлэрэ	ийэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+ийэлэрэ	ийэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+мууска	+?
+
+баан	+?
+
+тутулугун	+?
+
+бэһис	+?
+
+сымыйанан	+?
+
+кэпсээннэрэ	+?
+
+бэстилиэнэй	+?
+
+көрүүтүн	+?
+
+ньымаларын	+?
+
+елена	+?
+
+ыйааһыннаах	+?
+
+хх	+?
+
+эрдэлээн	+?
+
+халбаҥнаабат	+?
+
+александра	+?
+
+сопхуос	+?
+
+эбиискэ	+?
+
+аҕыйахтар	+?
+
+хааҥҥа	хаан<NOUN><Number=Sing><Case=Dat>
+
+азияҕа	+?
+
+мастар	мас<NOUN><Number=Plur><Case=Nom>
+
+киирэрин	+?
+
+санаабытын	+?
+
+сатаммат	+?
+
+ыйан	+?
+
+билиэххэ	+?
+
+яковлев	+?
+
+эргэрбит	+?
+
+алдьархай	+?
+
+ананан	+?
+
+общество	+?
+
+идэтийбит	+?
+
+марха	+?
+
+прокопий	+?
+
+депутатынан	+?
+
+өбүгэлэрин	+?
+
+тириэрдибитэ	+?
+
+көрүөн	+?
+
+уоллаах	+?
+
+хардарыта	+?
+
+иһэриттэн	+?
+
+бытааннык	бытаан<ADV><ADVLZ=Yes>
+
+түбэһиннэрэн	+?
+
+ыга	+?
+
+быһаарара	+?
+
+ыыппыттар	+?
+
+техническэй	+?
+
+түбэлтэҕэ	+?
+
+арыйбыта	арый<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+сиэрпэ	+?
+
+уулусса	уулусса<NOUN><Number=Sing><Case=Nom>
+
+уруккута	+?
+
+планета	+?
+
+саҕа	+?
+
+көмпүүтэр	+?
+
+республиката	+?
+
+баҕаларын	баҕа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+баҕаларын	баҕа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+бэрэстээтэлэ	+?
+
+баҕайы	+?
+
+өйдөтөр	+?
+
+үчүгэйтэн	+?
+
+үүтү	үүт<NOUN><Number=Sing><Case=Acc>
+
+түүтэ	түү<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+түүтэ	түү<NOUN><Number=Sing><Case=Par>
+
+иһэринэн	+?
+
+көмөнү	+?
+
+үлэлэри	үлэ<NOUN><Number=Plur><Case=Acc>
+
+дьыалаҕа	+?
+
+кытыла	+?
+
+кыайыылааҕа	+?
+
+тутулун	+?
+
+тууһу	+?
+
+көр	көр<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+көр	көр<NOUN><Number=Sing><Case=Nom>
+
+күөллэр	күөл<NOUN><Number=Plur><Case=Nom>
+
+федорович	+?
+
+букатыннаахтык	+?
+
+мэтээллэринэн	+?
+
+аска	ас<NOUN><Number=Sing><Case=Dat>
+
+быыһыыр	+?
+
+кыанар	+?
+
+биэрбиттэр	+?
+
+евдокия	+?
+
+география	+?
+
+тылбаастаабыта	+?
+
+гаас	+?
+
+туолуута	+?
+
+төрүөҕүттэн	+?
+
+ыалы	ыал<NOUN><Number=Sing><Case=Acc>
+
+этибит	+?
+
+ыаллыы	+?
+
+биирэ	+?
+
+ойуурга	ойуур<NOUN><Number=Sing><Case=Dat>
+
+худуоһунньук	+?
+
+дьол	дьол<NOUN><Number=Sing><Case=Nom>
+
+өйтөн	+?
+
+оҥостоллор	+?
+
+дакаастанан	+?
+
+талыллыбыта	+?
+
+ыарыылара	+?
+
+иччи	+?
+
+дэриэбинэ	+?
+
+мусульманнар	+?
+
+хостонор	+?
+
+хомуйар	+?
+
+сулустар	сулус<NOUN><Number=Plur><Case=Nom>
+
+горькай	+?
+
+тахсарыгар	+?
+
+ааттар	аат<NOUN><Number=Plur><Case=Nom>
+
+опера	+?
+
+байкал	+?
+
+чааһын	чаас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+үчүгэйбин	+?
+
+захаров	+?
+
+омуктара	+?
+
+көйгө	+?
+
+массыынаны	массыына<NOUN><Number=Sing><Case=Acc>
+
+мэйиитэ	+?
+
+сэлээппэтэ	сэлээппэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+сэлээппэтэ	сэлээппэ<NOUN><Number=Sing><Case=Par>
+
+турбута	тур<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+промышленнай	+?
+
+маһынан	мас<NOUN><Number=Sing><Case=Ins>
+
+оонньуулар	+?
+
+тихон	+?
+
+туолар	+?
+
+эньиэргийэ	+?
+
+биэрэллэрин	+?
+
+кыайыылаах	+?
+
+тиэрмин	+?
+
+устатыгар	+?
+
+кылгастык	+?
+
+тулуурдара	+?
+
+оҕоттон	+?
+
+үрүҥү	+?
+
+сааһа	саас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+суруйарга	+?
+
+улаханнара	+?
+
+күүһү	+?
+
+көһөр	+?
+
+таһаараллар	таһаар<VERB><Number=Plur><Person=3><Tense=Pres>
+
+хотой	хотой<NOUN><Number=Sing><Case=Nom>
+
+кубулутан	+?
+
+умайар	+?
+
+сыта	сыт<VERB><Tense=Pres><VerbForm=Trans>
+
+соҕотоҕун	+?
+
+горнай	+?
+
+буолуор	+?
+
+оройуоҥҥа	оройуон<NOUN><Number=Sing><Case=Dat>
+
+салҕаан	+?
+
+саастарыгар	+?
+
+хаалыы	+?
+
+сүүрэр	+?
+
+тутулуктаахтар	+?
+
+итинэн	+?
+
+фольклор	+?
+
+государстволар	+?
+
+сииниттэн	+?
+
+албыҥҥа	+?
+
+улааппыта	+?
+
+киһилэрэ	киһи<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+киһилэрэ	киһи<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ыарыыларга	+?
+
+хаалла	хаал<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+чэй	чэй<NOUN><Number=Sing><Case=Nom>
+
+буһарар	+?
+
+быһаарбыт	быһаар<VERB><Number=Plur><Person=1><Tense=Pres>
+быһаарбыт	быһаар<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+уларыйбыт	уларый<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+нэһиилэ	+?
+
+оройуона	оройуон<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ленинград	+?
+
+олохтоммут	+?
+
+аһыллыбыта	+?
+
+уордьан	+?
+
+бэйиэт	+?
+
+ыараханын	+?
+
+көрдөҕүнэ	+?
+
+өрүттэрин	+?
+
+билбитэ	бил<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+эрчиллии	+?
+
+биэрдэххэ	+?
+
+тахсыбат	+?
+
+кэмнэр	кэм<NOUN><Number=Plur><Case=Nom>
+
+ылыллар	+?
+
+тэҥнээтэххэ	+?
+
+үөн	үөн<NOUN><Number=Sing><Case=Nom>
+
+уларыйбыта	уларый<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+нью	+?
+
+уҥуоҕа	уҥуох<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+уҥуоҕа	уҥуох<NOUN><Number=Sing><Case=Dat>
+
+кэтэр	кэт<VERB><Number=Sing><Person=3><Tense=Pres>
+
+уурар	уур<VERB><Number=Sing><Person=3><Tense=Pres>
+
+аймахтарыгар	+?
+
+туһаныыга	+?
+
+ольга	+?
+
+быһаарбыттар	+?
+
+бырыһыана	+?
+
+олорорго	+?
+
+мөллүйүөн	+?
+
+латыын	+?
+
+көрүллэр	+?
+
+новгородов	+?
+
+тустуу	+?
+
+таҥнары	+?
+
+хоролор	+?
+
+кырыыс	+?
+
+бии	+?
+
+по	+?
+
+хаппыт	+?
+
+түбэһэрэ	+?
+
+баһын	бас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+үлэлиирэ	+?
+
+ахтан	+?
+
+бүлүүтээҕи	+?
+
+сыалы	+?
+
+тиийбитэ	тиий<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+көмөлөһөн	+?
+
+чааһыгар	+?
+
+саһархай	+?
+
+ефимов	+?
+
+туталлар	тут<VERB><Number=Plur><Person=3><Tense=Pres>
+
+университекка	+?
+
+охтон	+?
+
+көрдөрө	көр<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+дьайа	+?
+
+саҥара	саҥар<VERB><Tense=Pres><VerbForm=Trans>
+
+дьайарын	+?
+
+үйэни	үйэ<NOUN><Number=Sing><Case=Acc>
+
+пекарскай	+?
+
+ойууннара	+?
+
+соччонон	+?
+
+академическай	+?
+
+ньымалара	+?
+
+тарбаҕын	тарбах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+республикатааҕы	+?
+
+сөҥүү	+?
+
+хоҥор	+?
+
+улуустарыгар	+?
+
+дьаһаах	+?
+
+уратылаахтар	+?
+
+францияҕа	+?
+
+күнүс	күнүс<NOUN><Number=Sing><Case=Nom>
+
+майгыларын	+?
+
+дьарыктара	+?
+
+генерал	+?
+
+сылдьыбат	+?
+
+кытархай	+?
+
+кэпсээннэргэ	+?
+
+уҥуохтаах	+?
+
+миллион	+?
+
+бухатыыр	+?
+
+үөрэхтэригэр	+?
+
+күрэхтэһии	+?
+
+дьахталларга	дьахтар<NOUN><Number=Plur><Case=Dat>
+
+туттарыллыбыт	+?
+
+буукуба	+?
+
+испания	+?
+
+тэрилтэтин	+?
+
+ыраастанан	+?
+
+сэбилэниилээх	+?
+
+көрдөрбүт	көр<NOUN><Number=Plur><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+кириэппэс	+?
+
+төрүттэммит	+?
+
+таҥаһа	таҥас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+уйгуур	+?
+
+өйдүү	+?
+
+хамаанда	+?
+
+бүтэһигэр	+?
+
+империятын	+?
+
+арыллыбыта	+?
+
+кумааҕы	+?
+
+сэриилэр	+?
+
+арыйыылары	+?
+
+сииллэр	сиэ<VERB><Number=Plur><Person=3><Tense=Pres>
+
+салайыыга	+?
+
+буруйдаах	+?
+
+үөрэммэтэх	үөрэн<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=PastResultI>
+
+айылҕатын	+?
+
+сэлиэнньэтигэр	+?
+
+тайаан	+?
+
+быраастар	быраас<NOUN><Number=Plur><Case=Nom>
+
+иванова	+?
+
+урааҥхай	+?
+
+буолбуттарын	+?
+
+союз	+?
+
+үөрэттэххэ	+?
+
+ньыманан	+?
+
+үөрүү	+?
+
+көрсүбүт	+?
+
+узбек	+?
+
+киирбитин	+?
+
+сэдэхтик	+?
+
+сэрииттэн	+?
+
+бааһынай	+?
+
+норуокка	норуот<NOUN><Number=Sing><Case=Dat>
+
+ньукулай	+?
+
+кинигэтин	+?
+
+ыйар	+?
+
+уоттаах	+?
+
+хоһоонноох	+?
+
+сыалаах	+?
+
+эппиэттиир	+?
+
+айыылаах	+?
+
+виктор	+?
+
+языка	+?
+
+кэмнээҕи	+?
+
+учуонайа	+?
+
+үөскэтиэн	+?
+
+институтугар	+?
+
+хамсанан	+?
+
+олорорун	+?
+
+тохтоторго	+?
+
+амур	+?
+
+араҥата	+?
+
+оччо	+?
+
+олоҕуттан	+?
+
+сыстыганнаах	+?
+
+оргутан	+?
+
+гыннаҕына	+?
+
+төрүөт	+?
+
+тириитин	+?
+
+уулуссаҕа	уулусса<NOUN><Number=Sing><Case=Dat>
+
+салгыҥҥа	+?
+
+нууччаларга	нуучча<NOUN><Number=Plur><Case=Dat>
+
+модун	+?
+
+кэннигэр	+?
+
+таҥаһы	таҥас<NOUN><Number=Sing><Case=Acc>
+
+билэбит	+?
+
+эрэрин	+?
+
+харахтаах	+?
+
+кэтит	+?
+
+биистэрин	+?
+
+сэттис	+?
+
+ситиһиилэрин	+?
+
+иччилээх	+?
+
+халбаҥнаабакка	+?
+
+көлүөнэлэрэ	көлүөнэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+көлүөнэлэрэ	көлүөнэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ыыппыттара	+?
+
+көрдүүр	+?
+
+италия	+?
+
+охсуу	+?
+
+биистэр	+?
+
+сылдьыбытын	+?
+
+физика	+?
+
+суолтатыгар	суолта<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+суругун	сурук<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+башкир	+?
+
+барыларыттан	+?
+
+мунньуллар	+?
+
+тахсыы	+?
+
+кубулуйара	+?
+
+кэккэтигэр	кэккэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+кыстыыр	+?
+
+кэмнэ	+?
+
+татьяна	+?
+
+бэчээттэммиттэрэ	+?
+
+дьыалатыгар	+?
+
+чилиэннэрэ	+?
+
+быстар	+?
+
+булуу	+?
+
+хотторон	+?
+
+хайысханан	+?
+
+баһылык	+?
+
+ахсаанынан	ахсаан<NOUN><Number=Sing><Case=Ins>
+
+хомус	+?
+
+эргиллэн	+?
+
+майгытын	+?
+
+дьиҥнээхтик	+?
+
+туһаналларын	+?
+
+российскай	+?
+
+арбита	+?
+
+хайата	хайа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+хайата	хайа<NOUN><Number=Sing><Case=Par>
+
+кубулутар	+?
+
+балыс	балыс<NOUN><Number=Sing><Case=Nom>
+
+директорынан	+?
+
+оскуолаларын	+?
+
+тимофеев	+?
+
+ветерана	+?
+
+олохпутугар	+?
+
+семенов	+?
+
+хааман	+?
+
+ааптардара	+?
+
+туорааһын	+?
+
+дириҥээн	+?
+
+ыксаллаах	+?
+
+сайыннаҕына	+?
+
+тутталлара	+?
+
+биэриигэ	+?
+
+ыраастаныы	+?
+
+кэтэһэр	+?
+
+ислам	+?
+
+биирин	+?
+
+тустаах	тус<ADJ><Poss=Yes>
+
+олохсуйа	+?
+
+маанылаан	+?
+
+дорҕоону	+?
+
+социалистыы	+?
+
+старшай	+?
+
+суруллан	+?
+
+хайаларыгар	+?
+
+рак	+?
+
+амтаннаах	+?
+
+перестройка	+?
+
+уйгуурдар	+?
+
+утах	+?
+
+үөрэтиллэр	+?
+
+сылдьабыт	+?
+
+чыҥыс	+?
+
+сасср	+?
+
+олоҕурбут	+?
+
+кынатын	+?
+
+үөскээбиттэрэ	+?
+
+биэрдэҕинэ	+?
+
+дьиҥэр	+?
+
+мөлтөөбүт	+?
+
+саҕаттан	+?
+
+этиилэринэн	этии<NOUN><Number=Plur><Case=Ins>
+
+дмитриевна	+?
+
+ойуурдарга	+?
+
+тэриллэри	тэрил<NOUN><Number=Plur><Case=Acc>
+
+рок	+?
+
+ыытыы	+?
+
+млрд	+?
+
+кимэн	+?
+
+суоҕунан	+?
+
+үүммүт	+?
+
+куйаар	+?
+
+араарбат	араар<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+ус	+?
+
+бииһин	+?
+
+ыраахтан	+?
+
+киирбэт	киир<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+компания	+?
+
+ыытарга	+?
+
+сыллартан	сыл<NOUN><Number=Plur><Case=Abl>
+
+туустаах	+?
+
+кинээс	+?
+
+ытар	+?
+
+тойоттор	+?
+
+чингисхан	+?
+
+сокуону	+?
+
+чулуу	+?
+
+үөскүү	+?
+
+бииртэн	+?
+
+булуохха	+?
+
+байан	+?
+
+иһиитигэр	+?
+
+дьайыылаах	+?
+
+этим	эт<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+
+ойуулаах	+?
+
+өлөрбүт	өлөр<VERB><Number=Plur><Person=1><Tense=Pres>
+өлөрбүт	өлөр<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+кэлбиттэр	+?
+
+бааһыран	+?
+
+хаһыаттарга	хаһыат<NOUN><Number=Plur><Case=Dat>
+
+солбуйар	+?
+
+тыһыынчанан	+?
+
+таһырдьа	таһырдьа<ADV>
+
+салайтаран	+?
+
+үөрүйэҕэ	үөрүйэх<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+быраабын	+?
+
+бэлэмнээн	+?
+
+сатаабыт	сатаа<VERB><Number=Plur><Person=1><Tense=Pres>
+сатаабыт	сатаа<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+күннээх	+?
+
+сатаабыттара	сатаа<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+ыккардыларыгар	+?
+
+тардыы	+?
+
+төрүөтэ	+?
+
+ыччаты	+?
+
+аһынан	ас<NOUN><Number=Sing><Case=Ins>
+
+эмис	эмис<ADJ>
+
+улаханыттан	+?
+
+сылгыны	+?
+
+тутууну	+?
+
+административнай	+?
+
+олороллоро	+?
+
+уокурук	+?
+
+валерий	+?
+
+таһаарыыта	+?
+
+тылбытыгар	+?
+
+мэйиитин	+?
+
+өрүттэр	+?
+
+сылдьалларыттан	+?
+
+элбээтилэр	+?
+
+хоһоонугар	+?
+
+кэһэр	+?
+
+буоларыттан	+?
+
+консерватория	+?
+
+туруорар	туруор<VERB><Number=Sing><Person=3><Tense=Pres>
+
+хаптал	+?
+
+хаһаайына	+?
+
+сана	+?
+
+суукка	+?
+
+андреевич	+?
+
+филология	+?
+
+москубатааҕы	+?
+
+көмөтө	+?
+
+не	+?
+
+театрын	+?
+
+та	+?
+
+барыга	+?
+
+бэлэми	+?
+
+екатерина	+?
+
+толорорго	+?
+
+үөскэппитэ	+?
+
+солк	+?
+
+түстэҕинэ	+?
+
+туспалар	+?
+
+факультет	+?
+
+тириитэ	+?
+
+ылаллара	+?
+
+туохтуур	+?
+
+ыраастаан	+?
+
+учууталлаабыта	+?
+
+сайынын	+?
+
+тыаһы	+?
+
+итэҕэлгэ	+?
+
+советын	+?
+
+бороҕон	+?
+
+массыынанан	массыына<NOUN><Number=Sing><Case=Ins>
+
+уруулуу	+?
+
+үҥкүү	+?
+
+саһыл	+?
+
+көмөлөспүт	+?
+
+тохтоло	+?
+
+солбуйааччы	+?
+
+турцияҕа	+?
+
+сонун	сон<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+сонун	сонун<NOUN><Number=Sing><Case=Nom>
+
+барыылара	+?
+
+тутулуктара	+?
+
+дьаһайар	+?
+
+байанай	+?
+
+түбэлтэлэрэ	+?
+
+үчүгэйдээх	үчүгэй<ADJ><Poss=Yes>
+
+историята	+?
+
+тэҥнээх	+?
+
+ырыалара	ырыа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+ырыалара	ырыа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+олохтоммута	+?
+
+биэриини	+?
+
+сэп	+?
+
+сэбэ	+?
+
+сүгэр	+?
+
+аһыллыбыт	+?
+
+ыган	+?
+
+саҕаланыыта	+?
+
+аатыран	+?
+
+дорҕооно	+?
+
+аҕам	аҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+аҕам	аҕам<ADJ>
+
+быһаарарын	+?
+
+батыһа	+?
+
+хатан	+?
+
+суорун	+?
+
+гириэк	+?
+
+сабыдыала	+?
+
+ыстатыйалары	+?
+
+ыйы	ый<NOUN><Number=Sing><Case=Acc>
+
+хонон	+?
+
+эбэҥки	+?
+
+баттаан	+?
+
+грек	+?
+
+яков	+?
+
+суоппар	+?
+
+элбээбитэ	элбээ<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+тыыл	+?
+
+тыына	+?
+
+барарыгар	+?
+
+ийэм	ийэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+
+иркутскайга	+?
+
+сирдиир	+?
+
+үөскэтэринэн	+?
+
+ситэтэ	+?
+
+күнүнэн	күн<NOUN><Number=Sing><Case=Ins>
+
+олохсуйбута	+?
+
+хайаҕа	хайа<NOUN><Number=Sing><Case=Dat>
+
+амтана	+?
+
+көлүөнэлэригэр	+?
+
+сыһыаннарын	сыһыан<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+үөһээттэн	+?
+
+баһылааһын	+?
+
+туспаларын	+?
+
+этиилэри	этии<NOUN><Number=Plur><Case=Acc>
+
+тутуутун	+?
+
+көрдөрүү	+?
+
+сөкүүндэҕэ	+?
+
+ыстатыйа	+?
+
+билиҥҥэ	+?
+
+бааһырбыт	+?
+
+куоратка	+?
+
+түбэлтэ	+?
+
+кы	+?
+
+өрүттэрэ	+?
+
+сыыһалардаах	+?
+
+көрдөрбүтэ	+?
+
+империята	+?
+
+былыргыны	+?
+
+уйаланар	+?
+
+идэтинэн	+?
+
+түгэн	+?
+
+отон	+?
+
+сөбүлүү	+?
+
+сиэннэрэ	+?
+
+талыы	+?
+
+сеп	+?
+
+истэрэ	+?
+
+хомойуох	+?
+
+сүтэрэн	+?
+
+тэриллии	+?
+
+осман	+?
+
+хабар	+?
+
+миэстэлээх	+?
+
+тустарыгар	+?
+
+тылбаастанар	+?
+
+аэропорт	+?
+
+харамай	+?
+
+программа	+?
+
+омоҕой	+?
+
+кэргэннэригэр	+?
+
+гражданина	+?
+
+сиэрин	+?
+
+айымньыта	айымньы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+айымньыта	айымньы<NOUN><Number=Sing><Case=Par>
+
+сыалынан	+?
+
+тутулуктааҕа	+?
+
+атыҥҥа	+?
+
+күлүү	+?
+
+түмэлэ	+?
+
+хамсааһынын	хамсааһын<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+харалла	+?
+
+баһылыктара	+?
+
+өбүгэлэрэ	+?
+
+монография	+?
+
+хаалбыттара	хаал<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+космос	+?
+
+толорууга	+?
+
+эрчийии	+?
+
+үөскэппиттэр	+?
+
+үлэлииллэрэ	+?
+
+угуйар	+?
+
+бэлиэтэммит	+?
+
+талыллар	+?
+
+халыйан	+?
+
+кистээн	+?
+
+омугунан	+?
+
+ылыан	+?
+
+сатаабат	сатаа<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+дьахтарга	дьахтар<NOUN><Number=Sing><Case=Dat>
+
+мастан	мас<NOUN><Number=Sing><Case=Abl>
+
+алтыс	+?
+
+истибит	ис<VERB><Number=Plur><Person=1><Tense=NearPast>
+
+баһыгар	+?
+
+москватааҕы	+?
+
+айымньылар	айымньы<NOUN><Number=Plur><Case=Nom>
+
+төрдүн	+?
+
+кэргэниттэн	+?
+
+бүөтүр	+?
+
+итэҕэллээх	+?
+
+төрүттээбит	+?
+
+сыһыарыыта	+?
+
+элбиирин	+?
+
+санааһын	+?
+
+сэргэҕэ	+?
+
+тымныынан	+?
+
+түбэһэллэрэ	+?
+
+кэлиитигэр	+?
+
+үлэлэр	үлэ<NOUN><Number=Plur><Case=Nom>
+
+буккуйан	+?
+
+сатааччылар	+?
+
+быһаарарынан	+?
+
+дьулуһар	+?
+
+буруйа	буруй<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+грех	+?
+
+тымныйан	+?
+
+көтөҕөр	+?
+
+арыллыбыт	+?
+
+былчархай	+?
+
+маастар	+?
+
+буолааччы	+?
+
+кэбиһэллэрэ	+?
+
+көрсөн	+?
+
+аһынар	+?
+
+биллэрбит	+?
+
+хоһооннор	+?
+
+оҥоруулара	+?
+
+уолаттары	уол<NOUN><Number=Plur><Case=Acc>
+
+үөрэр	+?
+
+сэбирдэҕин	+?
+
+анаабыт	анаа<VERB><Number=Plur><Person=1><Tense=Pres>
+анаабыт	анаа<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+уоллара	+?
+
+төрүтүнэн	+?
+
+умнаһа	+?
+
+отделын	+?
+
+васильева	+?
+
+кураан	+?
+
+дьүһүннүүр	+?
+
+кислород	+?
+
+уобалаһа	+?
+
+тохсус	+?
+
+транспорт	+?
+
+английскай	+?
+
+мунньуммут	+?
+
+туолан	+?
+
+хамнаһын	хамнас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+дьайыытыгар	+?
+
+буруй	буруй<NOUN><Number=Sing><Case=Nom>
+
+этиллибит	+?
+
+булчуттар	булчут<NOUN><Number=Plur><Case=Nom>
+
+доруобуйалара	+?
+
+тарбахтарын	тарбах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+астары	ас<NOUN><Number=Plur><Case=Acc>
+
+техника	+?
+
+турок	+?
+
+кэтиллэр	+?
+
+устудьуоннар	+?
+
+олоҥхотун	+?
+
+кыһалҕаны	+?
+
+туруорбута	туруор<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+туппута	+?
+
+польша	+?
+
+ньымаларынан	+?
+
+тахсалларын	+?
+
+табыллан	+?
+
+барыыны	+?
+
+борисов	+?
+
+кыылы	кыыл<NOUN><Number=Sing><Case=Acc>
+
+хоруол	+?
+
+балет	+?
+
+иитиини	+?
+
+хамсааһыннары	хамсааһын<NOUN><Number=Plur><Case=Acc>
+
+түмэр	түм<VERB><Number=Sing><Person=3><Tense=Pres>
+
+кэлиитин	+?
+
+дьулуура	+?
+
+миигин	мин<PRON><Case=Acc><Number=Sing><Person=1><PronType=Prs>
+
+дьонунан	+?
+
+көхтөөх	+?
+
+ытан	+?
+
+тохтоон	+?
+
+кыраай	+?
+
+ортоку	+?
+
+кэлиэхтэрин	+?
+
+муннук	муннук<NOUN><Number=Sing><Case=Nom>
+
+аһылыга	+?
+
+анньан	+?
+
+куораттары	куорат<NOUN><Number=Plur><Case=Acc>
+
+автор	+?
+
+өйдөбүнньүк	+?
+
+карл	+?
+
+маалыкай	+?
+
+бүтэрээт	+?
+
+коммунист	+?
+
+холбоһуктаах	+?
+
+харамайдар	+?
+
+куораттара	куорат<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+тоҥон	+?
+
+дорҕооннорунан	+?
+
+медицинэ	+?
+
+тахсаллара	+?
+
+быстан	+?
+
+веществолар	+?
+
+салаллар	+?
+
+турдаҕына	+?
+
+маҕан	+?
+
+усулуобуйатыгар	+?
+
+сурун	+?
+
+ирдэбил	+?
+
+ыларын	+?
+
+айыыга	айыы<NOUN><Number=Sing><Case=Dat>
+
+истиҥ	иһит<VERB><Mood=Imp><Number=Plur><Person=2><Tense=Pres>
+
+үөрэппэт	үөрэт<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+өлөөн	+?
+
+туризм	+?
+
+уларытыылары	+?
+
+үөрэтээччи	үөрэтээччи<NOUN><Number=Sing><Case=Nom>
+
+онто	+?
+
+эрэйдэнэн	+?
+
+республиканскай	+?
+
+көстө	+?
+
+үөскүөн	+?
+
+эстибитэ	+?
+
+оҥоруохтарын	+?
+
+буолбутугар	+?
+
+ахсаанын	ахсаан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+дуоһунаска	+?
+
+таһаарыылаахтык	+?
+
+материальнай	+?
+
+үҥүү	+?
+
+маһын	мас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+кыһата	+?
+
+салайыы	+?
+
+төр	+?
+
+оруоллаах	+?
+
+көрүҥнэрин	+?
+
+ситимин	+?
+
+хаһаайыстыбатыгар	+?
+
+драматург	+?
+
+хааччаҕа	+?
+
+иhигэр	+?
+
+болҕомтотун	+?
+
+оҥороннор	+?
+
+эстибит	+?
+
+сылдьарыгар	+?
+
+хараҕынан	харах<NOUN><Number=Sing><Case=Ins>
+
+үөрэҕиттэн	+?
+
+сырыттахтарына	+?
+
+кэбистэххэ	+?
+
+системата	+?
+
+тэрийиигэ	+?
+
+ааҕарга	+?
+
+үөс	+?
+
+арааб	+?
+
+кылааты	+?
+
+доруобуйаларын	+?
+
+тутуулар	+?
+
+атахтаах	+?
+
+биистэрэ	+?
+
+баттыыр	+?
+
+арахсыытын	+?
+
+эрэйгэ	+?
+
+аллара	+?
+
+тиксэр	+?
+
+сыаналааһын	+?
+
+оруоллара	+?
+
+уларыйыыны	+?
+
+уоран	+?
+
+айыытын	+?
+
+сэмэни	+?
+
+төрөтөн	+?
+
+сэлиэнньэ	+?
+
+суор	+?
+
+түһүүтэ	+?
+
+абаҕа	+?
+
+муннуктаах	+?
+
+иитэргэ	+?
+
+анатолий	+?
+
+хаалыахтарын	+?
+
+японияҕа	+?
+
+хонукка	+?
+
+дьарыктаналлар	+?
+
+айаҥҥа	айан<NOUN><Number=Sing><Case=Dat>
+
+оҥоруллан	+?
+
+бырааһынньык	+?
+
+талар	+?
+
+оҥоруунан	+?
+
+иһиилэрэ	+?
+
+түбэстэҕинэ	+?
+
+буолбатахтар	+?
+
+оҥорбуттарын	+?
+
+сиэрдээх	+?
+
+тиэтэйэн	+?
+
+быһаҕынан	+?
+
+тутуһаллар	тутус<VERB><Number=Plur><Person=3><Tense=Pres>
+
+салалтатынан	салалта<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+үчүгэйбит	+?
+
+айанныыр	+?
+
+көрбөккө	+?
+
+бэлиэтии	+?
+
+хамсаабат	+?
+
+өтө	+?
+
+хирург	+?
+
+туһалааҕа	+?
+
+сайдыытыттан	+?
+
+сыалтан	+?
+
+философия	+?
+
+эбэтэ	эбэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+эбэтэ	эбэ<NOUN><Number=Sing><Case=Par>
+
+сатыырга	+?
+
+оскуолаларга	оскуола<NOUN><Number=Plur><Case=Dat>
+
+кофе	+?
+
+кэлбэт	кэл<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+художественнай	+?
+
+умнубакка	+?
+
+чуолкайдыыр	+?
+
+суруйара	+?
+
+кыайыыга	+?
+
+көхсө	+?
+
+бэл	бэл<PART>
+
+сааны	саа<NOUN><Number=Sing><Case=Acc>
+
+түүллэригэр	+?
+
+түһэллэр	түс<VERB><Number=Plur><Person=3><Tense=Pres>
+
+мунньах	+?
+
+этэрээт	+?
+
+боло	+?
+
+информацияны	+?
+
+ылбытын	+?
+
+мисима	+?
+
+суолтаҕа	суолта<NOUN><Number=Sing><Case=Dat>
+
+билиҥҥитэ	+?
+
+тыатын	+?
+
+сынньана	+?
+
+ҕа	+?
+
+холбоспут	+?
+
+туоруур	+?
+
+кынаттаах	+?
+
+экономиката	+?
+
+дьылҕа	+?
+
+аптаах	+?
+
+ийэлэрин	ийэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+ийэлэрин	ийэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+тиэйэн	+?
+
+кугас	+?
+
+муҥутуур	+?
+
+чилиэн	+?
+
+хаачыстыбалаах	+?
+
+хамсааһыннар	хамсааһын<NOUN><Number=Plur><Case=Nom>
+
+киһилэрин	киһи<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+киһилэрин	киһи<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+кун	+?
+
+тириэрдэллэр	+?
+
+баайдарын	баай<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+кутунан	+?
+
+батыһыннаран	+?
+
+эргин	эргин<NOUN><Number=Sing><Case=Nom>
+
+кэпсээнэ	+?
+
+иҥэрии	+?
+
+өттүлэригэр	+?
+
+биллэрин	+?
+
+сирдэриттэн	+?
+
+ааспыттара	аас<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+ильич	+?
+
+сыһыаны	сыһыан<NOUN><Number=Sing><Case=Acc>
+
+үөрэнэрин	+?
+
+кэмсинэр	+?
+
+ситэр	сит<VERB><Number=Sing><Person=3><Tense=Pres>
+
+киһиргэс	+?
+
+саныыра	+?
+
+репрессия	+?
+
+бөлөҕүн	+?
+
+бэлэмнэнэн	+?
+
+ордугун	ордук<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+илдьэн	+?
+
+айымньыларыгар	+?
+
+сыыһаларын	сыыһа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+сыыһаларын	сыыһа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+орденынан	+?
+
+буккуллан	+?
+
+миитэрэй	+?
+
+кафедра	+?
+
+хааларыттан	+?
+
+ыстатыйалар	+?
+
+көһө	+?
+
+куһаҕаннаах	куһаҕан<ADJ><Poss=Yes>
+
+бигэргэтэллэр	+?
+
+санаанан	санаа<NOUN><Number=Sing><Case=Ins>
+
+анныттан	+?
+
+сааһырбыт	+?
+
+толорбот	+?
+
+умнуу	+?
+
+билбэтиттэн	+?
+
+албыннааһын	+?
+
+ньымалары	+?
+
+буолуҥ	+?
+
+тиийбэтиттэн	+?
+
+быһыытыттан	+?
+
+училище	+?
+
+эргийэ	+?
+
+томпо	+?
+
+буолаары	+?
+
+райкомун	+?
+
+киев	+?
+
+якутская	+?
+
+тэрилтэни	+?
+
+уҥуох	уҥуох<NOUN><Number=Sing><Case=Nom>
+
+оҥорооччулар	+?
+
+ааттаабыт	ааттаа<VERB><Number=Plur><Person=1><Tense=Pres>
+ааттаабыт	ааттаа<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+па	+?
+
+хаамар	+?
+
+суоттуур	+?
+
+оһох	оһох<NOUN><Number=Sing><Case=Nom>
+
+аҕыйатар	+?
+
+баһылыы	+?
+
+сылдьыбыттарын	+?
+
+тобохторо	+?
+
+чинчийбитэ	+?
+
+бобуллар	+?
+
+дөбөҥнүк	+?
+
+ытыы	+?
+
+аннынан	+?
+
+одьулуун	+?
+
+иннокентьевна	+?
+
+үөрэтээччилэр	үөрэтээччи<NOUN><Number=Plur><Case=Nom>
+
+төрөтөр	+?
+
+баһылааннар	+?
+
+үүнүү	үүнүү<NOUN><Number=Sing><Case=Nom>
+
+баҕалаах	+?
+
+хамсаныы	+?
+
+тэллэй	тэллэй<NOUN><Number=Sing><Case=Nom>
+
+нэһилиэктэр	+?
+
+төрүөтүнэн	+?
+
+тахсыбытын	+?
+
+маҕаһыын	+?
+
+ыттар	ыт<NOUN><Number=Plur><Case=Nom>
+
+англ	+?
+
+сыаналыыллар	+?
+
+тыйаатырын	+?
+
+архыып	+?
+
+дэриэбинэҕэ	+?
+
+өлүүтэ	+?
+
+утуйар	утуй<VERB><Number=Sing><Person=3><Tense=Pres>
+
+ахсааныгар	+?
+
+аҥарыгар	+?
+
+тумса	+?
+
+ад	+?
+
+спортсмен	+?
+
+норуота	норуот<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+олохсуйбуттар	+?
+
+арахсыбыт	+?
+
+византия	+?
+
+боруонса	+?
+
+олимпиада	+?
+
+искусствотын	+?
+
+баайдара	баай<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+табаах	+?
+
+киһиргэтии	+?
+
+арыытын	+?
+
+знамята	+?
+
+бочуот	+?
+
+кара	+?
+
+экономикатын	+?
+
+алроса	+?
+
+төннөр	+?
+
+туолуутугар	+?
+
+түһэрэ	+?
+
+сыһыаннарыгар	+?
+
+массыыналар	массыына<NOUN><Number=Plur><Case=Nom>
+
+устуоруйатыгар	+?
+
+хараабыл	+?
+
+диэнинэн	+?
+
+көрөөччү	+?
+
+отун	от<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+отун	отун<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+нууччалартан	нуучча<NOUN><Number=Plur><Case=Abl>
+
+инбэлиит	+?
+
+бэлиэтэммитэ	+?
+
+уларыйыыларын	+?
+
+тутуһарга	+?
+
+төрүүрүгэр	+?
+
+попова	+?
+
+эккирэтэн	+?
+
+дьыалатын	+?
+
+дэриэбинэтигэр	+?
+
+хааныгар	+?
+
+баттааһына	+?
+
+балыыһаҕа	+?
+
+хонугунан	+?
+
+фольклорун	+?
+
+массыынаҕа	массыына<NOUN><Number=Sing><Case=Dat>
+
+айдаан	+?
+
+мутукчалаах	+?
+
+оҥорууттан	+?
+
+көрөөччүлэр	+?
+
+иҥэмтэлээх	+?
+
+сокуоннарын	+?
+
+көннөрөр	+?
+
+кэрдиис	+?
+
+сыһыаныгар	+?
+
+прозаик	+?
+
+уҥуоҕар	+?
+
+элбэтэллэр	+?
+
+көрсө	+?
+
+сыыһата	сыыһа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+сыыһата	сыыһа<NOUN><Number=Sing><Case=Par>
+
+активнай	+?
+
+бастакытынан	+?
+
+минньигэһи	+?
+
+информация	+?
+
+литературатыгар	+?
+
+эппиэттээх	+?
+
+номох	+?
+
+ситиһиилэри	+?
+
+тутуутугар	+?
+
+сүһүөхтээх	+?
+
+температура	+?
+
+дакаастаан	+?
+
+улаатта	улаат<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+якутский	+?
+
+этиилэригэр	+?
+
+үүнэллэр	үүн<VERB><Number=Plur><Person=3><Tense=Pres>
+
+хамнастаах	+?
+
+үлэтиттэн	+?
+
+тохтото	+?
+
+муоһа	+?
+
+наукаларын	+?
+
+салайааччытынан	салайааччы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+арыгыттан	арыгы<NOUN><Number=Sing><Case=Abl>
+
+старостин	+?
+
+удьуордара	+?
+
+гоголев	+?
+
+штат	+?
+
+уһаан	+?
+
+баһыйа	+?
+
+табаны	таба<NOUN><Number=Sing><Case=Acc>
+
+холкутук	холкутук<ADV>
+
+ымыы	+?
+
+си	+?
+
+искэн	+?
+
+хонууга	хонуу<NOUN><Number=Sing><Case=Dat>
+
+клеткалар	+?
+
+хоһоонноругар	+?
+
+тохтообокко	+?
+
+кыайбыта	кыай<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+өлөксөй	+?
+
+солбуйааччыта	+?
+
+сайыннарыыга	+?
+
+император	+?
+
+былаах	+?
+
+иран	+?
+
+хараҕар	+?
+
+туттуммат	+?
+
+балаһыанньатыгар	+?
+
+оҥорбутуттан	+?
+
+ыллаҕына	+?
+
+тылбааһа	+?
+
+канада	+?
+
+соҕурууҥҥу	+?
+
+былыт	+?
+
+суолларын	суол<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+суолларын	суол<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+муораҕа	+?
+
+өрөспүүбүлүкэтээҕи	+?
+
+киллэрбиттэр	+?
+
+төрүттэммитэ	+?
+
+будда	+?
+
+утуйан	+?
+
+туоһулууллар	+?
+
+макаров	+?
+
+ыраахха	+?
+
+туруоруллубут	+?
+
+барда	бар<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+литэрэтиирэтин	+?
+
+оонньуура	+?
+
+госпитальга	+?
+
+химическай	+?
+
+бүөр	+?
+
+кинигэлэр	кинигэ<NOUN><Number=Plur><Case=Nom>
+
+өлөрбүттэрэ	+?
+
+дириэктэринэн	+?
+
+сатыылларыттан	+?
+
+куһаҕанынан	+?
+
+сыһыаннаһар	+?
+
+өйдөөбөккө	+?
+
+иркутскайдааҕы	+?
+
+истиэп	+?
+
+степеннээх	+?
+
+кэпсэтэн	+?
+
+сааһынан	саас<NOUN><Number=Sing><Case=Ins>
+
+холкуоска	+?
+
+улуустааҕы	+?
+
+атаҕынан	атах<NOUN><Number=Sing><Case=Ins>
+
+таҥастаах	+?
+
+кулаковскай	+?
+
+төбөлөөх	+?
+
+харыстыыллар	+?
+
+үрдүгүн	+?
+
+олохтоохтору	+?
+
+мунньустан	+?
+
+иһиккэ	иһит<NOUN><Number=Sing><Case=Dat>
+
+сабыдыаллаах	+?
+
+уларыйыытыгар	+?
+
+хааннарын	хаан<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+тулуйа	+?
+
+төбөтүгэр	+?
+
+айыылара	айыы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+айыылара	айыы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+өйбүт	өй<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+биэрбэттэр	биэр<VERB><Number=Plur><Person=3><Polarity=Neg><Tense=Pres>
+
+суолтатынан	суолта<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+ыксаан	+?
+
+кэрдиилээх	+?
+
+сииргэ	+?
+
+учууталлара	учуутал<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+учууталлара	учуутал<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ороскуота	+?
+
+ыарыыларыгар	+?
+
+тиэрдэр	+?
+
+салайааччылара	салайааччы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+салайааччылара	салайааччы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ньыматынан	+?
+
+сабаҕаланар	+?
+
+табатын	+?
+
+туматтар	+?
+
+баҕарбат	баҕар<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+харса	+?
+
+кыһалҕа	+?
+
+сымыыт	+?
+
+аһыырга	+?
+
+сырыыга	+?
+
+ээ	ээ<INTJ>
+
+хамнастара	хамнас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+эйгэни	+?
+
+хамаандата	+?
+
+үөрэтэннэр	+?
+
+толороллор	+?
+
+быар	быар<NOUN><Number=Sing><Case=Nom>
+
+хайысханы	+?
+
+факультетыгар	+?
+
+хааччах	+?
+
+киллэрбиттэрэ	+?
+
+тылдьытыгар	+?
+
+полиция	+?
+
+үөрэтиинэн	+?
+
+быһан	+?
+
+таһаҕас	таһаҕас<NOUN><Number=Sing><Case=Nom>
+
+үөрэттэхтэринэ	+?
+
+кэргэннээх	+?
+
+кэһэйэн	+?
+
+обкомун	+?
+
+үөрэнэригэр	+?
+
+билэллэриттэн	+?
+
+сайыныгар	+?
+
+чэрчитинэн	+?
+
+официаллык	+?
+
+олохтуур	+?
+
+или	ил<NOUN><Number=Sing><Case=Acc>
+
+айымньыга	айымньы<NOUN><Number=Sing><Case=Dat>
+
+туттубут	+?
+
+париж	+?
+
+ырыалары	ырыа<NOUN><Number=Plur><Case=Acc>
+
+уураах	+?
+
+ыҥырыылаах	+?
+
+былдьаан	+?
+
+иитиитинэн	+?
+
+көтөҕөн	+?
+
+тура	тур<VERB><Tense=Pres><VerbForm=Trans>
+
+көрөрүн	+?
+
+кыччаан	+?
+
+планеталар	+?
+
+кыаттарбат	+?
+
+көмөлөһө	+?
+
+маассабай	+?
+
+сиэмэх	+?
+
+түгэҥҥэ	+?
+
+популярнай	+?
+
+диэбитэ	+?
+
+юридическай	+?
+
+стамбул	+?
+
+монголия	+?
+
+көмүскээбитэ	+?
+
+уокуругун	+?
+
+атыылаһан	+?
+
+булкуйан	+?
+
+харыстыы	+?
+
+ылыыга	+?
+
+тириэрдии	+?
+
+үөскүүрэ	+?
+
+оҥоробун	+?
+
+формалаах	+?
+
+кыталык	+?
+
+баһылыктаах	+?
+
+прокопьевич	+?
+
+бөлөҕү	+?
+
+сирдэртэн	+?
+
+аҕалбыт	аҕал<VERB><Number=Plur><Person=1><Tense=Pres>
+аҕалбыт	аҕал<VERB><Number=Sing><Person=3><Tense=PastResultI>
+аҕалбыт	аҕал<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+эдэрдэргэ	эдэр<NOUN><Number=Plur><Case=Dat>
+
+мунньунан	+?
+
+тиһигин	+?
+
+олоҥхоҕо	олоҥхо<NOUN><Number=Sing><Case=Dat>
+
+этэрээтин	+?
+
+атынан	ат<NOUN><Number=Sing><Case=Ins>
+
+дьарыга	+?
+
+германияны	+?
+
+уларыйара	+?
+
+кыһаналлар	+?
+
+буолбатын	+?
+
+диирэ	+?
+
+үчүгэйинэн	+?
+
+институкка	+?
+
+наукатын	+?
+
+ньыманы	+?
+
+максвелл	+?
+
+бэчээттэппитэ	+?
+
+инженер	+?
+
+ыһар	+?
+
+француз	+?
+
+кафедратын	+?
+
+майгыта	+?
+
+үрүҥнэр	+?
+
+ураһа	+?
+
+петербург	+?
+
+хайаларын	хайа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+хайаларын	хайа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+дьоҕурун	+?
+
+иччилэр	+?
+
+элбээбитин	+?
+
+суос	+?
+
+кэпсииринэн	+?
+
+ааһаллар	аас<VERB><Number=Plur><Person=3><Tense=Pres>
+
+науката	+?
+
+үөннэр	үөн<NOUN><Number=Plur><Case=Nom>
+
+өрүтү	+?
+
+кыылларга	кыыл<NOUN><Number=Plur><Case=Dat>
+
+кэмнэрдээх	+?
+
+сокуонунан	+?
+
+майгыны	+?
+
+туттунуулары	+?
+
+ыараан	+?
+
+табыллыбатаҕына	+?
+
+быраабылалары	+?
+
+албыннаан	+?
+
+буолуутуттан	+?
+
+сабыдыалынан	+?
+
+наадатыгар	+?
+
+ссср	+?
+
+кинигэлэри	кинигэ<NOUN><Number=Plur><Case=Acc>
+
+салалтатын	+?
+
+литэрэтиирэ	+?
+
+күһэйэр	+?
+
+булуллубут	+?
+
+уос	+?
+
+ата	ат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+андреев	+?
+
+кыраайга	+?
+
+атына	+?
+
+үөрүүлээх	+?
+
+иҥнэҕинэ	+?
+
+бултааһын	+?
+
+кыһаммат	+?
+
+ырытар	+?
+
+саҥатын	+?
+
+кыахтанара	+?
+
+суруналыыстарын	+?
+
+федерациятын	+?
+
+ыллахха	+?
+
+көрсүбүтэ	+?
+
+кунугэр	+?
+
+сыалга	+?
+
+доруобуйатыгар	+?
+
+суохтук	+?
+
+быһыыланар	+?
+
+хаалбытын	+?
+
+бэчээт	+?
+
+илиитэ	илии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+илиитэ	илии<NOUN><Number=Sing><Case=Par>
+
+атахтара	атах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+атахтарын	атах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+булунан	+?
+
+балтараа	+?
+
+биирдик	+?
+
+баппат	+?
+
+ситиһиэн	+?
+
+куоппут	+?
+
+аһылыктанар	+?
+
+дархан	+?
+
+уоруйах	+?
+
+эһэм	эһэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+
+бырабыыталыстыба	+?
+
+сороҕо	+?
+
+хакас	+?
+
+түбэһэрин	+?
+
+христианство	+?
+
+ксеркс	+?
+
+итэҕэйэллэр	+?
+
+дьай	+?
+
+институту	+?
+
+туттубакка	+?
+
+хаама	+?
+
+сибиэһэй	+?
+
+тыыныы	+?
+
+уйатын	+?
+
+кыалларынан	+?
+
+хампаанньаҕа	+?
+
+утаа	+?
+
+кырыым	+?
+
+биэрбиттэрэ	+?
+
+астара	ас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+харчылаах	+?
+
+саахар	саахар<NOUN><Number=Sing><Case=Nom>
+
+киинэни	+?
+
+почта	+?
+
+этнограф	+?
+
+бурят	+?
+
+нэһилиэгиттэн	+?
+
+сорук	+?
+
+чугаһаан	+?
+
+сылдьарыттан	+?
+
+быһаарылла	+?
+
+көстүүлээх	+?
+
+ылыахха	+?
+
+ыарыыларын	+?
+
+хамсааһыннара	хамсааһын<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+хочотугар	+?
+
+корея	+?
+
+бизнес	+?
+
+уhун	+?
+
+кэлим	+?
+
+тууһа	+?
+
+таҥ	+?
+
+бүтүөр	+?
+
+эргиирин	+?
+
+хаачыстыбата	+?
+
+татаардар	+?
+
+педагог	+?
+
+нэһилиэнньэлээх	+?
+
+уокуругар	+?
+
+хааччахтаан	+?
+
+тыйыс	+?
+
+билэрин	+?
+
+төрүттүүр	+?
+
+хаайан	+?
+
+хайдаҕын	+?
+
+ааҕааччы	+?
+
+киириэн	+?
+
+куораттарын	куорат<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+араҥаччылыыр	+?
+
+мастаах	+?
+
+сүүстэн	+?
+
+утаран	+?
+
+таҥараттан	таҥара<NOUN><Number=Sing><Case=Abl>
+
+нобель	+?
+
+көҕүлээһининэн	+?
+
+иhэр	+?
+
+дьүһүн	+?
+
+уматан	+?
+
+оҥоруохтаах	+?
+
+ууттан	уу<NOUN><Number=Sing><Case=Abl>
+
+суоллара	суол<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+суоллара	суол<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+итэҕэйэн	+?
+
+аара	+?
+
+хотуна	+?
+
+үрдүттэн	+?
+
+ыҥырыллан	+?
+
+суолталааҕын	+?
+
+профессора	+?
+
+улууhун	+?
+
+куораттааҕы	+?
+
+оройуоннарыгар	+?
+
+вице	+?
+
+комплекс	+?
+
+түһэ	түс<VERB><Tense=Pres><VerbForm=Trans>
+
+адьас	+?
+
+тэнийбит	+?
+
+кыратын	+?
+
+холбонон	+?
+
+көрүҥнэригэр	+?
+
+нуучч	+?
+
+үөскээтэҕинэ	+?
+
+дьайыыларын	+?
+
+бэлиэлэрин	+?
+
+састааба	+?
+
+тулуйбат	+?
+
+ойоҕос	+?
+
+иккиэннэрин	+?
+
+киһиргэтэн	+?
+
+элбэҕинэн	+?
+
+оҥорору	+?
+
+дьоннору	+?
+
+соҕурууттан	+?
+
+эргийэр	+?
+
+сиэттэрэн	+?
+
+тумат	+?
+
+өлүөн	+?
+
+профессиональнай	+?
+
+ама	+?
+
+биhиги	+?
+
+аммаҕа	+?
+
+сулустарын	+?
+
+хотуттан	хоту<NOUN><Number=Sing><Case=Abl>
+
+персия	+?
+
+бырааптарын	+?
+
+тупсар	+?
+
+сылдьарынан	+?
+
+арыылар	арыы<NOUN><Number=Plur><Case=Nom>
+
+үүнүүнү	үүнүү<NOUN><Number=Sing><Case=Acc>
+
+үөрэммиттэр	+?
+
+били	+?
+
+талах	+?
+
+көҥүлэ	+?
+
+усталаах	+?
+
+аһыныгас	+?
+
+дьэҥкир	дьэҥкир<ADJ>
+
+систематын	+?
+
+эйэни	+?
+
+толорбута	+?
+
+атаахтатыы	+?
+
+бах	+?
+
+верхоянскай	+?
+
+хаалларбыта	+?
+
+өрүстэргэ	+?
+
+буорга	+?
+
+туттуохха	+?
+
+университетка	+?
+
+вещество	+?
+
+пенсияҕа	+?
+
+сүтэрбэккэ	+?
+
+ыраастык	+?
+
+көтөрдөрү	көтөр<NOUN><Number=Plur><Case=Acc>
+
+рейтинигэр	+?
+
+суруллубута	+?
+
+кэтэх	+?
+
+сирэйэ	+?
+
+реальнай	+?
+
+ньуурун	+?
+
+олороругар	+?
+
+эйгэтин	+?
+
+эппиэтинэстээх	+?
+
+тыйаатырга	+?
+
+туомун	+?
+
+ресторан	+?
+
+туһанара	+?
+
+дьолу	дьол<NOUN><Number=Sing><Case=Acc>
+
+ыҥыраллар	ыҥыр<VERB><Number=Plur><Person=3><Tense=Pres>
+
+ааҕыытынан	+?
+
+балаһыанньатын	+?
+
+кавказ	+?
+
+сабыылаах	+?
+
+барбытын	+?
+
+дин	+?
+
+өстүөкүлэ	+?
+
+айах	айах<NOUN><Number=Sing><Case=Nom>
+
+тиэмэҕэ	+?
+
+сүппүт	+?
+
+дьонуттан	+?
+
+иһиттэн	+?
+
+соруйан	+?
+
+ыарахаттарын	+?
+
+усулуобуйаҕа	+?
+
+холобурун	+?
+
+бэлиэлэринэн	+?
+
+туппуттара	+?
+
+франкфурт	+?
+
+кэ	+?
+
+чинчийиигэ	+?
+
+таастары	таас<NOUN><Number=Plur><Case=Acc>
+
+уураллар	уур<VERB><Number=Plur><Person=3><Tense=Pres>
+
+үлэлиирин	+?
+
+таһыччы	+?
+
+радиация	+?
+
+ырытыы	+?
+
+көҥүллэнэр	+?
+
+кыыстаах	+?
+
+сууллан	+?
+
+кинигэлэрин	кинигэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+кинигэлэрин	кинигэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+булду	+?
+
+хаһыаттар	хаһыат<NOUN><Number=Plur><Case=Nom>
+
+өлөрө	өлөр<VERB><Tense=Pres><VerbForm=Trans>
+
+эһиги	эһиги<PRON><Case=Nom><Number=Plur><Person=2><PronType=Prs>
+
+муоста	муоста<NOUN><Number=Sing><Case=Nom>
+
+хамнастарын	хамнас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+композитор	+?
+
+кэбээйи	+?
+
+тылбаастаан	+?
+
+биэрэргэ	+?
+
+этиитинэн	этии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+тимофеевич	+?
+
+көмүһү	+?
+
+игнатьевич	+?
+
+туьунан	+?
+
+баайга	баай<NOUN><Number=Sing><Case=Dat>
+
+сүтэр	сүт<VERB><Number=Sing><Person=3><Tense=Pres>
+
+сокуоннара	+?
+
+сэбирдэхтэрэ	+?
+
+сырыы	+?
+
+сайдыыларын	+?
+
+культурата	+?
+
+боппуруос	+?
+
+аһылыктарын	+?
+
+кыралаан	+?
+
+түмсүүлээх	+?
+
+уларыйдаҕына	+?
+
+буккуйар	+?
+
+хаһыаттарыгар	+?
+
+үрүҥүн	+?
+
+сабаҕалааһын	+?
+
+үөскээтэ	үөскээ<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+кубулуйаллар	+?
+
+санааларга	санаа<NOUN><Number=Plur><Case=Dat>
+
+вы	+?
+
+биэриэн	+?
+
+хатылы	+?
+
+хааччахтыыр	+?
+
+михайлов	+?
+
+пушкин	+?
+
+кырыылаах	+?
+
+таһынааҕы	+?
+
+дьахтара	дьахтар<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+чурапчыга	+?
+
+дойдубутугар	+?
+
+суобас	+?
+
+холоотоххо	+?
+
+эбээннэр	+?
+
+бааһынайдар	+?
+
+суолталаахтар	+?
+
+күөхтүҥү	+?
+
+ыстанан	+?
+
+толкуйдуу	+?
+
+түктэри	+?
+
+оонньообут	+?
+
+елизавета	+?
+
+сыана	+?
+
+биэрэстэ	+?
+
+кэтэн	+?
+
+этэрэ	+?
+
+үлтү	+?
+
+ыытыллаллар	+?
+
+үгэһэ	+?
+
+охсуһан	+?
+
+оҥотторо	+?
+
+арыыта	арыы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+арыыта	арыы<NOUN><Number=Sing><Case=Par>
+
+ыччакка	+?
+
+туоларын	+?
+
+сөбүлүүллэр	+?
+
+туһааннаах	+?
+
+кутуруга	+?
+
+толорбут	+?
+
+нэмин	+?
+
+турбат	тур<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+эбэбит	эбэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+түһүөн	+?
+
+галина	+?
+
+үөскээннэр	+?
+
+сайдыылара	+?
+
+сэрииһит	+?
+
+тыйаатырыгар	+?
+
+инструкторынан	+?
+
+кк	+?
+
+хапсаҕай	+?
+
+туундараҕа	+?
+
+салайа	салай<VERB><Tense=Pres><VerbForm=Trans>
+
+кэбиспиттэр	+?
+
+якутов	+?
+
+сэптэрин	+?
+
+ырыалар	ырыа<NOUN><Number=Plur><Case=Nom>
+
+сака	+?
+
+өрөспүүбүлүкэтэ	+?
+
+миниистирэ	+?
+
+малдьаҕар	+?
+
+арыгыһыттар	+?
+
+хаалыылара	+?
+
+хаалаллара	+?
+
+киллэриэххэ	+?
+
+тупсууну	+?
+
+салайарын	+?
+
+истэргэ	+?
+
+латыынныы	+?
+
+куоска	куоска<NOUN><Number=Sing><Case=Nom>
+
+сүүрүү	+?
+
+мустан	+?
+
+президенэ	+?
+
+йорк	+?
+
+силистээх	+?
+
+бөлөҕөр	+?
+
+хайысхаҕа	+?
+
+уопуттаах	+?
+
+ал	+?
+
+булууга	+?
+
+клетка	+?
+
+дорҕоонтон	+?
+
+ахта	+?
+
+сабыдыалы	+?
+
+хамсанар	+?
+
+кэпсээҥҥэ	+?
+
+ыттан	ыт<NOUN><Number=Sing><Case=Abl>
+
+түбэһэринэн	+?
+
+быһаардахха	+?
+
+быһаарыахха	+?
+
+кыhыл	+?
+
+хорсунун	+?
+
+солкуобай	+?
+
+миэхэ	мин<PRON><Case=Dat><Number=Sing><Person=1><PronType=Prs>
+
+иччилэри	+?
+
+биллэрбитэ	+?
+
+бастакытын	+?
+
+куба	+?
+
+айылҕалаах	+?
+
+холбоһук	+?
+
+күннэрэ	күн<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+хайаларга	хайа<NOUN><Number=Plur><Case=Dat>
+
+биллэҕинэ	+?
+
+көнөр	+?
+
+туораабыта	+?
+
+алдьаммыт	+?
+
+эбитин	+?
+
+училищетын	+?
+
+кымыс	кымыс<NOUN><Number=Sing><Case=Nom>
+
+хаалларар	+?
+
+сонно	+?
+
+кыттара	+?
+
+итэҕэһэ	+?
+
+биология	+?
+
+барахсан	+?
+
+айааччы	+?
+
+үөрэттэҕинэ	+?
+
+суруктаах	+?
+
+сэриилэһэр	+?
+
+көмөлөспүтэ	+?
+
+өбүгэ	+?
+
+бочуотунай	+?
+
+омоллоон	+?
+
+семеновна	+?
+
+алдаҥҥа	+?
+
+никита	+?
+
+ытаан	+?
+
+эстиигэ	+?
+
+туруоруу	+?
+
+кэрдэн	+?
+
+углекислай	+?
+
+устатын	+?
+
+түргэтиир	+?
+
+бэлиэтииргэ	+?
+
+сөбүгэр	+?
+
+революционнай	+?
+
+булка	+?
+
+эбиллиитэ	+?
+
+суолталарын	суолта<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+суолталарын	суолта<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+киирэллэрэ	+?
+
+күһүнүгэр	+?
+
+оҥоһуута	+?
+
+бэрээдэгэ	+?
+
+дьайаллар	+?
+
+кээмэйин	+?
+
+муҥур	+?
+
+тэҥнэһиини	+?
+
+тупсуутун	+?
+
+элбээтэҕинэ	+?
+
+оҥороллоругар	+?
+
+академик	+?
+
+биригээдэ	+?
+
+знаете	+?
+
+итэҕэйбэт	+?
+
+суолта	суолта<NOUN><Number=Sing><Case=Nom>
+
+ыһан	+?
+
+төрөппүттэригэр	+?
+
+духовнай	+?
+
+утуу	+?
+
+былаан	+?
+
+тыва	+?
+
+ытыктанар	+?
+
+биригэдьииринэн	+?
+
+туттарбыта	+?
+
+ордубут	+?
+
+олороллорун	+?
+
+математическай	+?
+
+оҕолортон	+?
+
+биэр	биэр<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+кыраныысса	+?
+
+арахсыыта	+?
+
+туттуллубут	+?
+
+тапталлаах	+?
+
+арыгылааһын	+?
+
+хамсаныыларын	+?
+
+уратылардаах	+?
+
+табаар	+?
+
+бил	бил<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+араастык	+?
+
+совхозка	+?
+
+үөрэтиэххэ	+?
+
+тупсарарга	+?
+
+ынахсыт	+?
+
+ардынан	+?
+
+миллиард	+?
+
+оҕолонон	+?
+
+доҕоро	+?
+
+сылдьыахха	+?
+
+этэргэ	+?
+
+обургу	+?
+
+үөрэхтээҕэ	+?
+
+баайан	+?
+
+кэтэһэ	+?
+
+сэргэтин	+?
+
+тыһыынчаттан	+?
+
+окко	+?
+
+иитэллэр	иит<VERB><Number=Plur><Person=3><Tense=Pres>
+
+туттунууну	+?
+
+дьоннорго	+?
+
+киһибит	киһи<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+ситиһэрэ	+?
+
+киириитин	+?
+
+дьоһуннаах	+?
+
+автономнай	+?
+
+эмтэнэр	+?
+
+босхоломмут	+?
+
+вера	+?
+
+оһолго	+?
+
+улэлиир	+?
+
+оттук	оттук<NOUN><Number=Sing><Case=Nom>
+
+ньымалар	+?
+
+түүрдүү	+?
+
+билсэр	+?
+
+тэрилтэҕэ	+?
+
+кыахтанна	+?
+
+харчыта	харчы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+харчыта	харчы<NOUN><Number=Sing><Case=Par>
+
+чехия	+?
+
+оонньуута	+?
+
+биллибэккэ	+?
+
+кылаатын	+?
+
+хайысхатын	+?
+
+ситэриилээх	+?
+
+чакыр	+?
+
+өрөспүүбүлүкэҕэ	+?
+
+аһатан	+?
+
+тупсара	+?
+
+быһаарбыта	быһаар<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+музыкатын	+?
+
+чэгиэн	+?
+
+финансовай	+?
+
+ылыммыттара	+?
+
+ылыммыттар	+?
+
+ыраахтааҕыта	+?
+
+оонньуулара	+?
+
+ньыматын	+?
+
+бурдугу	бурдук<NOUN><Number=Sing><Case=Acc>
+
+нэм	+?
+
+ойууну	+?
+
+уратылааҕын	+?
+
+көрдөбүллэригэр	+?
+
+сүгэ	+?
+
+эрчиллэн	+?
+
+мунньустар	+?
+
+холбоһор	+?
+
+туттууну	+?
+
+уох	+?
+
+егоровна	+?
+
+алахчын	+?
+
+хомуйбут	+?
+
+энциклопедия	+?
+
+сүүнэ	+?
+
+ойууламмыт	+?
+
+ахталлар	+?
+
+саллааттар	+?
+
+украинаҕа	+?
+
+тэрилтэлэргэ	+?
+
+тахсыбыттар	+?
+
+түмэлин	+?
+
+хаартыска	+?
+
+бэлэмнэнэр	+?
+
+оҕустаран	+?
+
+чинчийэн	+?
+
+дьоһун	+?
+
+кэпсээннэрин	+?
+
+чаастара	чаас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+куруутун	+?
+
+худуоһунньуга	+?
+
+куттанан	+?
+
+нэһилиэгим	+?
+
+нэһилиэстибэтэ	+?
+
+за	+?
+
+сурах	+?
+
+таҥаратыгар	таҥара<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+байбыт	+?
+
+михайловна	+?
+
+сергеевич	+?
+
+үүрэн	+?
+
+кылааһын	кылаас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+бултуу	+?
+
+төбөҕө	+?
+
+этиллэрэ	+?
+
+аһаран	+?
+
+талылла	+?
+
+дойдулартан	дойду<NOUN><Number=Plur><Case=Abl>
+
+таһаарыылаах	+?
+
+кэскиллээх	+?
+
+ытыыр	+?
+
+быһаарыыларынан	+?
+
+көмөлөһөллөр	+?
+
+дэҥҥэ	+?
+
+ото	+?
+
+аһылыгын	+?
+
+суобастаах	+?
+
+кыратыттан	+?
+
+сокуонун	+?
+
+чуолкайданар	+?
+
+итилэр	+?
+
+көҥүллэммэт	+?
+
+араарыллар	+?
+
+айымньылары	айымньы<NOUN><Number=Plur><Case=Acc>
+
+култуурата	+?
+
+ылларар	+?
+
+өйдөбүлүгэр	+?
+
+сиэннэрин	+?
+
+кыһатыгар	+?
+
+иллэҥ	+?
+
+сэриилэһэн	+?
+
+үүтүнэн	үүт<NOUN><Number=Sing><Case=Ins>
+
+холбоһууларыттан	+?
+
+саҥарыы	+?
+
+кэтэхтэн	+?
+
+учууталларын	+?
+
+субуу	+?
+
+гавриил	+?
+
+көҥдөй	+?
+
+суруктарыгар	+?
+
+солбуйааччынан	+?
+
+сирдээх	+?
+
+артыыстар	+?
+
+өйдөрүнэн	+?
+
+аҥарын	+?
+
+үлэлэринэн	үлэ<NOUN><Number=Plur><Case=Ins>
+
+гормон	+?
+
+историк	+?
+
+ыччаттар	+?
+
+быһаарыылара	+?
+
+төһүү	+?
+
+улаатыан	+?
+
+арыйыылар	+?
+
+ситистэҕинэ	+?
+
+кэлбитигэр	+?
+
+үгэстэригэр	+?
+
+ылыммыта	+?
+
+сатааһыннара	+?
+
+үрдэ	үр<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+тиийиэн	+?
+
+кэргэнинээн	+?
+
+сср	+?
+
+быһаарбыттара	быһаар<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+октябрьскай	+?
+
+харчытын	+?
+
+суоллаах	+?
+
+айыыларын	айыы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+айыыларын	айыы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+күүстэринэн	+?
+
+уларытарга	+?
+
+кутуругун	+?
+
+бараары	+?
+
+кырдьар	+?
+
+кыһыны	кыһын<NOUN><Number=Sing><Case=Acc>
+
+түгэҕэр	+?
+
+организмҥа	+?
+
+биири	+?
+
+кыыстара	кыыс<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+мындыр	+?
+
+аҥаар	+?
+
+туолбут	+?
+
+хайысхата	+?
+
+ууһуур	+?
+
+күөҥҥэ	+?
+
+мэйиигэ	+?
+
+сыыр	сыыр<NOUN><Number=Sing><Case=Nom>
+
+биэ	+?
+
+этэрээтэ	+?
+
+ылаары	+?
+
+хаарты	+?
+
+астарын	ас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+таҥарабыт	таҥара<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+араадьыйа	+?
+
+мөлтөөһүнэ	+?
+
+төлүүр	+?
+
+салайааччылаах	+?
+
+гириэктэр	+?
+
+ыалдьаллар	+?
+
+хойукка	+?
+
+буруйун	буруй<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+кэһэтэн	+?
+
+ырай	+?
+
+тиийбэккэ	+?
+
+быйыл	быйыл<ADV>
+
+тоҥус	+?
+
+госкомстат	+?
+
+хампаанньата	+?
+
+өксөкүлээх	+?
+
+бэрэссэдээтэлин	+?
+
+ситиспитэ	ситис<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+финляндия	+?
+
+миэстэтин	+?
+
+колхуос	+?
+
+быhа	+?
+
+дакаастыыллар	+?
+
+ыараханы	+?
+
+өйдөммөт	+?
+
+сырдыгы	+?
+
+хатыланар	+?
+
+буоллаххына	+?
+
+тэрийээччи	+?
+
+мөлүйүөнтэн	+?
+
+ууһуттан	+?
+
+швейцария	+?
+
+айыллыбыт	+?
+
+кислота	+?
+
+индияҕа	+?
+
+бырааптаах	+?
+
+аҥаарыгар	+?
+
+бүрээт	+?
+
+мэтээллэр	+?
+
+романов	+?
+
+тиис	тиис<NOUN><Number=Sing><Case=Nom>
+
+салайаллар	салай<VERB><Number=Plur><Person=3><Tense=Pres>
+
+мэһэйдиир	+?
+
+хамначчыт	+?
+
+остуол	остуол<NOUN><Number=Sing><Case=Nom>
+
+ситиһиилэрэ	+?
+
+сиэринэн	+?
+
+байҕалга	+?
+
+эстии	+?
+
+иччитин	+?
+
+туома	+?
+
+булбуттара	+?
+
+оскуолалар	оскуола<NOUN><Number=Plur><Case=Nom>
+
+христианнар	+?
+
+нолуок	+?
+
+түмсүүтүн	+?
+
+тиэтэйэр	+?
+
+бэрээдэк	+?
+
+күүстэр	күүс<NOUN><Number=Plur><Case=Nom>
+
+кэбиспиттэрэ	+?
+
+сыллара	сыл<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+сыллара	сыл<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+талаан	+?
+
+ааттары	аат<NOUN><Number=Plur><Case=Acc>
+
+теориятын	+?
+
+ахтыы	+?
+
+кэпсээбит	кэпсээ<VERB><Number=Plur><Person=1><Tense=Pres>
+кэпсээбит	кэпсээ<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+матрена	+?
+
+идэтигэр	+?
+
+сэниэ	+?
+
+константинович	+?
+
+кыыһыран	+?
+
+габышев	+?
+
+өҥөлөөх	+?
+
+литератураны	+?
+
+марфа	+?
+
+арахсаллара	+?
+
+салайара	+?
+
+отделение	+?
+
+сокуоннар	+?
+
+симэлийэр	+?
+
+кыһалҕаларын	+?
+
+куота	+?
+
+бэртээхэй	+?
+
+үөрэҕирии	+?
+
+географическай	+?
+
+иитиллибитэ	+?
+
+ар	+?
+
+дьайыыларыттан	+?
+
+буолуохтаахтар	+?
+
+сокуонугар	+?
+
+балаһыанньата	+?
+
+толук	+?
+
+тиэхиникэ	+?
+
+сырдыкка	+?
+
+иһэллэриттэн	+?
+
+бырастыы	+?
+
+үөрдэр	+?
+
+туһаннахха	+?
+
+дорҕоонунан	+?
+
+марк	+?
+
+стр	+?
+
+хааһах	+?
+
+бигэ	+?
+
+билиэхтэрэ	+?
+
+буолууларыгар	+?
+
+скрябин	+?
+
+союһун	+?
+
+м³	+?
+
+сынньанан	+?
+
+төрүөх	+?
+
+балыгы	балык<NOUN><Number=Sing><Case=Acc>
+
+кислороду	+?
+
+буһаран	+?
+
+физкультура	+?
+
+ан	+?
+
+саарбахтаммат	+?
+
+мусульманскай	+?
+
+үөрэхтэриттэн	+?
+
+тиийдэҕинэ	+?
+
+гар	+?
+
+тыынан	+?
+
+туһананнар	+?
+
+сэби	+?
+
+тиэкис	+?
+
+туттуналлара	+?
+
+махтал	+?
+
+дэлэччи	+?
+
+иһиэххэ	+?
+
+башкортостан	+?
+
+петербурга	+?
+
+баарыгар	+?
+
+астаах	+?
+
+көтүүтэ	+?
+
+эрэнэр	эрэн<VERB><Number=Sing><Person=3><Tense=Pres>
+
+элбэтэн	+?
+
+ыллыы	+?
+
+бэлиитикэ	+?
+
+арыычча	+?
+
+куртахха	+?
+
+дэлэй	дэлэй<ADV>
+
+полюс	+?
+
+геология	+?
+
+саанан	саа<NOUN><Number=Sing><Case=Ins>
+
+территориятыгар	+?
+
+үлэлэтэ	+?
+
+куттан	+?
+
+атыырын	+?
+
+сылларын	сыл<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+сылларын	сыл<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+доруобуйаҕа	+?
+
+итилэри	+?
+
+харчынан	харчы<NOUN><Number=Sing><Case=Ins>
+
+киллэриллибит	+?
+
+быс	быс<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+кэһиини	+?
+
+буолаат	+?
+
+флейта	+?
+
+говоров	+?
+
+тупсарыыга	+?
+
+уурбут	+?
+
+бэлиэтин	+?
+
+вулкан	+?
+
+мобильнай	+?
+
+сэбирдэҕэ	+?
+
+доллар	+?
+
+үрэллэн	+?
+
+үлэлэргэ	үлэ<NOUN><Number=Plur><Case=Dat>
+
+боппуруоһу	+?
+
+эмтээһин	+?
+
+бэргэһэ	бэргэһэ<NOUN><Number=Sing><Case=Nom>
+
+итиигэ	итии<NOUN><Number=Sing><Case=Dat>
+
+русь	+?
+
+ыараатаҕына	+?
+
+таһаарыыга	+?
+
+эбэм	эбэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=1><Case=Nom>
+
+хатыланнаҕына	+?
+
+саша	саша<PROPN>
+
+туундара	+?
+
+сыралаах	+?
+
+редакторынан	+?
+
+ыалдьа	+?
+
+бэриллибитэ	+?
+
+таһар	тас<VERB><Number=Sing><Person=3><Tense=Pres>
+
+буулдьа	+?
+
+маҥнайгынан	+?
+
+онус	онус<NUM><NumType=Card>
+
+депутата	+?
+
+бырабылыанньатын	+?
+
+тыыллыма	+?
+
+саҥарарга	+?
+
+таһыттан	+?
+
+көһөрөн	+?
+
+киллэрэргэ	+?
+
+абаарыйаҕа	+?
+
+технология	+?
+
+нефть	+?
+
+бөлөхтөрүгэр	+?
+
+киинэлэр	+?
+
+киирэригэр	+?
+
+аймаҕа	аймах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+көстүбүтэ	+?
+
+канаада	+?
+
+сыһыаран	+?
+
+ылата	+?
+
+томскай	+?
+
+ноҕай	+?
+
+суругунан	сурук<NOUN><Number=Sing><Case=Ins>
+
+ситиһээри	+?
+
+малларын	+?
+
+ылыналлар	+?
+
+атыны	+?
+
+сатыылларын	+?
+
+манньа	+?
+
+тэрийэргэ	+?
+
+нем	+?
+
+холбоммут	+?
+
+сэриилэспитэ	+?
+
+эттиктэри	+?
+
+дьылҕатын	+?
+
+кыраһыабай	+?
+
+куораттарыгар	+?
+
+лондон	+?
+
+биирдэстэринэн	+?
+
+хаайа	+?
+
+быраабыла	+?
+
+академия	+?
+
+көрдөрөрүнэн	+?
+
+кэлээт	+?
+
+маҥнайгыттан	+?
+
+бачча	+?
+
+сэти	+?
+
+далан	+?
+
+иһээччилэр	+?
+
+тылбаастаабыт	+?
+
+ааһа	аас<VERB><Tense=Pres><VerbForm=Trans>
+ааһа	аас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+хрисанфович	+?
+
+урал	+?
+
+аты	ат<NOUN><Number=Sing><Case=Acc>
+
+вкп	+?
+
+тутуһара	+?
+
+километр	километр<NOUN><Number=Sing><Case=Nom>
+
+санатар	+?
+
+төттөрүтүн	+?
+
+сэриилэһэ	+?
+
+жирков	+?
+
+быста	быс<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+роберт	+?
+
+духуобунай	+?
+
+филипп	+?
+
+филологическай	+?
+
+малын	+?
+
+байыы	+?
+
+наркотикка	+?
+
+гректэр	+?
+
+кимтэн	+?
+
+кыргыһыыларга	+?
+
+айылҕата	айылҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+айылҕата	айылҕа<NOUN><Number=Sing><Case=Par>
+
+тылдьыкка	+?
+
+кытылларыгар	+?
+
+уолаттарын	уол<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+уолаттарын	уол<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+төрүччү	+?
+
+тумус	+?
+
+тыыннаахтарга	+?
+
+ыарыйдаҕына	+?
+
+саппааһа	+?
+
+үйэлэрэ	үйэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+үйэлэрэ	үйэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+кыахтааҕыттан	+?
+
+тутула	+?
+
+тиийбэтин	+?
+
+буолууларыттан	+?
+
+ньургуһун	+?
+
+туйгуннук	+?
+
+суруйуулар	+?
+
+билиннэҕинэ	+?
+
+үөрэхтээхтэрин	+?
+
+кырдьаҕастара	+?
+
+соторутааҕыта	+?
+
+иитэллэрэ	+?
+
+айыыттан	айыы<NOUN><Number=Sing><Case=Abl>
+
+оҥороллоруттан	+?
+
+буолуохтааҕа	+?
+
+сэрэнэллэр	+?
+
+кэспэт	+?
+
+түбэһэ	түбэс<VERB><Tense=Pres><VerbForm=Trans>
+
+сатааннар	+?
+
+буолбаты	+?
+
+леонид	+?
+
+култуурунай	+?
+
+сыты	+?
+
+ала	ала<ADJ>
+
+хотуу	+?
+
+көстөрүнэн	+?
+
+туттууттан	+?
+
+потапов	+?
+
+көмөҕө	+?
+
+сэлиэнньэҕэ	+?
+
+кытайы	+?
+
+практическай	+?
+
+оонньууллар	+?
+
+орда	+?
+
+уһуллубут	+?
+
+чычаас	+?
+
+казахстаҥҥа	+?
+
+ахсааннарын	ахсаан<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+суруйбуттара	суруй<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+куттарыгар	+?
+
+хоһооннору	+?
+
+председателинэн	+?
+
+борис	+?
+
+таҥаһынан	таҥас<NOUN><Number=Sing><Case=Ins>
+
+тохтотунар	+?
+
+тапталы	таптал<NOUN><Number=Sing><Case=Acc>
+
+этэллэрин	+?
+
+хамсаныыны	+?
+
+оргуйбут	оргуй<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+уустугун	+?
+
+буолуоҕа	+?
+
+уоруу	+?
+
+баһыттаран	+?
+
+арассыыйаттан	+?
+
+мунньаҕын	+?
+
+сыстар	+?
+
+архитектура	+?
+
+иһиэн	+?
+
+бобо	+?
+
+ньиэрбэ	+?
+
+кэрийэ	+?
+
+оонньууну	+?
+
+биллэрэрин	+?
+
+куб	+?
+
+дьадаҥылары	+?
+
+харахтара	харах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+кыайыыта	+?
+
+үлэлээһин	+?
+
+сирдээн	+?
+
+сүөһүгэ	сүөһү<NOUN><Number=Sing><Case=Dat>
+
+эргитэн	+?
+
+оонньоммут	+?
+
+күүстээхтик	+?
+
+хань	+?
+
+бырааба	+?
+
+дьокуускайтан	+?
+
+иһиэхтээх	+?
+
+оччотооҕуга	+?
+
+филиппов	+?
+
+савва	+?
+
+эттэн	+?
+
+уратытык	+?
+
+быһаарыылары	+?
+
+иҥин	+?
+
+хуннар	+?
+
+дойдубут	+?
+
+бигэтик	+?
+
+куобахтар	+?
+
+хамсаныылар	+?
+
+тириэрдибит	+?
+
+түмэлгэ	+?
+
+эгэлгэ	+?
+
+верховнай	+?
+
+пааматынньык	+?
+
+начальнай	начальнай<ADJ>
+
+бэлиэлээх	+?
+
+инник	+?
+
+термин	+?
+
+тарҕатыы	+?
+
+тииптээх	+?
+
+лөгөй	+?
+
+новосибирскай	+?
+
+поэта	+?
+
+умнуллар	+?
+
+ыйааһын	+?
+
+аралдьытан	+?
+
+хааччахтааһын	+?
+
+ньиэмэс	+?
+
+калифорния	+?
+
+төрүттээхтэр	+?
+
+тыҥырахтаах	+?
+
+батыһыннара	+?
+
+истиэпэннээх	+?
+
+ахсыс	+?
+
+дойдуларыттан	+?
+
+арҕааҥы	+?
+
+тутуллубуттара	+?
+
+уларыйыытыттан	+?
+
+историяҕа	+?
+
+содула	+?
+
+түспүтэ	түс<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+хатанан	+?
+
+кыттыһар	+?
+
+көрөллөрө	+?
+
+дьарыктаныы	+?
+
+араарыыга	+?
+
+органическай	+?
+
+буойун	+?
+
+сирбит	сир<VERB><Number=Plur><Person=1><Tense=Pres>
+сирбит	сир<VERB><Number=Sing><Person=3><Tense=PastResultI>
+сирбит	сир<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+кыргыттары	+?
+
+түү	түү<NOUN><Number=Sing><Case=Nom>
+
+теория	+?
+
+эргиирэ	+?
+
+түмсэн	+?
+
+ба	+?
+
+болҕомтону	+?
+
+тиийэрэ	+?
+
+боруобалыы	+?
+
+эрэллээхтик	+?
+
+уустугуран	+?
+
+лев	+?
+
+тайах	+?
+
+ст	+?
+
+оройуоннааҕы	+?
+
+үлэһиттэргэ	үлэһит<NOUN><Number=Plur><Case=Dat>
+
+билиилэригэр	+?
+
+кэпсиирэ	+?
+
+кырыктаах	+?
+
+отделениетын	+?
+
+аакка	аат<NOUN><Number=Sing><Case=Dat>
+
+ааттаммыттар	+?
+
+эрэдээктэрэ	+?
+
+давыдов	+?
+
+тэриллэн	+?
+
+эмчит	+?
+
+волга	+?
+
+эмтэнии	+?
+
+штатыгар	+?
+
+саппаас	+?
+
+дмитриев	+?
+
+бөлөхтөр	+?
+
+владимирович	+?
+
+тренерэ	+?
+
+өлүөр	+?
+
+туруорбут	туруор<VERB><Number=Plur><Person=1><Tense=Pres>
+туруорбут	туруор<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+кыылларын	кыыл<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+кыылларын	кыыл<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+бараллара	+?
+
+бобор	+?
+
+баайдаах	+?
+
+ыйынан	ый<NOUN><Number=Sing><Case=Ins>
+
+таастаах	+?
+
+ньуура	+?
+
+хайатын	+?
+
+дорҕоонноох	+?
+
+суруктара	сурук<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+кубогын	+?
+
+кыһыллар	+?
+
+барарга	+?
+
+бэлэх	+?
+
+эйгэтэ	+?
+
+туттуута	+?
+
+нуорматын	+?
+
+кэбиһэрин	+?
+
+харайар	+?
+
+ирдииллэр	+?
+
+содуллаах	+?
+
+атынынан	+?
+
+бырдах	+?
+
+охсууну	+?
+
+күүһүгэр	+?
+
+уларытыыны	+?
+
+үүнээйилэрэ	+?
+
+тахсыар	+?
+
+аналын	анал<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+драматическай	+?
+
+ылбат	ыл<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+көннөрүү	+?
+
+сылдьыахтаах	+?
+
+ситэри	+?
+
+кыыстарын	кыыс<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+тэрис	+?
+
+элбииллэр	+?
+
+тиийиммэт	+?
+
+үөһүгэр	+?
+
+өһүн	+?
+
+сүөһүлэр	сүөһү<NOUN><Number=Plur><Case=Nom>
+
+сыанатын	+?
+
+сиэннээх	+?
+
+үбү	+?
+
+сайылык	+?
+
+ааттыллар	+?
+
+дохсун	+?
+
+көрөбүт	+?
+
+таһаартарбыта	+?
+
+бөһүөлэгэр	+?
+
+радио	+?
+
+баһыттан	+?
+
+сирэйин	+?
+
+тэрили	тэрил<NOUN><Number=Sing><Case=Acc>
+
+үчүгэйдэр	+?
+
+билиилэриттэн	+?
+
+саҥараллар	саҥар<VERB><Number=Plur><Person=3><Tense=Pres>
+
+былаастара	+?
+
+тупсарын	+?
+
+туhугар	+?
+
+киирсии	+?
+
+иэскэ	+?
+
+харыстааһыҥҥа	+?
+
+илигин	+?
+
+мурун	+?
+
+өттүлэриттэн	+?
+
+тыллаахтар	+?
+
+кубулуйуон	+?
+
+кыыллыы	+?
+
+сылдьаннар	+?
+
+күүстээҕин	+?
+
+мунньахха	+?
+
+ойууннарын	+?
+
+информационнай	+?
+
+олорго	+?
+
+солумсах	+?
+
+кулгаах	кулгаах<NOUN><Number=Sing><Case=Nom>
+
+арыгынан	арыгы<NOUN><Number=Sing><Case=Ins>
+
+систиэмэ	+?
+
+элбээбит	элбээ<VERB><Number=Plur><Person=1><Tense=Pres>
+элбээбит	элбээ<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+намтыыр	+?
+
+холестерин	+?
+
+уустугурар	+?
+
+үөрэтиитэ	+?
+
+ырааппыт	+?
+
+надежда	+?
+
+үөскэппиттэрэ	+?
+
+көспүттэр	+?
+
+уратыларынан	+?
+
+кытаатан	+?
+
+казань	+?
+
+бэлиэнэн	+?
+
+салгынынан	+?
+
+батары	+?
+
+тааттаҕа	+?
+
+сардаана	+?
+
+медицинаҕа	+?
+
+экономикаҕа	+?
+
+биллэринэн	+?
+
+үлэлэриттэн	+?
+
+үйэлэригэр	+?
+
+көлө	+?
+
+кыайара	+?
+
+кумааҕыны	+?
+
+сүрү	+?
+
+солун	+?
+
+хайысха	+?
+
+то	+?
+
+буору	+?
+
+бырааттыы	+?
+
+кыраадыска	+?
+
+эриэнэ	+?
+
+ньуурдаах	+?
+
+муниципальнай	+?
+
+араастара	+?
+
+толорооччу	+?
+
+компьютернай	+?
+
+тарҕаныыта	+?
+
+суругу	сурук<NOUN><Number=Sing><Case=Acc>
+
+атыыланар	+?
+
+таhаарар	+?
+
+аныгыскы	+?
+
+бразилия	+?
+
+сынньалаҥ	+?
+
+автора	+?
+
+вирустар	+?
+
+салааларын	салаа<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+салааларын	салаа<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+быраабы	+?
+
+бырабыыталыстыбата	+?
+
+буолалларыгар	+?
+
+тугуй	+?
+
+тутулла	+?
+
+дьарыктаан	+?
+
+олордо	олор<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+кыыллара	кыыл<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+кыыллара	кыыл<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+сатаабакка	+?
+
+куһаҕантан	+?
+
+чиҥник	+?
+
+эйигин	+?
+
+үөскэттэҕинэ	+?
+
+оҥоруо	+?
+
+кутталы	+?
+
+цифровой	+?
+
+сыһыарыы	+?
+
+көрүүтүнэн	+?
+
+сан	+?
+
+үрдүүр	+?
+
+дьоппуоннар	+?
+
+таһаарбыттар	+?
+
+олорбот	олор<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+аһатар	+?
+
+ибн	+?
+
+дьуот	+?
+
+түспэт	түс<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+итэҕэйии	+?
+
+көрүүтүгэр	+?
+
+санаабытыгар	+?
+
+чугастык	+?
+
+түүлэ	+?
+
+толороро	+?
+
+ырааҕа	+?
+
+биллэрии	+?
+
+бэриниилээх	+?
+
+тохтуур	+?
+
+улаханынан	+?
+
+киирсэн	+?
+
+кэпсээннэри	+?
+
+туруута	+?
+
+албынныыр	+?
+
+быстахтык	+?
+
+үрдэтэр	+?
+
+аҕыйатан	+?
+
+хамаандатын	+?
+
+кэлэригэр	+?
+
+үөрэн	үөрэн<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+аһыйбыт	+?
+
+умайан	+?
+
+ыстатыйатыгар	+?
+
+кинигэлэригэр	+?
+
+путин	+?
+
+туората	+?
+
+ак	+?
+
+элеменнар	+?
+
+ылла	ыл<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+салайыытынан	+?
+
+ааҕыллаллар	+?
+
+сураҕа	+?
+
+сыһыаҥҥа	сыһыан<NOUN><Number=Sing><Case=Dat>
+
+эһэни	эһэ<NOUN><Number=Sing><Case=Acc>
+
+кэрэтэ	+?
+
+ойуулаан	+?
+
+уолугар	+?
+
+тыынын	+?
+
+орган	+?
+
+аҕай	+?
+
+өстөөҕү	+?
+
+баһылыгынан	+?
+
+иккиһэ	+?
+
+тимофей	+?
+
+улэлээбитэ	+?
+
+оробуочай	+?
+
+тойоно	+?
+
+өлөрбүттэр	+?
+
+училищетыгар	+?
+
+атахха	атах<NOUN><Number=Sing><Case=Dat>
+
+тупсуу	+?
+
+туйаҕын	+?
+
+солбуйааччытынан	+?
+
+григорьевна	+?
+
+хаанынан	хаан<NOUN><Number=Sing><Case=Ins>
+
+холбоһоннор	+?
+
+монголияҕа	+?
+
+айааччылар	+?
+
+айаҕын	ай<VERB><Number=Sing><Person=2><Tense=Pres>
+айаҕын	айах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+кытталлар	+?
+
+оҥоһуутун	+?
+
+уһуур	+?
+
+балыктар	балык<NOUN><Number=Plur><Case=Nom>
+
+быһаарыылар	+?
+
+тоҕоостоох	+?
+
+булаллар	бул<VERB><Number=Plur><Person=3><Tense=Pres>
+
+радиациянан	+?
+
+өйдөбүллээхтэр	+?
+
+сиэбит	сиэ<VERB><Number=Plur><Person=1><Tense=Pres>
+сиэбит	сиэ<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+таһы	тас<NOUN><Number=Sing><Case=Acc>
+
+том	+?
+
+таҥыллан	+?
+
+улуустар	улуус<NOUN><Number=Plur><Case=Nom>
+
+суруйа	суруй<VERB><Tense=Pres><VerbForm=Trans>
+
+бүтэрэ	+?
+
+маарыннаабат	+?
+
+табыллыбакка	+?
+
+үксээн	+?
+
+халлааны	халлаан<NOUN><Number=Sing><Case=Acc>
+
+иликтэринэ	+?
+
+климат	+?
+
+ааттыахха	+?
+
+кыайыылары	+?
+
+таһаарарга	+?
+
+аркадий	+?
+
+удаҕан	+?
+
+республики	+?
+
+эйэҕэс	+?
+
+парижка	+?
+
+валюта	+?
+
+саңа	+?
+
+бигэргэтиллибит	+?
+
+монгуол	+?
+
+бырааһынан	быраас<NOUN><Number=Sing><Case=Ins>
+
+барамай	+?
+
+эбэҥкилэр	+?
+
+ахсааны	ахсаан<NOUN><Number=Sing><Case=Acc>
+
+албынныыллар	+?
+
+күүһүттэн	+?
+
+дьүһүнэ	+?
+
+күүһүрбүт	+?
+
+чинчийиилэр	+?
+
+арыыйда	+?
+
+хааччахтыы	+?
+
+олордон	+?
+
+кулут	+?
+
+саныыллара	+?
+
+күлүмнүүр	+?
+
+киилэҕэ	+?
+
+тоталитарнай	+?
+
+бэлиэтиэххэ	+?
+
+цивилизация	+?
+
+эстибитин	+?
+
+арҕааттан	+?
+
+дуогабар	+?
+
+омуктан	омук<NOUN><Number=Sing><Case=Abl>
+
+балар	+?
+
+усть	+?
+
+өртүгэр	+?
+
+олохтооһун	+?
+
+иҥэрин	+?
+
+арыылара	арыы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+арыылара	арыы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+наадаҕа	+?
+
+станция	+?
+
+ньурбаҕа	+?
+
+быһыыттан	+?
+
+түбэспэттэр	түбэс<VERB><Number=Plur><Person=3><Polarity=Neg><Tense=Pres>
+
+саҥарбат	саҥар<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+чугастааҕы	+?
+
+кэтэ	кэт<VERB><Tense=Pres><VerbForm=Trans>
+
+туоратан	+?
+
+моонньун	+?
+
+эдьигээн	+?
+
+софронов	+?
+
+тутулуктаахтарын	+?
+
+мөлтөтөр	+?
+
+тар	+?
+
+союзтааҕы	+?
+
+кэбистэҕинэ	+?
+
+солко	+?
+
+остуоруйаҕа	+?
+
+сүүрбэччэ	+?
+
+анала	анал<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ууруллубут	+?
+
+дириҥэ	+?
+
+кытылын	+?
+
+баарыттан	+?
+
+кэмпилиэк	+?
+
+табах	+?
+
+хаһыатыгар	+?
+
+суруллубутунан	+?
+
+сүбэлииллэр	+?
+
+баҕарара	+?
+
+көрдөһөн	+?
+
+толоруллар	+?
+
+инникини	+?
+
+билгэ	+?
+
+оҥоһуллан	+?
+
+салгыыр	+?
+
+улаатыар	+?
+
+сайыннараллар	+?
+
+түүлээҕи	+?
+
+суруйааччылара	+?
+
+дьаһахтарын	+?
+
+ырааҕы	+?
+
+эпос	+?
+
+хаас	+?
+
+мөлтөөтөҕүнэ	+?
+
+быһыылартан	+?
+
+оҥостубут	+?
+
+үөрэнээччилэр	үөрэнээччи<NOUN><Number=Plur><Case=Nom>
+
+дьылы	+?
+
+ыһыллар	+?
+
+миниистирдэрин	+?
+
+үөскэтинэр	+?
+
+маныаха	+?
+
+түөс	+?
+
+психолог	+?
+
+алдьаттахха	+?
+
+сулууспа	+?
+
+видео	+?
+
+өҥөнү	+?
+
+англияҕа	+?
+
+түмүгүн	+?
+
+хорсуннук	+?
+
+ууһугар	+?
+
+иитээччи	+?
+
+быраҕар	+?
+
+канаадаҕа	+?
+
+сатабыллаахтык	+?
+
+көрбөтөх	көр<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=PastResultI>
+
+сиэригэр	+?
+
+быраатын	быраат<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+биэриилэрэ	+?
+
+астынар	+?
+
+утарсар	+?
+
+кинигэлэрэ	кинигэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+кинигэлэрэ	кинигэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+венгрия	+?
+
+онорор	+?
+
+булгуччу	+?
+
+ыарыылаах	+?
+
+киhини	+?
+
+алдьатыыны	+?
+
+дьахталларын	+?
+
+мир	+?
+
+швеция	+?
+
+олохтонор	+?
+
+тохтоо	+?
+
+рашид	+?
+
+туймаада	+?
+
+көмүскээбит	+?
+
+кирдээх	+?
+
+буоллаына	+?
+
+түргэтэтэр	+?
+
+дьиэлэргэ	дьиэ<NOUN><Number=Plur><Case=Dat>
+
+сынньалаҥнык	+?
+
+ааҕыахха	+?
+
+сайдыбытынан	+?
+
+үөрэхтэр	үөрэх<NOUN><Number=Plur><Case=Nom>
+
+туругар	+?
+
+иьин	+?
+
+олоруон	+?
+
+тутааччы	+?
+
+кэбиспитэ	+?
+
+таастан	таас<NOUN><Number=Sing><Case=Abl>
+
+оонньооччу	+?
+
+гыммытын	+?
+
+үлэлээбиттэр	+?
+
+итэҕэйээччилэр	+?
+
+ууска	уус<NOUN><Number=Sing><Case=Dat>
+
+тарҕаныытын	+?
+
+австрия	+?
+
+сүүрүүгэ	+?
+
+хуун	+?
+
+быспакка	+?
+
+мунньаҕар	+?
+
+сүрүннүүр	+?
+
+айаҕар	+?
+
+биэриэххэ	+?
+
+кымыһы	+?
+
+сатыырын	+?
+
+үөрүйэххэ	үөрүйэх<NOUN><Number=Sing><Case=Dat>
+
+уура	уур<VERB><Tense=Pres><VerbForm=Trans>
+
+романович	+?
+
+аас	аас<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+аас	аас<NOUN><Number=Sing><Case=Nom>
+
+бэйэлээх	+?
+
+суута	+?
+
+саар	+?
+
+тиийэринэн	+?
+
+сиэтэн	+?
+
+аһаабыт	аһаа<VERB><Number=Plur><Person=1><Tense=Pres>
+аһаабыт	аһаа<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+кыаттарбыт	+?
+
+уһуктан	уһук<NOUN><Number=Sing><Case=Abl>
+
+эдьиий	эдьиий<NOUN><Number=Sing><Case=Nom>
+
+киллэриллибитэ	+?
+
+битэмиин	+?
+
+хана	+?
+
+ойууланар	+?
+
+сүтэрбит	+?
+
+саҥардыы	+?
+
+туһатын	+?
+
+фронугар	+?
+
+сулууспалыы	+?
+
+турууну	+?
+
+үлэлэтэр	+?
+
+ойоҕун	+?
+
+сэкиритээрэ	+?
+
+өлөрүгэр	+?
+
+начаалынай	+?
+
+номоҕо	+?
+
+сыратын	+?
+
+мечников	+?
+
+ыччаттара	+?
+
+холку	холку<ADJ>
+
+правительство	+?
+
+улаатыыта	+?
+
+маайа	+?
+
+түмүктэнэр	+?
+
+суурайан	+?
+
+хатыы	+?
+
+айбытын	+?
+
+кэккэлэһэ	+?
+
+футбол	+?
+
+мастары	мас<NOUN><Number=Plur><Case=Acc>
+
+түгэннэрэ	+?
+
+ылыыта	+?
+
+иһитиннэрэр	+?
+
+иһиилэрин	+?
+
+туруон	+?
+
+уларыйыылара	+?
+
+археология	+?
+
+көстөрө	+?
+
+алгыска	+?
+
+тутуннахха	+?
+
+сүтэрэр	+?
+
+оҥорортон	+?
+
+оҥоруох	+?
+
+этииттэн	+?
+
+урдук	+?
+
+ыстатыйалара	+?
+
+уутугар	уу<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+урбаан	+?
+
+платон	+?
+
+коммунистическай	+?
+
+кыргыыстар	+?
+
+казан	+?
+
+судургутук	+?
+
+илиилэрин	илии<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+илиилэрин	илии<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сыллардааҕы	+?
+
+аржаков	+?
+
+кубулуйуута	+?
+
+ийэлээх	+?
+
+үрдэтии	+?
+
+кэбистэ	+?
+
+олорбуттарын	+?
+
+сиэмэтин	+?
+
+наталья	+?
+
+тарда	+?
+
+губернатор	+?
+
+көрсөллөр	+?
+
+киинэлэргэ	+?
+
+сэрэҕэ	+?
+
+тупсубут	+?
+
+газ	+?
+
+дьарыктанара	+?
+
+тэриллэрин	тэрил<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+тэриллэрин	тэрил<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+үөрүйэхтэр	үөрүйэх<NOUN><Number=Plur><Case=Nom>
+
+тылларбытын	+?
+
+сабаҕалыыллар	+?
+
+улаатыннарыы	+?
+
+хаалыылаах	+?
+
+киэнэ	+?
+
+билиэ	+?
+
+чуолкайданан	+?
+
+уратыланар	+?
+
+охсуһууну	+?
+
+бырааһа	быраас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+дьоҕур	+?
+
+кытылга	+?
+
+аҕалбат	аҕал<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+өлөллөр	+?
+
+хонуутугар	хонуу<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+ыстакаан	+?
+
+табыллыбатах	+?
+
+сыгынньах	+?
+
+дальнай	+?
+
+үбүнэн	+?
+
+бэрэсидьиэнэ	+?
+
+этнография	+?
+
+истиигэ	+?
+
+муннугар	+?
+
+эбиппин	+?
+
+халаан	+?
+
+олоҕунан	+?
+
+иҥэриммит	+?
+
+көрдөһүү	+?
+
+кэлбиттэрин	+?
+
+никифорович	+?
+
+хайыта	+?
+
+чыыһыла	+?
+
+билбэттэн	+?
+
+олорууга	+?
+
+хаҥастан	+?
+
+ыйдаах	+?
+
+хамандыыра	+?
+
+государствоҕа	+?
+
+ыйтан	ый<NOUN><Number=Sing><Case=Abl>
+
+институутун	+?
+
+водород	+?
+
+кичэйэн	+?
+
+массыыналары	массыына<NOUN><Number=Plur><Case=Acc>
+
+сатабыллаах	+?
+
+славян	+?
+
+детсад	+?
+
+сиэрэй	+?
+
+төлө	+?
+
+баттахтаах	+?
+
+нууч	+?
+
+олоҥхолорго	олоҥхо<NOUN><Number=Plur><Case=Dat>
+
+ыалларын	ыал<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+ыалларын	ыал<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+булдунан	+?
+
+компьютерга	+?
+
+тардыһыы	+?
+
+араара	араар<VERB><Tense=Pres><VerbForm=Trans>
+
+боруода	+?
+
+сыыһаларыттан	+?
+
+эми	эмп<NOUN><Number=Sing><Case=Acc>
+
+кинигэттэн	+?
+
+кэннинээҕи	+?
+
+туруктаахтык	+?
+
+евразия	+?
+
+сэмэ	+?
+
+кыйыата	+?
+
+хамсаммат	+?
+
+үөрэхтээһиҥҥэ	+?
+
+тириэртэ	+?
+
+бичиккэ	бичик<NOUN><Number=Sing><Case=Dat>
+
+ыарыылартан	+?
+
+өйдөр	өй<NOUN><Number=Plur><Case=Nom>
+
+династиятын	+?
+
+этэрбэс	этэрбэс<NOUN><Number=Sing><Case=Nom>
+
+сибэккилэрэ	+?
+
+таҥалайдаах	+?
+
+гуманитарнай	+?
+
+баана	+?
+
+натрий	+?
+
+билимҥэ	билим<NOUN><Number=Sing><Case=Dat>
+
+финалга	+?
+
+премьер	+?
+
+таһаарбыттара	таһаар<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+электрическэй	+?
+
+мустар	+?
+
+башня	+?
+
+обсерватория	+?
+
+гран	+?
+
+днепр	+?
+
+куурусса	куурусса<NOUN><Number=Sing><Case=Nom>
+
+түгэннэргэ	+?
+
+босхолонон	+?
+
+дьөһөгөй	+?
+
+гыннахха	+?
+
+үөрэтиллибэтэх	+?
+
+былаастарын	+?
+
+аймахха	аймах<NOUN><Number=Sing><Case=Dat>
+
+ортотун	+?
+
+ны	+?
+
+салалта	салалта<NOUN><Number=Sing><Case=Nom>
+
+өйдүөххэ	+?
+
+минарет	+?
+
+атом	+?
+
+италияҕа	+?
+
+систематыгар	+?
+
+омуктарыгар	+?
+
+чороон	+?
+
+чернышевскай	+?
+
+үгэһинэн	+?
+
+оонньууларга	+?
+
+ситиспиттэрэ	+?
+
+донской	+?
+
+аһаабат	аһаа<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+ырыаҕа	ырыа<NOUN><Number=Sing><Case=Dat>
+
+иҥэринии	+?
+
+сымнаҕастык	+?
+
+уопута	+?
+
+ситимниир	+?
+
+арыыларын	арыы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+арыыларын	арыы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+улэтин	+?
+
+сыанаҕа	+?
+
+кэлиилэригэр	+?
+
+григорьев	+?
+
+көмөлөһүү	+?
+
+арахсалларын	+?
+
+спиридонович	+?
+
+европаны	+?
+
+үллэстии	+?
+
+наркотигы	+?
+
+салҕанар	+?
+
+уһаарыыны	+?
+
+акыйаан	+?
+
+көрдөрүүгэ	+?
+
+ситиһиэххэ	+?
+
+буолуох	+?
+
+үгэстэрдээх	+?
+
+саввин	+?
+
+николаева	+?
+
+түмэлигэр	+?
+
+туһаммыттара	+?
+
+санников	+?
+
+этиллэринэн	+?
+
+геолог	+?
+
+истэллэр	иһит<VERB><Number=Plur><Person=3><Tense=Pres>
+
+көрбүтүн	+?
+
+аныгылыы	+?
+
+сахалара	саха<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+сахалара	саха<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+отут	+?
+
+зонатыгар	+?
+
+японияны	+?
+
+хайыһар	хайыһар<NOUN><Number=Sing><Case=Nom>
+
+үлэһитинэн	үлэһит<NOUN><Number=Sing><Case=Ins>
+
+көҥүлү	+?
+
+салааҕа	+?
+
+алдьанар	+?
+
+көтөрө	көтөр<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+хойутуу	+?
+
+бииһэ	+?
+
+маһа	мас<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+кээмэйинэн	+?
+
+кыттыылаахтара	+?
+
+джон	+?
+
+арыйыыны	+?
+
+хайахсыт	+?
+
+үөрэтэллэригэр	+?
+
+тымныыта	+?
+
+кылгатан	+?
+
+барыыларыгар	+?
+
+эккирэтэ	+?
+
+харыйа	+?
+
+сатааһыны	+?
+
+биологическай	+?
+
+сии	+?
+
+сиэ	сиэ<VERB><Tense=Pres><VerbForm=Trans>
+сиэ	сиэ<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+талаана	+?
+
+улуутуйар	+?
+
+дьыллар	+?
+
+поэзия	+?
+
+чэбдик	+?
+
+амарах	+?
+
+аахсыбат	+?
+
+тириэрдибэт	+?
+
+харыстаныы	+?
+
+сэрэҕи	+?
+
+тиийинэн	+?
+
+итэҕэллэринэн	+?
+
+төрүттээччи	+?
+
+ийэтиттэн	+?
+
+туһаналларыттан	+?
+
+атаҕы	атах<NOUN><Number=Sing><Case=Acc>
+
+преподаватель	+?
+
+ирина	+?
+
+сүгүн	+?
+
+көрбүттэр	+?
+
+таҥастыыр	+?
+
+кулубата	+?
+
+өрүү	+?
+
+отонун	+?
+
+араа	+?
+
+култуураларын	+?
+
+орхон	+?
+
+ылыммат	+?
+
+куоратынан	куорат<NOUN><Number=Sing><Case=Ins>
+
+специалист	+?
+
+польшаҕа	+?
+
+игорь	+?
+
+кыттыбыттара	+?
+
+көһүү	+?
+
+хатаран	+?
+
+сүүрбэттэн	+?
+
+энергияны	+?
+
+киирэннэр	+?
+
+салайыытыгар	+?
+
+охсуһа	+?
+
+рауҥҥа	+?
+
+көөнньөрөн	+?
+
+уорган	+?
+
+туруорбуттар	+?
+
+быһаҕы	+?
+
+бөлөхтөрүн	+?
+
+поэзиятын	+?
+
+быыбар	быыбар<NOUN><Number=Sing><Case=Nom>
+
+кыыһырбыт	+?
+
+үөрэхтэммит	+?
+
+хаалыытын	+?
+
+кэлиэҕэ	+?
+
+буорах	+?
+
+африкаҕа	+?
+
+көстүүлэр	+?
+
+хаалбыттарын	+?
+
+таһаҕаһы	таһаҕас<NOUN><Number=Sing><Case=Acc>
+
+тутуулары	+?
+
+уойан	+?
+
+сыттаҕына	+?
+
+арахсара	+?
+
+умнаһыт	+?
+
+үлэлээтэҕинэ	+?
+
+ураал	+?
+
+көрүҥүттэн	+?
+
+арассыыйатааҕы	+?
+
+талбыт	+?
+
+бастакыннан	+?
+
+сытыары	+?
+
+түүннэри	+?
+
+саҕатыгар	+?
+
+гынна	гын<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+бытыктаах	+?
+
+уста	уст<VERB><Tense=Pres><VerbForm=Trans>
+
+оҕунан	+?
+
+үстүү	+?
+
+киэргэл	+?
+
+музыкаҕа	+?
+
+статистика	+?
+
+иҥэрэллэр	+?
+
+өйдөрүттэн	+?
+
+мааныга	+?
+
+тулуйбакка	+?
+
+тириэрдэринэн	+?
+
+талбытынан	+?
+
+ыллараллар	+?
+
+ситиһэллэригэр	+?
+
+немец	+?
+
+түүнүн	түүн<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+өрөҕөтө	+?
+
+былаанын	+?
+
+прокопьев	+?
+
+театрыгар	+?
+
+олохтообуттара	+?
+
+бэлэмнэммит	+?
+
+дэм	+?
+
+институтка	+?
+
+сытарын	+?
+
+төҥүлү	+?
+
+ойон	+?
+
+чиҥэтэн	+?
+
+көмүскээн	+?
+
+көһүлээн	+?
+
+сымнаан	+?
+
+тирэҕирэр	+?
+
+туппуттар	+?
+
+көппөҕөр	+?
+
+тохтообута	+?
+
+физическэй	+?
+
+этээстээх	+?
+
+тэрийээччитэ	+?
+
+юань	+?
+
+тарыҥ	+?
+
+илиилэринэн	илии<NOUN><Number=Plur><Case=Ins>
+
+библиотека	+?
+
+күрэхтэһиигэ	+?
+
+ыыр	ыа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+өттүнээҕи	+?
+
+эмтэнэн	+?
+
+үөһэттэн	+?
+
+бог	+?
+
+саныыбын	+?
+
+тарҕана	+?
+
+ойууннары	+?
+
+таҥаралары	таҥара<NOUN><Number=Plur><Case=Acc>
+
+үөрэнэргэ	+?
+
+период	+?
+
+анаабыта	анаа<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+араарбакка	+?
+
+тылдьытын	+?
+
+айымньытыгар	айымньы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+туйгун	+?
+
+сулуһа	сулус<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+сэбиэтэ	+?
+
+төрөппүттэри	+?
+
+спортсменнар	+?
+
+сүүрбэһис	+?
+
+ыһыах	+?
+
+миэстэтэ	+?
+
+чаастарын	чаас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+рон	+?
+
+тэрийбиттэрэ	+?
+
+күөлэ	күөл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ыалдьыт	+?
+
+баһылаабыта	+?
+
+итэҕэс	+?
+
+дьулуурун	+?
+
+клиническэй	+?
+
+кавабата	+?
+
+үөрэнээччитэ	үөрэнээччи<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+үөрэнээччитэ	үөрэнээччи<NOUN><Number=Sing><Case=Par>
+
+сугун	+?
+
+устарга	+?
+
+өртүнэн	+?
+
+ыстаппаан	+?
+
+импиэрийэтин	+?
+
+хампаанньаны	+?
+
+үлэлииллэрин	+?
+
+ыллаан	+?
+
+тыыһынча	+?
+
+уустарыгар	+?
+
+собуот	+?
+
+ситиһиитин	+?
+
+аатырбыта	+?
+
+киинэтэ	+?
+
+салалтатыгар	салалта<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+бэрэстээтэлинэн	+?
+
+бутэрэн	+?
+
+киис	+?
+
+биэрэгэр	+?
+
+ыччата	+?
+
+кэриэйэ	+?
+
+итирик	+?
+
+итэҕэтиилээхтик	+?
+
+сыаналыыра	+?
+
+умса	+?
+
+сөкүүндэ	сөкүүндэ<NOUN><Number=Sing><Case=Nom>
+
+дьарҕа	+?
+
+арыыларга	арыы<NOUN><Number=Plur><Case=Dat>
+
+массыынатын	+?
+
+роза	+?
+
+көлүөнэни	көлүөнэ<NOUN><Number=Sing><Case=Acc>
+
+модьу	+?
+
+хазар	+?
+
+силис	+?
+
+политикатын	+?
+
+ортотуттан	+?
+
+олордохторуна	+?
+
+бииhэ	+?
+
+буккуйаллар	+?
+
+тиийбэтэ	+?
+
+эрэйдэнэллэр	+?
+
+төлөбүр	+?
+
+буолуохха	+?
+
+дөлбү	+?
+
+сайдаллар	+?
+
+дорҕооннордоох	+?
+
+тот	тот<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+айбыттара	ай<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+оттоох	+?
+
+уулларан	+?
+
+үтүрүйэн	+?
+
+дорҕооннору	+?
+
+сурунаалларга	+?
+
+көмүстээх	+?
+
+үөскэтинэн	+?
+
+түрк	+?
+
+украинскай	+?
+
+кэскил	кэскил<PROPN>
+
+дума	+?
+
+өттүлэрин	+?
+
+чинчийээччитэ	+?
+
+алмааһы	+?
+
+көстүүлэрин	+?
+
+регион	+?
+
+аттынааҕы	+?
+
+кэмнэриттэн	+?
+
+нүөмэрэ	+?
+
+итэҕэллэр	+?
+
+көрбүттэрэ	+?
+
+үөрэниигэ	+?
+
+айарын	+?
+
+ылларбыт	+?
+
+өбүгэлэр	+?
+
+ааһарын	+?
+
+сопхуоска	+?
+
+күөлү	күөл<NOUN><Number=Sing><Case=Acc>
+
+дьиҥинэн	+?
+
+бэрэпиэссэр	+?
+
+киэһээҥҥи	+?
+
+хааччахтаах	+?
+
+түмүккэ	+?
+
+майа	+?
+
+охтубут	+?
+
+ыл	ыл<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+тустуук	+?
+
+чиряев	+?
+
+болдьоҕо	+?
+
+гаврильевна	+?
+
+аҕатыгар	аҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+таһаара	таһаар<VERB><Tense=Pres><VerbForm=Trans>
+
+ыытыллара	+?
+
+күөллэргэ	күөл<NOUN><Number=Plur><Case=Dat>
+
+дьиэлээх	+?
+
+дьобуруопа	+?
+
+физическай	+?
+
+үлэлэспитэ	+?
+
+хапхаас	+?
+
+кииннэрэ	киин<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ийэтигэр	ийэ<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+туттууга	+?
+
+тымныылаах	+?
+
+кулааһай	+?
+
+сиэллээх	+?
+
+өйдөбүллэнэр	+?
+
+буруйданан	+?
+
+үөрэппиттэрин	+?
+
+уоттара	уот<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+сэрэнэр	+?
+
+эрчийэр	+?
+
+эстиитэ	+?
+
+оннуларын	+?
+
+эрэрэ	+?
+
+куйаарга	+?
+
+актыыбынай	+?
+
+көйүүр	+?
+
+таҥха	+?
+
+өрүтүнэн	+?
+
+кэрэхсэбиллээх	+?
+
+ааттаабыта	ааттаа<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+киhитэ	+?
+
+бааччы	+?
+
+мэйииттэн	+?
+
+өйдөбүллээҕин	+?
+
+ыйыллар	+?
+
+үгэстэртэн	+?
+
+өлөөрү	+?
+
+түмүк	+?
+
+ааттыы	+?
+
+туттунарын	+?
+
+сылааска	+?
+
+филиала	+?
+
+бэдэрээлинэй	+?
+
+туппат	тут<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+алдьатан	+?
+
+гэс	+?
+
+тыаһын	+?
+
+куотар	+?
+
+детсадка	+?
+
+сирия	+?
+
+турунан	+?
+
+алмаастаах	+?
+
+боппуруостарын	+?
+
+хакасия	+?
+
+дүпсүн	+?
+
+иһиини	+?
+
+ойуччу	+?
+
+кэрэтин	+?
+
+кулуба	+?
+
+кэмитиэт	+?
+
+тупсарыы	+?
+
+ыккардыгар	+?
+
+ылларбат	+?
+
+күрэс	+?
+
+дьоруой	+?
+
+аҥаардас	+?
+
+утарылаһар	+?
+
+үлэһитин	үлэһит<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+саввинов	+?
+
+ытыс	+?
+
+сыал	+?
+
+хааннара	хаан<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ван	+?
+
+суураллыбыт	+?
+
+пекин	+?
+
+ылдьаа	+?
+
+төгүллээн	+?
+
+төннүү	+?
+
+төгүрүччү	+?
+
+туоратыллар	+?
+
+тымныыттан	+?
+
+сибиинньэ	сибиинньэ<NOUN><Number=Sing><Case=Nom>
+
+нервнэй	+?
+
+оҥкулун	+?
+
+уоруйахтар	+?
+
+умнууга	+?
+
+ыстаал	ыстаал<NOUN><Number=Sing><Case=Nom>
+
+өҥүнэн	+?
+
+кэбиспэккэ	+?
+
+сорохторун	+?
+
+араартаан	+?
+
+былыргыта	+?
+
+үлэлээбитин	+?
+
+туттунарыттан	+?
+
+любовь	+?
+
+диэйэтэл	+?
+
+үөскээһиннэрэ	+?
+
+чугаһыгар	+?
+
+утаҕы	+?
+
+үүтүн	үүт<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+колхуоска	+?
+
+тупсарыгар	+?
+
+түбэлтэлэргэ	+?
+
+олохтоохторугар	+?
+
+оһуобай	+?
+
+улааталларын	+?
+
+үөскэтэ	+?
+
+туруулаһан	+?
+
+майгыланан	+?
+
+бүрүллүбүт	+?
+
+муҥутаан	+?
+
+оҥоруутугар	+?
+
+эньиэргийэни	+?
+
+дэнэллэр	+?
+
+хайҕааһын	+?
+
+ааттыыбыт	+?
+
+буккуллубут	+?
+
+тоо	+?
+
+быраабылатын	+?
+
+төбөтүнэн	+?
+
+кырдьыбыт	+?
+
+кутар	кут<VERB><Number=Sing><Person=3><Tense=Pres>
+
+отуттан	+?
+
+федерал	+?
+
+олуһун	+?
+
+турук	+?
+
+киhиэхэ	+?
+
+көрүҥнэринэн	+?
+
+олохторуттан	+?
+
+иис	+?
+
+дьөлө	+?
+
+бултуурга	+?
+
+бөрөлөр	бөрө<NOUN><Number=Plur><Case=Nom>
+
+тахсаннар	+?
+
+балыгынан	балык<NOUN><Number=Sing><Case=Ins>
+
+кыһынын	кыһын<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+уохтаах	+?
+
+кэбистилэр	+?
+
+накааһа	+?
+
+оҥорботугар	+?
+
+искэҥ	+?
+
+дакаастаабыта	+?
+
+угаллар	+?
+
+дьаныһан	+?
+
+өлүөхүмэҕэ	+?
+
+баралларын	+?
+
+олоҥхото	олоҥхо<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+олоҥхото	олоҥхо<NOUN><Number=Sing><Case=Par>
+
+суруксутунан	+?
+
+ленскэй	+?
+
+эрэл	эрэл<ADJ>
+
+уһааран	+?
+
+гыммыта	+?
+
+таптаан	+?
+
+квадратнай	+?
+
+харбаан	+?
+
+көннөрө	+?
+
+тутара	+?
+
+билбэтинэн	+?
+
+хамсааһыҥҥа	хамсааһын<NOUN><Number=Sing><Case=Dat>
+
+муусука	+?
+
+кэпсэтиигэ	+?
+
+кыпчак	+?
+
+хостооһун	+?
+
+үөрэнээччилэрэ	үөрэнээччи<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+үөрэнээччилэрэ	үөрэнээччи<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+оҕолоохтор	+?
+
+ааттаналлара	+?
+
+ускуустубатын	+?
+
+якутскай	+?
+
+пуонда	+?
+
+драма	+?
+
+булгуччулаах	+?
+
+күннэргэ	күн<NOUN><Number=Plur><Case=Dat>
+
+айбыттар	+?
+
+турнир	+?
+
+хомуллубут	+?
+
+буох	+?
+
+гумилев	+?
+
+гын	гын<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+көрдөөһүн	+?
+
+көрдөөх	көрдөөх<ADV>
+
+уһаарар	+?
+
+кондаков	+?
+
+тэрийбиттэр	+?
+
+булкаас	+?
+
+сэкиритээринэн	+?
+
+эрдэххэ	+?
+
+халыйыыта	+?
+
+тохтотуу	+?
+
+үөрүйэхтэри	+?
+
+хаббард	+?
+
+угун	+?
+
+ыһыы	+?
+
+аһыллар	+?
+
+тулуурун	+?
+
+быһаарыллыбыта	+?
+
+бөҕөргөөн	+?
+
+ярославскай	+?
+
+синоним	+?
+
+ойуурдаах	+?
+
+килбиэнин	+?
+
+сэһэннэрэ	+?
+
+эстония	+?
+
+аҕыйаҕа	+?
+
+сэбиэттэрин	+?
+
+саалар	саа<NOUN><Number=Plur><Case=Nom>
+
+өрөспүүбүлүкэтигэр	+?
+
+бириэмэтэ	+?
+
+көстүүнү	+?
+
+үрэххэ	үрэх<NOUN><Number=Sing><Case=Dat>
+
+отунан	от<NOUN><Number=Sing><Case=Ins>
+
+учаастагар	+?
+
+ааттаммыттара	+?
+
+сүнньүгэр	+?
+
+ыҥырыытын	+?
+
+бэйэлэринэн	бэйэ<NOUN><Number=Plur><Case=Ins>
+
+көрүҥнээхтик	+?
+
+суобаһа	+?
+
+биэриэхтээх	+?
+
+үөрэтиллибит	+?
+
+динозаврдар	+?
+
+системаҕа	+?
+
+ситимнэрэ	+?
+
+систиэмэтин	+?
+
+олохтообуттар	+?
+
+станцията	+?
+
+кукаакы	+?
+
+оннуларыгар	+?
+
+диссертациятын	+?
+
+барыллаан	+?
+
+сыҕарыйан	+?
+
+знага	+?
+
+орден	+?
+
+гэр	+?
+
+сыллааҕыта	+?
+
+быhаарар	+?
+
+мустубут	+?
+
+хааччыйаллар	+?
+
+сытара	+?
+
+баайынан	баай<NOUN><Number=Sing><Case=Ins>
+
+олег	+?
+
+солбуллан	+?
+
+судаарыстыбалар	+?
+
+ылыылара	+?
+
+эппиэти	+?
+
+быһаарынан	+?
+
+көмүскүүргэ	+?
+
+үүнээйилэри	+?
+
+иэнинэн	+?
+
+таһаарара	+?
+
+ын	+?
+
+оонньууру	+?
+
+сэрэтии	+?
+
+ыраастанар	+?
+
+ойуулаабыта	+?
+
+уолбут	+?
+
+тэҥнии	+?
+
+атыттара	+?
+
+антонов	+?
+
+киирбитинэн	+?
+
+иҥэриллэр	+?
+
+өлбөт	+?
+
+сылдьабын	+?
+
+сүүрүк	+?
+
+эппиэтинэһэ	+?
+
+аҕас	аҕас<NOUN><Number=Sing><Case=Nom>
+
+убай	убай<NOUN><Number=Sing><Case=Nom>
+
+борисова	+?
+
+курдуга	+?
+
+нэһилиэктэргэ	+?
+
+босхолооһун	+?
+
+уордьаннар	+?
+
+ыыталлара	+?
+
+сут	+?
+
+күннэрин	+?
+
+умнуллубакка	+?
+
+аахпат	аах<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+тэринэн	+?
+
+атахтарыгар	+?
+
+тупсуута	+?
+
+эҥкилэ	+?
+
+халыйыы	+?
+
+ылыахтарын	+?
+
+баҕараллара	+?
+
+народов	+?
+
+туруупка	+?
+
+тыh	+?
+
+этинэн	эт<NOUN><Number=Sing><Case=Ins>
+
+телевидение	+?
+
+бэлэмнээх	бэлэм<ADJ><Poss=Yes>
+
+адыаччы	+?
+
+климата	+?
+
+захарова	+?
+
+тойону	+?
+
+оройуоннарга	оройуон<NOUN><Number=Plur><Case=Dat>
+
+манньыаттар	+?
+
+миэтирэ	+?
+
+айыыбыт	айыы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+кэрийэн	+?
+
+тумсун	+?
+
+бэлиэтээһин	+?
+
+ыкка	ыт<NOUN><Number=Sing><Case=Dat>
+
+киинэтин	+?
+
+сибээстээхтэр	+?
+
+үөннэрэ	үөн<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+бэриллэрэ	+?
+
+математикаҕа	+?
+
+ортото	+?
+
+туустар	+?
+
+көрүҥү	+?
+
+ма	+?
+
+охсубат	+?
+
+түһэрин	+?
+
+үүнээйилэртэн	+?
+
+аһылыктара	+?
+
+өрүттээҕэ	+?
+
+сүгүрүйэр	+?
+
+кузьмич	+?
+
+этнографическай	+?
+
+хааччахтара	+?
+
+үөрэнээччи	үөрэнээччи<NOUN><Number=Sing><Case=Nom>
+
+сайыннарарга	+?
+
+айыыларга	айыы<NOUN><Number=Plur><Case=Dat>
+
+туһаайан	+?
+
+этээччилэр	+?
+
+аҥаарын	+?
+
+сылдьары	+?
+
+сырыт	сырыт<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+илдьит	+?
+
+кыһалҕатын	+?
+
+көмүллүбүтэ	+?
+
+ирдэбиллээх	+?
+
+фронт	+?
+
+тааһынан	таас<NOUN><Number=Sing><Case=Ins>
+
+сиэдэрэй	+?
+
+саастарын	саас<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+эргинэр	+?
+
+тарҕаммыттар	+?
+
+сирэйигэр	+?
+
+кырбаан	+?
+
+түбэлтэтигэр	+?
+
+ыксыыр	+?
+
+туристар	+?
+
+хроническай	+?
+
+уҥуохтара	уҥуох<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+табааҕы	+?
+
+олимпиадаҕа	+?
+
+маастарын	+?
+
+иhэн	+?
+
+уопсастыбатын	+?
+
+данилова	+?
+
+сөбүлээбэккэ	+?
+
+спортка	+?
+
+аахпыта	+?
+
+аахтахха	+?
+
+историктар	+?
+
+кэлиэхтээх	+?
+
+тарҕатыыга	+?
+
+тутулук	+?
+
+хааланнар	+?
+
+наадыйбат	+?
+
+быһыыланыы	+?
+
+туһалара	+?
+
+ахшга	+?
+
+биэриитин	+?
+
+үтүөлэрин	+?
+
+тирээн	+?
+
+сытыйар	+?
+
+буларга	+?
+
+ученайдар	+?
+
+өлүүлэрэ	+?
+
+аастаҕына	+?
+
+суохтарын	+?
+
+буолуохтара	+?
+
+боппуруоска	+?
+
+элбээһиниттэн	+?
+
+араҥас	+?
+
+юнеско	+?
+
+идэ	+?
+
+алексеевна	+?
+
+түмсүүтэ	+?
+
+таһымынан	+?
+
+байҕала	+?
+
+россияны	+?
+
+мууһу	+?
+
+зоя	+?
+
+баас	+?
+
+барытынан	+?
+
+миэстэтигэр	+?
+
+имири	+?
+
+россиятааҕы	+?
+
+күүһүлээн	+?
+
+быраҕа	+?
+
+үөрүүнү	+?
+
+булунар	+?
+
+уолга	уол<NOUN><Number=Sing><Case=Dat>
+
+киириитигэр	+?
+
+наадыйаллар	+?
+
+дьячковскай	+?
+
+приходской	+?
+
+собуотун	+?
+
+дэлэйэн	+?
+
+үөрэммиттэрэ	+?
+
+иитэ	иит<VERB><Tense=Pres><VerbForm=Trans>
+
+күл	күл<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+ветеринарнай	+?
+
+көрдөнөр	+?
+
+быраап	+?
+
+доруобуйалаах	+?
+
+түргэнэ	+?
+
+серошевскай	+?
+
+тэбэр	+?
+
+билсэн	+?
+
+кыччыыр	+?
+
+өйдөспөт	+?
+
+солбуйан	+?
+
+өҥнөөхтөр	+?
+
+сынньалаҥҥа	+?
+
+эрэй	+?
+
+сайдыбат	+?
+
+иһэннэр	+?
+
+кыыһырыы	+?
+
+бухара	+?
+
+туһатыгар	+?
+
+сүрэхтээх	+?
+
+үөрэтииттэн	+?
+
+хаһаайыстыбата	+?
+
+хоргуйуу	+?
+
+багдарыын	+?
+
+күһүҥҥү	+?
+
+балыктааһын	+?
+
+сөрүүн	+?
+
+быһах	+?
+
+көтүү	+?
+
+хайааһын	+?
+
+бэргэһэни	бэргэһэ<NOUN><Number=Sing><Case=Acc>
+
+наркотиктар	+?
+
+аһылыгынан	+?
+
+иитээччилэр	+?
+
+тутуһаллара	+?
+
+натуральнай	+?
+
+көрүүттэн	+?
+
+арахсыбыттара	+?
+
+тоҥустар	+?
+
+түөскэ	+?
+
+былдьаһан	+?
+
+сыппыт	+?
+
+сити	+?
+
+киирсиитигэр	+?
+
+суруктар	сурук<NOUN><Number=Plur><Case=Nom>
+
+тохтамыш	+?
+
+ыччатын	+?
+
+муос	+?
+
+уоһун	+?
+
+уустуга	+?
+
+справочник	+?
+
+буут	+?
+
+эппиэтэ	+?
+
+санаатаҕына	+?
+
+дьыалата	+?
+
+ыстатыйаны	+?
+
+младшай	+?
+
+сайыннарбыт	+?
+
+кырдьыгы	+?
+
+куһаҕаннар	+?
+
+ытыктабыллаахтык	+?
+
+мүрү	+?
+
+бүгүҥҥү	+?
+
+билинни	+?
+
+билиэхтээх	+?
+
+уопсастыбаҕа	+?
+
+кандидат	+?
+
+бөҕөргөтүү	+?
+
+дьарык	+?
+
+өлбөөдүйбэт	+?
+
+ытыалаан	+?
+
+түмсүүлэрин	+?
+
+тыыннааҕар	+?
+
+хамсаныылартан	+?
+
+прикладной	+?
+
+учууталлаабыт	+?
+
+кылаастарга	кылаас<NOUN><Number=Plur><Case=Dat>
+
+тимиртэн	+?
+
+кэпсэнэринэн	+?
+
+омукпут	омук<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+үүнээйини	+?
+
+быа	быа<NOUN><Number=Sing><Case=Nom>
+
+строд	+?
+
+красноярскай	+?
+
+баҕаран	+?
+
+үөрэтиилэрэ	+?
+
+дьахталлара	дьахтар<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+ынаҕы	ынах<NOUN><Number=Sing><Case=Acc>
+
+династия	+?
+
+түспүтүн	+?
+
+сирэр	сир<VERB><Number=Sing><Person=3><Tense=Pres>
+
+үөдэй	+?
+
+экю	+?
+
+чурапчытааҕы	+?
+
+хараҥаҕа	+?
+
+үтэһэ	+?
+
+сүгэн	+?
+
+биллиитэ	+?
+
+оҥоруутун	+?
+
+тиксибитэ	+?
+
+сайт	+?
+
+психологическай	+?
+
+оҥорорунан	+?
+
+сырыылаах	+?
+
+альбомун	+?
+
+формата	+?
+
+нь	+?
+
+уорганнарын	+?
+
+бэлиитикэтин	+?
+
+операционнай	+?
+
+бырайыагын	+?
+
+сервис	+?
+
+ылыныллыбыт	+?
+
+категорияҕа	+?
+
+төрүттээҕэ	+?
+
+элемен	+?
+
+армения	+?
+
+полк	+?
+
+аармыйатын	+?
+
+сэллик	+?
+
+наахара	+?
+
+председателэ	+?
+
+аҕыйаҕын	+?
+
+килиэп	килиэп<NOUN><Number=Sing><Case=Nom>
+
+ыйааһынын	+?
+
+оҥордо	+?
+
+толороору	+?
+
+этиитигэр	этии<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+үөрэниини	+?
+
+көрдөбүлүнэн	+?
+
+үгэстэринэн	+?
+
+үлэлиэн	+?
+
+лос	+?
+
+баттаабыт	+?
+
+оҥорооччу	+?
+
+баары	+?
+
+салыҥнаах	+?
+
+хазардар	+?
+
+эппиэт	+?
+
+туһаммат	туһан<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+худуоһунньуктарын	+?
+
+төрүттээччитэ	+?
+
+буортулуур	+?
+
+астыыр	+?
+
+диаметра	+?
+
+көрүүлээх	+?
+
+беринг	+?
+
+хаалалларын	+?
+
+оҥостуу	+?
+
+үөскүөҕүттэн	+?
+
+этиллибитин	+?
+
+холобурдар	+?
+
+доруобуйаларыгар	+?
+
+түстүүр	+?
+
+бардахтарына	+?
+
+министиэристибэтин	+?
+
+грамоталарынан	+?
+
+поэттар	+?
+
+ыйанан	+?
+
+таҥнар	+?
+
+сүтүү	+?
+
+иэйэхсит	+?
+
+генрих	+?
+
+санааргыыр	+?
+
+харчыга	харчы<NOUN><Number=Sing><Case=Dat>
+
+чехословакия	+?
+
+бүтүүтүн	+?
+
+саҕаламмытын	+?
+
+тутулуктааҕыттан	+?
+
+быһаараннар	+?
+
+көмүскүү	+?
+
+саахымат	+?
+
+ыйбыт	ый<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+иитиллибэтэх	+?
+
+киһиннэн	+?
+
+баттааһынын	+?
+
+матырыйаал	+?
+
+түбэһии	+?
+
+үрүт	+?
+
+мэник	+?
+
+кыттыспыт	+?
+
+баһылыгын	+?
+
+аарыма	+?
+
+сылларыттан	+?
+
+соһуйан	+?
+
+аччык	+?
+
+тала	+?
+
+сыһыы	+?
+
+буоллаллар	+?
+
+дивизия	+?
+
+поэттарын	+?
+
+абсолютнай	+?
+
+улуустарын	+?
+
+секретарь	+?
+
+манньыаттаах	+?
+
+бырайыагы	+?
+
+линкольн	+?
+
+ситиһиитинэн	+?
+
+сүөһүтүн	+?
+
+покровскай	+?
+
+туттуна	+?
+
+тиийэрин	+?
+
+президенын	+?
+
+бэлиэни	+?
+
+инчэҕэй	+?
+
+матвей	+?
+
+гвардия	+?
+
+сүөһүлээх	+?
+
+эппэт	эп<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+эппэт	эт<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+ороһу	+?
+
+дьадаҥыларга	+?
+
+бириэмэни	+?
+
+сибэккилээх	+?
+
+ыйдарыгар	+?
+
+эверстов	+?
+
+кэтиттээх	+?
+
+чаастатык	+?
+
+сүнньэ	+?
+
+сэргэтэ	+?
+
+узбекистан	+?
+
+мөккүөрдээх	+?
+
+кутталлааҕын	+?
+
+бырааһынньыкка	+?
+
+кыайарын	+?
+
+түспэккэ	+?
+
+аҕыйаҕыттан	+?
+
+маллар	+?
+
+сииллэрин	+?
+
+тутуһуллар	+?
+
+оҥоһуу	+?
+
+сайыны	+?
+
+суоллары	суол<NOUN><Number=Plur><Case=Acc>
+
+көрдөбүлүн	көрдөбүл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сабыдыаллара	+?
+
+оҥоробут	оҥор<VERB><Number=Plur><Person=1><Tense=Pres>
+
+аналлааҕын	+?
+
+кэлимсэ	+?
+
+географияҕа	+?
+
+бэлиэтээбитэ	бэлиэтээ<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+уларыппат	+?
+
+лөкүө	+?
+
+итэҕэлигэр	+?
+
+ыйаах	+?
+
+билиилэри	билии<NOUN><Number=Plur><Case=Acc>
+
+сэрэнии	+?
+
+дьыалаларыгар	+?
+
+испиттэрэ	+?
+
+хааллахтарына	+?
+
+сыаналаабат	+?
+
+биэрбэккэ	+?
+
+алдьархайы	+?
+
+сойууска	+?
+
+боксер	+?
+
+болҕомтолоох	+?
+
+оруолларын	+?
+
+суоллар	суол<NOUN><Number=Plur><Case=Nom>
+
+анаабыр	+?
+
+нэһилиэктэрин	+?
+
+илиҥ	ил<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=2><Case=Nom>
+
+мууһа	+?
+
+кэргэнниилэр	+?
+
+киинэлэри	+?
+
+алюминий	+?
+
+холбоһуктара	+?
+
+экспедицията	+?
+
+буолуой	буолуой<PART>
+
+көҥүллүк	+?
+
+иэнин	+?
+
+барахов	+?
+
+гыналлар	гын<VERB><Number=Plur><Person=3><Tense=Pres>
+
+бырааска	быраас<NOUN><Number=Sing><Case=Dat>
+
+устуоруйаҕа	+?
+
+туһаныахтарын	+?
+
+оҕолонор	+?
+
+учуоттаан	+?
+
+харыс	+?
+
+билбэттэринэн	+?
+
+чыпчархай	+?
+
+кэпсээбэт	кэпсээ<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+тохтоппут	+?
+
+андросов	+?
+
+дьарыктаналлара	+?
+
+эбиллибит	+?
+
+быһар	быс<VERB><Number=Sing><Person=3><Tense=Pres>
+
+ахсааҥҥа	ахсаан<NOUN><Number=Sing><Case=Dat>
+
+ороҥҥо	+?
+
+санаабат	санаа<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+балайда	+?
+
+ууһаан	+?
+
+кэхтии	+?
+
+бөтүҥнэр	+?
+
+һаха	+?
+
+уҥаттан	+?
+
+киириэхтэрин	+?
+
+оҥоруохтааҕын	+?
+
+кытыл	+?
+
+бөҕөтө	+?
+
+кыргыстар	+?
+
+оруоллары	+?
+
+кинээһэ	+?
+
+диктатура	+?
+
+тарҕатан	+?
+
+мүччү	+?
+
+университеты	+?
+
+эбиитин	+?
+
+тиһигэ	+?
+
+ыраахтааҕылаах	+?
+
+оҥордохторуна	+?
+
+өйдүүллэр	+?
+
+кирилл	+?
+
+түмүктүүр	+?
+
+туһаммыт	+?
+
+сулууспатын	+?
+
+кэпсииллэринэн	+?
+
+бобон	+?
+
+минеральнай	+?
+
+хомолто	+?
+
+быраҕыллар	+?
+
+эһэлэрин	эһэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+эһэлэрин	эһэ<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+туһаныыны	+?
+
+салайбат	салай<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+таҕа	+?
+
+иэстэһэр	+?
+
+саһарар	+?
+
+тарҕатааччы	+?
+
+боруобалыыр	+?
+
+түүтүн	+?
+
+буккуйуу	+?
+
+сатыыбыт	+?
+
+балай	+?
+
+быстыбыт	быс<VERB><Number=Plur><Person=1><Tense=NearPast>
+
+төннүбүтэ	+?
+
+бородууксуйатын	+?
+
+ыраастыырга	+?
+
+боччумнаах	+?
+
+үөрэхпит	+?
+
+самарканд	+?
+
+тохтообут	+?
+
+порт	+?
+
+спордунан	+?
+
+күүһүрдэҕинэ	+?
+
+аччыгый	+?
+
+восток	+?
+
+сурулларынан	+?
+
+түстэ	түс<VERB><Number=Sing><Person=3><Tense=NearPast>
+
+тупсарыыны	+?
+
+маллара	+?
+
+үтүрүйэр	+?
+
+бадарааннаах	+?
+
+байбал	+?
+
+олонхо	+?
+
+нэһилиэктэрэ	+?
+
+кэҥэтэн	+?
+
+норуоту	+?
+
+үөрэппиттэрэ	+?
+
+сымыйаны	+?
+
+биһигини	+?
+
+бассабыыктар	+?
+
+марина	+?
+
+сибэккитэ	+?
+
+аҕалбыта	аҕал<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+баһылаабыттарын	+?
+
+уһанан	+?
+
+поляктар	+?
+
+хоно	+?
+
+кэпсээбитэ	кэпсээ<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+киллэриэн	+?
+
+истиҥник	+?
+
+эттэ	эт<VERB><Number=Sing><Person=3><Tense=NearPast>
+эттэ	эт<NOUN><Number=Sing><Case=Par>
+
+тирэҕирэн	+?
+
+сиинтэн	+?
+
+дьылҕата	+?
+
+эмчиттэрэ	+?
+
+хаала	хаал<VERB><Tense=Pres><VerbForm=Trans>
+
+индустрия	+?
+
+доҕордуу	+?
+
+сахатын	+?
+
+экологическай	+?
+
+туохтара	+?
+
+ылыныллар	+?
+
+хаһаайыстыбаннай	+?
+
+глюкоза	+?
+
+нууччалыыттан	+?
+
+мөлтөхтүк	+?
+
+иһитиннэрии	+?
+
+сурулла	+?
+
+салаалардаах	+?
+
+уйа	+?
+
+устудьуона	+?
+
+маркс	+?
+
+процеһа	+?
+
+кутуллубут	+?
+
+кыаттаран	+?
+
+бэрэстэбиитэлэ	+?
+
+күөлтэн	+?
+
+айымньыны	айымньы<NOUN><Number=Sing><Case=Acc>
+
+этиллэн	+?
+
+сууйан	+?
+
+хамсатарга	+?
+
+улааттахтарына	+?
+
+киириилэрэ	+?
+
+уһуллан	+?
+
+эрилик	+?
+
+күлүк	+?
+
+тааска	таас<NOUN><Number=Sing><Case=Dat>
+
+кэмсинии	+?
+
+армиятын	+?
+
+аайытын	+?
+
+холобурдара	+?
+
+утум	+?
+
+сааhыгар	+?
+
+кальций	+?
+
+ынаҕын	ынах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+лингвист	+?
+
+ааҕыллара	+?
+
+хоппут	+?
+
+сүөһүлэри	сүөһү<NOUN><Number=Plur><Case=Acc>
+
+кутуруктаах	+?
+
+сүһүрэн	+?
+
+сибэккилэнэр	+?
+
+оҕоломмуттара	+?
+
+кур	+?
+
+турбакка	+?
+
+үтүөтэ	+?
+
+соргу	+?
+
+рр	+?
+
+эпидермофития	+?
+
+кыттыылаах	+?
+
+туттуллубута	+?
+
+иэннэрэ	+?
+
+поп	+?
+
+американскай	+?
+
+диалект	+?
+
+хаһыаты	хаһыат<NOUN><Number=Sing><Case=Acc>
+
+базатыгар	+?
+
+учууталын	+?
+
+ааҥл	+?
+
+тур	тур<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+онорон	+?
+
+органнар	+?
+
+сибээһин	+?
+
+сыаналара	+?
+
+мэлдьэхси	+?
+
+нөөрүктээйи	+?
+
+бүтэйдээх	+?
+
+систиэмэтэ	+?
+
+арааһын	+?
+
+түмүктэринэн	+?
+
+сүнньүн	+?
+
+туттуллуон	+?
+
+буспут	+?
+
+тардыһыылаах	+?
+
+кыраттан	+?
+
+сиһин	сис<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+уустуктардаах	+?
+
+барбата	+?
+
+дьонноругар	+?
+
+куттанар	+?
+
+дьоллоохтук	+?
+
+салайыыны	+?
+
+эмтэри	эмп<NOUN><Number=Plur><Case=Acc>
+
+сүбэлиир	+?
+
+уурбута	+?
+
+аустралия	+?
+
+билээччи	+?
+
+архитектурнай	+?
+
+убайын	убай<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+татаардарын	+?
+
+дания	+?
+
+үлэлэтэн	+?
+
+кэннинэн	+?
+
+магнитнай	+?
+
+сыыппара	+?
+
+грузия	+?
+
+баһылаабыттара	+?
+
+көспүттэрэ	+?
+
+булҕардар	+?
+
+уйгур	+?
+
+дьаһах	+?
+
+тигиллэр	+?
+
+белок	+?
+
+шор	+?
+
+чыыhылалар	+?
+
+охсуулаах	+?
+
+туурак	+?
+
+охтор	+?
+
+кыахтаммыттара	+?
+
+өстөөхтөрүн	+?
+
+үөрүйэхтэрэ	үөрүйэх<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+туһалыырын	+?
+
+билгэлиир	+?
+
+улаатыннараллар	+?
+
+өйдөтөн	+?
+
+үөрэниэххэ	+?
+
+кубулуйарын	+?
+
+биһирэбилин	+?
+
+петрова	+?
+
+даҕааһын	+?
+
+иккиһин	+?
+
+дьарыктана	+?
+
+булбута	+?
+
+иҥэрбит	+?
+
+нарын	+?
+
+документальнай	+?
+
+биэрбитин	+?
+
+ньирэй	+?
+
+ааҥыл	+?
+
+герман	+?
+
+курорт	+?
+
+эппиэтинэс	+?
+
+кэриэстэс	+?
+
+сабан	+?
+
+тэнийбитэ	+?
+
+ыыта	ыыт<VERB><Tense=Pres><VerbForm=Trans>
+
+оҥоһуктары	+?
+
+учуонайдара	+?
+
+сүүмэрдэммит	+?
+
+тренер	+?
+
+хатанар	+?
+
+тахсарыттан	+?
+
+уҥуор	+?
+
+дьаһаҕын	+?
+
+пуун	+?
+
+театра	+?
+
+уларыйыан	+?
+
+ыалдьыан	+?
+
+ыарыынан	+?
+
+баҕалаахтар	+?
+
+туор	+?
+
+чаҕылхайдык	+?
+
+утумнуур	+?
+
+хонуктаах	+?
+
+биллэрбэт	+?
+
+тиэмэтэ	+?
+
+ырытааччы	+?
+
+өстөөхтөр	+?
+
+театральнай	+?
+
+евгений	+?
+
+австралия	+?
+
+хартыына	+?
+
+хайҕаан	+?
+
+аҕабыыт	+?
+
+геройдуу	+?
+
+сыаналыырга	+?
+
+киинэлэрэ	+?
+
+биирдэрэ	+?
+
+оҕоломмут	+?
+
+омуоруйа	+?
+
+дьөгүөр	+?
+
+эһэтин	+?
+
+хайыһарынан	хайыһар<NOUN><Number=Sing><Case=Ins>
+
+ыытара	+?
+
+куобаҕы	+?
+
+давид	+?
+
+хааларыгар	+?
+
+сэбирдэх	+?
+
+золотой	+?
+
+кырачаан	+?
+
+ааҕа	аах<VERB><Tense=Pres><VerbForm=Trans>
+
+мг	+?
+
+алтынньыга	алтынньы<NOUN><Number=Sing><Case=Dat>
+
+табалаах	+?
+
+оһуордаах	+?
+
+тыһынча	+?
+
+ноев	+?
+
+сырдатыы	+?
+
+хаалыытыттан	+?
+
+түөлбэлээн	+?
+
+мөлтөтөн	+?
+
+аймахтары	аймах<NOUN><Number=Plur><Case=Acc>
+
+жизнь	+?
+
+туралларын	+?
+
+элбииллэригэр	+?
+
+бөҕөргөтөр	+?
+
+хааллылар	хаал<VERB><Number=Plur><Person=3><Tense=NearPast>
+
+хамныыр	+?
+
+намтатар	+?
+
+үөлү	+?
+
+ойуулааһын	+?
+
+үөрэнэллэрэ	+?
+
+буолбатаҕын	+?
+
+уруккутун	+?
+
+өсөһө	+?
+
+сылдьа	+?
+
+сурунаалларыгар	+?
+
+уматар	+?
+
+буолбутуттан	+?
+
+кинигэлээх	+?
+
+түгэннэр	+?
+
+дьулуһаллар	+?
+
+билбэттэрэ	+?
+
+туһаннара	+?
+
+айыыһыт	+?
+
+төрүттээхтэрин	+?
+
+мөлтөөтө	+?
+
+отто	+?
+
+романа	+?
+
+сатааһынтан	+?
+
+салайааччыларын	салайааччы<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Acc>
+салайааччыларын	салайааччы<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+техникумун	+?
+
+төрүттээбитэ	+?
+
+кыайбыттар	+?
+
+хифу	+?
+
+кэрэттэн	+?
+
+иһити	иһит<NOUN><Number=Sing><Case=Acc>
+
+метро	+?
+
+быһыта	+?
+
+эмтииллэр	+?
+
+кэбистэхтэринэ	+?
+
+оҥордулар	+?
+
+кытайтан	+?
+
+көрдөһөр	көрдөс<VERB><Number=Sing><Person=3><Tense=Pres>
+
+хабаровскай	+?
+
+табаһыт	+?
+
+кб	+?
+
+аныыллар	анаа<VERB><Number=Plur><Person=3><Tense=Pres>
+
+ордуга	ордук<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+провинция	+?
+
+холуобунай	+?
+
+иитиилэрэ	+?
+
+суоттаан	+?
+
+этиэххэ	+?
+
+табыллыбатын	+?
+
+туоратар	+?
+
+кэҕэ	+?
+
+президенин	+?
+
+элгээйи	+?
+
+преподавателинэн	+?
+
+хап	+?
+
+матка	+?
+
+хомуурунньуктара	+?
+
+оройугар	+?
+
+девочка	+?
+
+арыгылыыр	+?
+
+мууһуруу	+?
+
+туоһутунан	+?
+
+ирдэбилэ	+?
+
+тиэхиникэлэри	+?
+
+эрмээн	+?
+
+төрүттэринэн	+?
+
+кыаҕар	+?
+
+туһаныыттан	+?
+
+сука	+?
+
+үлэһиттэригэр	+?
+
+туһаныа	+?
+
+киллэриигэ	+?
+
+аҕыйыылларыгар	+?
+
+ахтыытыгар	+?
+
+хомустаах	+?
+
+кимнээх	+?
+
+быһаарыллара	+?
+
+барбатаҕына	+?
+
+саҥалаах	+?
+
+эбэтин	+?
+
+саҕаланна	+?
+
+санаама	санаа<VERB><Mood=Imp><Number=Sing><Person=2><Polarity=Neg><Tense=Pres>
+
+күтүөт	+?
+
+отделениетыгар	+?
+
+атыылаан	+?
+
+оробуочайдар	+?
+
+холбоһуктарын	+?
+
+мусульман	+?
+
+медицинскай	+?
+
+министерствота	+?
+
+чөмпүйүөнэ	+?
+
+күннэри	+?
+
+сочига	+?
+
+академига	+?
+
+дэҥ	+?
+
+бүппүтэ	+?
+
+ууhа	+?
+
+туттулларын	+?
+
+аахайбакка	+?
+
+оҥосто	+?
+
+бэрдиттэн	+?
+
+оччонон	+?
+
+ситиһиэхтээх	+?
+
+өһө	өс<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+сэлээппэтин	+?
+
+отоно	+?
+
+өҥүн	+?
+
+сэниэтэ	+?
+
+уобалаhа	+?
+
+туруутун	+?
+
+туттахха	+?
+
+тулуйумтуо	+?
+
+олохтооҕун	+?
+
+санаалааҕа	+?
+
+нэдиэлэҕэ	нэдиэлэ<NOUN><Number=Sing><Case=Dat>
+
+бастакыта	+?
+
+музейыгар	+?
+
+оҥорботох	+?
+
+киһилиин	киһи<NOUN><Number=Sing><Case=Com>
+
+таарыйан	+?
+
+өлбүттэрэ	+?
+
+аччыктаан	+?
+
+далааһына	+?
+
+көстүүтүн	+?
+
+хоҥорой	+?
+
+аахсыбакка	+?
+
+эбиллэрин	+?
+
+эдэригэр	+?
+
+түгэнигэр	+?
+
+биллибэти	+?
+
+иэһи	+?
+
+кэтэһэн	+?
+
+үөскэппэт	+?
+
+кылаастан	кылаас<NOUN><Number=Sing><Case=Abl>
+
+араастаах	араас<ADJ><Poss=Yes>
+
+правительствота	+?
+
+ыалдьара	+?
+
+аһыах	ас<VERB><Clusivity=In><Mood=Imp><Number=Sing><Person=1><Tense=Pres>
+
+кээмэйи	+?
+
+мала	+?
+
+чопчулаан	+?
+
+быһаараллара	+?
+
+сиик	+?
+
+таҥаска	таҥас<NOUN><Number=Sing><Case=Dat>
+
+уоргана	+?
+
+тэрээһин	+?
+
+бааһы	+?
+
+кистии	+?
+
+үөрэхтэн	+?
+
+номоххо	+?
+
+сүлбэ	+?
+
+айахтарын	айах<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сыдьааннара	+?
+
+суруйбуттар	+?
+
+урус	+?
+
+органнара	+?
+
+уруһуйдаммыт	+?
+
+туоларыгар	+?
+
+олоробут	олор<VERB><Number=Plur><Person=1><Tense=Pres>
+
+ынаҕа	ынах<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+быhыылаах	+?
+
+ыарыһахтар	+?
+
+баҕатынан	баҕа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+биилэр	+?
+
+онтуката	+?
+
+ааттарыттан	+?
+
+сержант	+?
+
+денис	+?
+
+кэриэй	+?
+
+туруораллар	туруор<VERB><Number=Plur><Person=3><Tense=Pres>
+
+быһаарыллыбыт	+?
+
+охсорго	+?
+
+пифагор	+?
+
+буоллахпытына	+?
+
+нина	+?
+
+киирсиигэ	+?
+
+дьокутаат	+?
+
+рациональнай	+?
+
+лексическэй	+?
+
+хаалыыны	+?
+
+сыалларын	+?
+
+тарҕата	+?
+
+кыахтаннылар	+?
+
+баттааһын	+?
+
+диэччилэр	+?
+
+туһалаахтар	+?
+
+биьиги	+?
+
+түмүктээн	+?
+
+быһаарыытын	+?
+
+бырыһыаннара	+?
+
+ааттыылларын	+?
+
+оттуур	+?
+
+сыыһалары	сыыһа<NOUN><Number=Plur><Case=Acc>
+
+үөскээбиттэрин	+?
+
+кэпсээннэринэн	+?
+
+истиил	+?
+
+сылдьыыта	+?
+
+эргиччи	+?
+
+тарҕаналлар	+?
+
+истибитэ	+?
+
+колхозтар	+?
+
+знамя	+?
+
+штаб	+?
+
+туруулара	+?
+
+уоҕа	+?
+
+чочуллан	+?
+
+буддизм	+?
+
+балаһыанньаны	+?
+
+курдугун	+?
+
+дьыалалара	+?
+
+тахсыытыгар	+?
+
+билиилэр	билии<NOUN><Number=Plur><Case=Nom>
+
+уһунун	+?
+
+туолуутун	+?
+
+реакция	+?
+
+саары	+?
+
+үөрэтиэн	+?
+
+көрдөбүлгэ	+?
+
+куруһуок	+?
+
+тэҥинэн	+?
+
+хатараллар	+?
+
+уруккуну	+?
+
+умнаһын	+?
+
+валентин	+?
+
+төрүтүн	төрүт<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сэкирэтээринэн	+?
+
+өскө	өс<NOUN><Number=Sing><Case=Dat>
+
+сирэйдээх	+?
+
+салҕыы	+?
+
+процесс	+?
+
+матрица	+?
+
+тирэхтээх	+?
+
+үһүйээҥҥэ	+?
+
+функция	+?
+
+барыа	+?
+
+кэргэннии	+?
+
+кылааһыгар	+?
+
+улус	+?
+
+миша	миша<PROPN>
+
+бэлиэлэри	+?
+
+уокурукка	+?
+
+рюрикович	+?
+
+гипофиз	+?
+
+диалектологический	+?
+
+дьанибэк	+?
+
+иэстэбилэ	+?
+
+энньэ	+?
+
+дьүкээгир	+?
+
+кылаат	+?
+
+уларыйаллар	уларый<VERB><Number=Plur><Person=3><Tense=Pres>
+
+сүөгэй	сүөгэй<NOUN><Number=Sing><Case=Nom>
+
+югославия	+?
+
+ыстапаан	+?
+
+күнүскү	+?
+
+бэчээттэммиттэр	+?
+
+хомуурунньук	+?
+
+хампаанньалар	+?
+
+сиэрийэлээх	+?
+
+шаарын	+?
+
+куолаһынан	+?
+
+империятыгар	+?
+
+бырабыыталыстыбатын	+?
+
+биһирэбили	+?
+
+миэстэлэргэ	+?
+
+тэбэрин	+?
+
+ди	+?
+
+тупсаҕай	+?
+
+айарга	+?
+
+салҕаабыта	+?
+
+үөдүгэй	+?
+
+матырыйааллара	+?
+
+суруллубуттар	+?
+
+көбүтэр	+?
+
+дьөппөн	+?
+
+эстиитигэр	+?
+
+постары	+?
+
+суруйууларыгар	+?
+
+сөптөөҕүн	+?
+
+түүллэрэ	+?
+
+кыччатан	+?
+
+оҥоруллара	+?
+
+эбиллэ	+?
+
+хамсаныылара	+?
+
+көҕүстээх	+?
+
+системаны	+?
+
+аймахтыы	+?
+
+реклама	+?
+
+үгэһин	+?
+
+эдигэй	+?
+
+маалыкайга	+?
+
+поэма	+?
+
+сэлии	+?
+
+арыйбыттара	арый<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+кризис	+?
+
+хори	+?
+
+ираан	+?
+
+максимов	+?
+
+үлэбитигэр	+?
+
+хаалбаттар	хаал<VERB><Number=Plur><Person=3><Polarity=Neg><Tense=Pres>
+
+хамнастан	хамнас<NOUN><Number=Sing><Case=Abl>
+
+уратылаахтарын	+?
+
+сиидэлээн	+?
+
+ампаар	+?
+
+баһыйдаҕына	+?
+
+хомотун	+?
+
+харайан	+?
+
+колесов	+?
+
+эдуард	+?
+
+диэтэ	+?
+
+билээри	+?
+
+снайпер	+?
+
+тэриллибиттэрэ	+?
+
+аана	аан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+салайааччытын	+?
+
+умуннаран	+?
+
+дьахталлартан	дьахтар<NOUN><Number=Plur><Case=Abl>
+
+күүһүрүүтэ	+?
+
+илиилэригэр	+?
+
+рентген	+?
+
+бырамыысыланнас	+?
+
+ыйытыы	+?
+
+мэтээлин	+?
+
+олорун	+?
+
+ньуосканы	+?
+
+биллэххэ	+?
+
+холбоспуттара	+?
+
+сэһэнэ	+?
+
+раиса	+?
+
+абый	+?
+
+баайыллыбыт	+?
+
+сүбэтэ	+?
+
+ыҥырыллыбыта	+?
+
+тайҕа	+?
+
+чочуйан	+?
+
+ту	+?
+
+умайбыт	+?
+
+туһуламмыт	+?
+
+дьүлэй	+?
+
+кэнчээри	+?
+
+мөккүөр	+?
+
+французскай	+?
+
+көрдөрөрө	+?
+
+яковлевич	+?
+
+улууhугар	+?
+
+британияҕа	+?
+
+ииттэн	+?
+
+колхозтаах	+?
+
+ыраахтааҕыга	+?
+
+олохтоон	+?
+
+бырааттара	быраат<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+иитиитин	+?
+
+бэлэмнээбитэ	бэлэмнээ<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+ордорор	+?
+
+эрэллэрин	+?
+
+ылларыы	+?
+
+араарыахха	+?
+
+климаттаах	+?
+
+суруйбутунан	+?
+
+сирдьит	+?
+
+вок	+?
+
+хараабыллар	+?
+
+ыалын	ыал<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+ыһыахха	+?
+
+уратыларыттан	+?
+
+мэйиитинэн	+?
+
+ситиһэллэрэ	+?
+
+протодьяконов	+?
+
+кэпсээнигэр	+?
+
+оҕонон	оҕо<NOUN><Number=Sing><Case=Ins>
+
+соп	+?
+
+күүстээҕи	+?
+
+бүтүннүүтэ	+?
+
+түүлүн	+?
+
+илигинэн	+?
+
+малга	+?
+
+аһатыы	+?
+
+эбиппит	+?
+
+хомуллар	+?
+
+кыахтаахтарын	+?
+
+аһылыктар	+?
+
+өрт	+?
+
+уурунан	+?
+
+тутулугунан	+?
+
+сиэннэригэр	+?
+
+тымныйар	+?
+
+үүнээйитэ	+?
+
+хоhооно	+?
+
+дьоруойун	+?
+
+публицист	+?
+
+этинии	+?
+
+ыҥырыыга	+?
+
+хаалларыы	+?
+
+быһаарбат	быһаар<VERB><Number=Sing><Person=3><Polarity=Neg><Tense=Pres>
+
+арыйа	арый<VERB><Tense=Pres><VerbForm=Trans>
+
+кэнэҕэски	+?
+
+наркоманнар	+?
+
+угар	+?
+
+гааһы	+?
+
+кривошапкин	+?
+
+милиция	+?
+
+сэһэнигэр	+?
+
+урбаанньыт	+?
+
+бэйиэтэ	+?
+
+парламент	+?
+
+толороллоро	+?
+
+аанын	аан<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+эркээйи	+?
+
+нэһилиэнньэҕэ	+?
+
+журналистарын	+?
+
+георгиевич	+?
+
+далай	+?
+
+директор	+?
+
+дьоҕурдааҕа	+?
+
+алдьархайга	+?
+
+хоргуйан	+?
+
+кыргыыс	+?
+
+диссэртээссийэтин	+?
+
+бухатыыра	+?
+
+баишев	+?
+
+сэргэни	+?
+
+сибэккитин	+?
+
+ырыатыгар	ырыа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+хоруола	+?
+
+ян	+?
+
+аһыллан	+?
+
+быысаһар	+?
+
+калий	+?
+
+энергия	+?
+
+турарыгар	+?
+
+үлэлэрдээх	+?
+
+звезда	+?
+
+үрдээһинэ	+?
+
+физико	+?
+
+тахсыбакка	+?
+
+аахсыбаттар	+?
+
+эккирэтии	+?
+
+халыйыытын	+?
+
+харатын	+?
+
+сойууһа	+?
+
+бобуулаах	+?
+
+кредит	+?
+
+төрөөбүттэр	+?
+
+эрийэн	+?
+
+улаатыытыттан	+?
+
+арахсыыларын	+?
+
+аныыр	анаа<VERB><Number=Sing><Person=3><Tense=Pres>
+
+курыкан	+?
+
+сал	+?
+
+саҕалаабыттара	саҕалаа<VERB><Number=Plur><Person=3><Tense=PastPerf>
+
+тиийбиттэр	+?
+
+ситимнээхтэр	+?
+
+геннадий	+?
+
+битэмииннээх	+?
+
+маҕаһыыҥҥа	+?
+
+наркома	+?
+
+өтөн	+?
+
+муостаҕа	муоста<NOUN><Number=Sing><Case=Dat>
+
+араҕастыҥы	+?
+
+көрүҥнэр	+?
+
+буһан	+?
+
+араҥа	+?
+
+быһаарыллыбат	+?
+
+учуоттуур	+?
+
+ыраастана	+?
+
+буолааччылар	+?
+
+кыралар	+?
+
+иэһин	+?
+
+бааска	+?
+
+мааныламмыт	+?
+
+хамсанара	+?
+
+тонна	+?
+
+династиялара	+?
+
+бырайыага	+?
+
+балыыһатыгар	+?
+
+хаһаанан	+?
+
+сыллааха	+?
+
+осипович	+?
+
+билбэтигэр	+?
+
+эбиттэрин	+?
+
+дистиллированнай	+?
+
+көһүннэҕинэ	+?
+
+ылсан	+?
+
+кыайыылааҕынан	+?
+
+кытарар	+?
+
+ленинградтааҕы	+?
+
+уустаан	+?
+
+мтс	+?
+
+ахтыылар	+?
+
+аҥаардаах	+?
+
+түүллэрин	+?
+
+маллары	+?
+
+мөлтөҕүттэн	+?
+
+уратылар	+?
+
+тахсыа	+?
+
+үөрэнэннэр	+?
+
+барыытыттан	+?
+
+дьонноох	+?
+
+оҕолордоох	+?
+
+бытыылканы	+?
+
+импиэрийэ	+?
+
+бастыыр	+?
+
+ньуоска	+?
+
+иҥэрбиттэр	+?
+
+кыылга	кыыл<NOUN><Number=Sing><Case=Dat>
+
+көмөр	+?
+
+туораталлар	+?
+
+көмүскэллээх	+?
+
+ымсыы	+?
+
+быһаарыыларын	+?
+
+сайдыыга	+?
+
+домох	+?
+
+түбэстэхтэринэ	+?
+
+тува	+?
+
+көҥүлүн	+?
+
+ыйааҕа	+?
+
+кириллин	+?
+
+слепцова	+?
+
+холобурдарынан	+?
+
+кыргыттарга	+?
+
+чэйи	чэй<NOUN><Number=Sing><Case=Acc>
+
+сардаҥа	+?
+
+иһиэхтэрин	+?
+
+барыылары	+?
+
+элбииригэр	+?
+
+киһиргээмэ	+?
+
+өйдөнүмтүө	+?
+
+дьиикэй	+?
+
+танковай	+?
+
+бэрэстэбиитэллэрэ	+?
+
+вьетнам	+?
+
+уорганнара	+?
+
+аччыктааһын	+?
+
+талым	+?
+
+суохха	+?
+
+соһон	+?
+
+буккуйа	+?
+
+арыыларыгар	+?
+
+биллибитин	+?
+
+таҥараларыгар	+?
+
+мэнэ	+?
+
+ханалас	+?
+
+тириититтэн	+?
+
+тигиллибит	+?
+
+ааттааҕа	+?
+
+күөлүн	күөл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+сэкирэтээрэ	+?
+
+чыыһылалар	+?
+
+уһугар	+?
+
+нан	+?
+
+хомуос	хомуос<NOUN><Number=Sing><Case=Nom>
+
+оттор	+?
+
+кэпсээннэригэр	+?
+
+суруйалларынан	+?
+
+харыстыахха	+?
+
+лейтенант	+?
+
+культуры	+?
+
+искусства	+?
+
+сайдарынан	+?
+
+хамсаныыларга	+?
+
+кырдьаҕастары	+?
+
+таһаардахха	+?
+
+мээрэйдээн	+?
+
+куо	+?
+
+оһоҕоско	+?
+
+үүннэрэр	үүннэр<VERB><Number=Sing><Person=3><Tense=Pres>
+
+гостиница	+?
+
+лааҕырга	+?
+
+халымаҕа	+?
+
+уруһуй	+?
+
+бастаах	+?
+
+сийиэс	+?
+
+ларионов	+?
+
+саатар	+?
+
+оҕоломмуттар	+?
+
+тэрилтэтигэр	+?
+
+үөрэхтээһинин	+?
+
+баттаҕа	+?
+
+бүттэҕинэ	+?
+
+уһаныыны	+?
+
+оҕолорбут	оҕо<NOUN><Number=Plur><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+холобурдарын	+?
+
+сылдьарбыт	+?
+
+барыстаах	+?
+
+иирэн	+?
+
+түһээт	+?
+
+сыарҕа	+?
+
+ситимнэрин	+?
+
+кыһалҕалаах	+?
+
+кэтэһии	+?
+
+сылыйан	+?
+
+наукалар	+?
+
+чыыһылаҕа	+?
+
+алаастар	+?
+
+ыарыһахтары	+?
+
+инникитин	+?
+
+автономиялаах	+?
+
+нэһилиэнньэни	+?
+
+хомуйуу	+?
+
+литературата	+?
+
+үөрэммитин	+?
+
+форматын	+?
+
+математик	+?
+
+литературовед	+?
+
+быата	быа<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+быата	быа<NOUN><Number=Sing><Case=Par>
+
+ыча	+?
+
+күннэтэ	+?
+
+эйэлэһии	+?
+
+правительствотын	+?
+
+баhылыга	+?
+
+ньууругар	+?
+
+сэһэнньит	+?
+
+кыыллаах	+?
+
+дакаастабылынан	+?
+
+ыйааһыҥҥа	+?
+
+иитилиннэҕинэ	+?
+
+ыйаан	+?
+
+барыар	+?
+
+ыйыытынан	+?
+
+маанылааһын	+?
+
+табата	таба<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+табата	таба<NOUN><Number=Sing><Case=Par>
+
+нурхачи	+?
+
+өйдөбүллэртэн	+?
+
+тэҥнэбил	+?
+
+эристиин	+?
+
+бэлиэтээбит	бэлиэтээ<VERB><Number=Plur><Person=1><Tense=Pres>
+бэлиэтээбит	бэлиэтээ<VERB><Number=Sing><Person=3><Tense=PastResultI>
+
+харысхал	+?
+
+кыйыа	+?
+
+ыарыһахтарга	+?
+
+төрөппүттэртэн	+?
+
+тутатына	+?
+
+инньэлээх	+?
+
+мөлтөөһүн	+?
+
+иитэллэригэр	+?
+
+үөскээһиниттэн	+?
+
+тапсыбат	+?
+
+дойдулаах	+?
+
+дьахталларыттан	+?
+
+стручков	+?
+
+октябрь	+?
+
+тустуунан	+?
+
+киирэллэрин	+?
+
+дайаана	+?
+
+иҥэриннэҕинэ	+?
+
+элбиириттэн	+?
+
+олохтоохтук	+?
+
+хоһоону	+?
+
+сүтэрбэт	+?
+
+чинчийиилэрэ	+?
+
+эбиттэрэ	+?
+
+сарсыныгар	+?
+
+сүрэххэ	+?
+
+охсуон	+?
+
+поэзиятыгар	+?
+
+тарабукин	+?
+
+ыҥырбыта	ыҥыр<VERB><Number=Sing><Person=3><Tense=PastPerf>
+
+кылыс	+?
+
+уоллааҕа	+?
+
+сунтаарга	+?
+
+соругунан	+?
+
+им	+?
+
+сайылыкка	+?
+
+тыйаатыра	+?
+
+кофены	+?
+
+сап	сап<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+сап	сап<NOUN><Number=Sing><Case=Nom>
+
+тутустахтарына	+?
+
+уматык	+?
+
+санаабар	+?
+
+аахпыт	+?
+
+чыыhыла	+?
+
+метр	+?
+
+көхсүн	+?
+
+кырыалаах	+?
+
+суутунан	+?
+
+сингл	+?
+
+холбоспута	+?
+
+хит	+?
+
+бастайааннай	+?
+
+кыыла	кыыл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+тиhэх	+?
+
+органнарын	+?
+
+устунан	+?
+
+тыҥа	+?
+
+дьоппуоҥҥа	+?
+
+кай	+?
+
+наах	+?
+
+ырыынагар	+?
+
+бородууксуйаны	+?
+
+мунньаҕа	+?
+
+полковник	+?
+
+сыдьаана	+?
+
+полкатыгар	+?
+
+киирсэрэ	+?
+
+заболоцкай	+?
+
+стамбулга	+?
+
+кыахтанан	+?
+
+диэбиттэр	+?
+
+улааталларыгар	+?
+
+оҥоруулар	+?
+
+тоноҕоһо	+?
+
+аҥардаах	+?
+
+өрүттээхтэр	+?
+
+сөбүлэһэн	+?
+
+көрүҥнэргэ	+?
+
+үксэтэр	+?
+
+сүһүөхтэрэ	+?
+
+мунньар	+?
+
+өлүүтүн	+?
+
+сотовай	+?
+
+ачыкы	+?
+
+тылбааска	+?
+
+россии	+?
+
+түһэрии	+?
+
+анньар	+?
+
+баһаам	+?
+
+истиэпэнин	+?
+
+баһылаабыттар	+?
+
+чаҕатай	+?
+
+риим	+?
+
+импиэрийэтэ	+?
+
+туоһу	+?
+
+улууһуттан	+?
+
+ордууга	+?
+
+оонньууларыгар	+?
+
+тарҕаммытын	+?
+
+кэлэннэр	+?
+
+сибиири	+?
+
+историко	+?
+
+буолас	+?
+
+тарҕаммыттара	+?
+
+майгылаахтар	+?
+
+ымсыырар	+?
+
+эрдэхтэн	+?
+
+сылгылар	+?
+
+эппиттэр	+?
+
+суруйууга	+?
+
+түгэҕэ	+?
+
+күрүө	+?
+
+бурут	+?
+
+баҕарыы	+?
+
+сойуустарын	+?
+
+моой	+?
+
+ааҕыы	+?
+
+сүүсчэкэ	+?
+
+балбаара	+?
+
+ситтэҕинэ	+?
+
+айара	+?
+
+соругун	+?
+
+олохтоохторуттан	+?
+
+күрээбит	+?
+
+аэропорда	+?
+
+металл	+?
+
+тохтоппот	+?
+
+армията	+?
+
+туоратыы	+?
+
+тохсунньуга	+?
+
+сиэһин	+?
+
+хааччыйарга	+?
+
+лааҕыр	+?
+
+метрополитен	+?
+
+атыыһыттар	+?
+
+хаартата	+?
+
+чемпионатын	+?
+
+баспыт	бас<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=1><Case=Nom>
+
+туһаннаҕына	+?
+
+охсоллор	оҕус<VERB><Number=Plur><Person=3><Tense=Pres>
+
+тарбаҕынан	тарбах<NOUN><Number=Sing><Case=Ins>
+
+батас	+?
+
+научно	+?
+
+ситэрэн	+?
+
+ахсынньытыгар	ахсынньы<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Dat>
+
+государствота	+?
+
+ааҕаллара	+?
+
+тарбах	тарбах<NOUN><Number=Sing><Case=Nom>
+
+суолтан	суол<NOUN><Number=Sing><Case=Abl>
+
+түргэнин	+?
+
+аармыйата	+?
+
+харыстаа	+?
+
+миниистирин	+?
+
+хатыламмат	+?
+
+уруһуйдуур	+?
+
+абу	+?
+
+балхаш	+?
+
+хаҕаната	+?
+
+муостаны	муоста<NOUN><Number=Sing><Case=Acc>
+
+муннуктарыгар	+?
+
+сидоров	+?
+
+өлүүнү	+?
+
+степенэ	+?
+
+гвардейскай	+?
+
+тутуохха	+?
+
+эргиллибит	+?
+
+буойуннар	+?
+
+кыттыылаахтарын	+?
+
+булуҥ	+?
+
+баччаҕа	+?
+
+илиилэрэ	илии<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=3><Case=Nom>
+илиилэрэ	илии<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+удьуор	+?
+
+айдарыылаах	+?
+
+боппуруостарыгар	+?
+
+кыылын	кыыл<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+охлопков	+?
+
+арыгылаан	+?
+
+соругу	+?
+
+сыһыаннаһыы	+?
+
+үүннэрэн	+?
+
+аҕыйаабыт	+?
+
+туһаммакка	+?
+
+баһылыыра	+?
+
+ран	+?
+
+дьаныардаахтык	+?
+
+тымырдара	+?
+
+түһүүтүн	+?
+
+ньолбоҕор	+?
+
+бытык	+?
+
+сулууспалаан	+?
+
+тустан	тус<NOUN><Number=Sing><Case=Abl>
+
+фон	+?
+
+күөн	+?
+
+центра	+?
+
+бэчээттээн	+?
+
+азербайджан	+?
+
+үүнээйигэ	+?
+
+чаастарыгар	+?
+
+хомуйбута	+?
+
+сүбэтинэн	+?
+
+хабарҕа	+?
+
+куолай	+?
+
+кыахтаахтара	+?
+
+ыарыытыттан	+?
+
+эрчиллэр	+?
+
+тулуйуу	+?
+
+тиэтэйии	+?
+
+астар	ас<NOUN><Number=Plur><Case=Nom>
+
+быыһанар	+?
+
+үөннэри	үөн<NOUN><Number=Plur><Case=Acc>
+
+барыыга	+?
+
+көстүүтүнэн	+?
+
+хастыы	+?
+
+үөскүүллэригэр	+?
+
+дьоҕуру	+?
+
+үүттэн	+?
+
+соҕустук	+?
+
+улуустара	улуус<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+баҕарабыт	+?
+
+араарыыны	+?
+
+биллэрэрэ	+?
+
+көрдөрөргө	+?
+
+кыттыспыта	+?
+
+билиэхтэрин	+?
+
+хаалбатын	+?
+
+ситиспитин	+?
+
+харалаах	+?
+
+суруйууну	+?
+
+киксэрэн	+?
+
+барарыттан	+?
+
+оҥорбуту	+?
+
+фольклорист	+?
+
+киhилээх	+?
+
+иҥэрбиттэрэ	+?
+
+чаастан	чаас<NOUN><Number=Sing><Case=Abl>
+
+ньаамырҕаан	+?
+
+үөскэттэ	+?
+
+дьайара	+?
+
+күүстээҕэ	+?
+
+өрүһүнэн	+?
+
+гаврилович	+?
+
+биричиинэтэ	+?
+
+буруйдааҕы	+?
+
+альберт	+?
+
+эдьиийэ	эдьиий<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Nom>
+
+хамсааһыннарын	хамсааһын<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+идэни	+?
+
+сэрэнэ	+?
+
+кытархайдыҥы	+?
+
+арыйыыга	+?
+
+хабааннаах	+?
+
+казахтар	+?
+
+сиэнин	+?
+
+уйгуурдары	+?
+
+оонньуулары	+?
+
+сүүрүктээх	+?
+
+альмагест	+?
+
+илинтэн	+?
+
+собуотугар	+?
+
+сөҕүмэр	+?
+
+хомуурунньуктарын	+?
+
+суостаах	+?
+
+суолталанар	+?
+
+уойуу	+?
+
+специалистар	+?
+
+сыт	сыт<VERB><Mood=Imp><Number=Sing><Person=2><Tense=Pres>
+
+режиссера	+?
+
+тутаары	+?
+
+көҕүрээн	+?
+
+организмыгар	+?
+
+кытыы	+?
+
+былааны	+?
+
+ташкент	+?
+
+археологтар	+?
+
+билиммит	+?
+
+эппиттэрин	+?
+
+хаалыа	+?
+
+бобууну	+?
+
+сахаа	+?
+
+эрдэтээҕи	+?
+
+араабтар	+?
+
+тураллара	+?
+
+хомуньуус	+?
+
+билсибит	+?
+
+булкаастаах	+?
+
+сайдыбакка	+?
+
+уулуссалар	уулусса<NOUN><Number=Plur><Case=Nom>
+
+таһаарыллар	+?
+
+туттуллан	+?
+
+үөрүйэҕин	+?
+
+пепеляев	+?
+
+сѳп	+?
+
+шоу	+?
+
+көмөлөөн	+?
+
+буортулааҕы	+?
+
+бөҕөнү	+?
+
+дьулуһуута	+?
+
+эппиэтинэһи	+?
+
+арамаан	+?
+
+охсуһуута	+?
+
+бэрэсидьиэнин	+?
+
+охотскай	+?
+
+бириэмийэни	+?
+
+гафури	+?
+
+былааҕын	+?
+
+кыттааччылар	+?
+
+ыраатан	+?
+
+биэрэригэр	+?
+
+дьаhалта	+?
+
+хочо	+?
+
+тоҥор	тоҥ<VERB><Number=Sing><Person=3><Tense=Pres>
+
+түһүүтүгэр	+?
+
+ардахтаах	+?
+
+оччотугар	+?
+
+өлөрөргө	+?
+
+ураннаан	+?
+
+суруйуутунан	+?
+
+археологическай	+?
+
+арчы	+?
+
+уопутурбут	+?
+
+ыларыгар	+?
+
+көрдөрүллэр	+?
+
+хайҕанар	+?
+
+билбиттэр	+?
+
+холбоһоллор	+?
+
+кумахтаах	+?
+
+истэхтэрин	+?
+
+үөскүүллэрин	+?
+
+саҕалаабыттар	+?
+
+көҕүлүүр	+?
+
+сэриилэргэ	+?
+
+көрүллүбүт	+?
+
+үөрэтэллэрин	+?
+
+атаахтыы	+?
+
+төрөөбүтүн	+?
+
+валентина	+?
+
+өймөкөөн	+?
+
+үрдүн	+?
+
+иннилэригэр	+?
+
+үүнүүтүн	+?
+
+сымыыты	+?
+
+сылдьыыны	+?
+
+табыгаһа	+?
+
+бириэмэтин	+?
+
+сибэккилиир	+?
+
+эргиэҥҥэ	+?
+
+млекопитающих	+?
+
+муостаах	+?
+
+джеймс	+?
+
+кыргыттара	+?
+
+куоластаах	+?
+
+суураллан	+?
+
+төһөнү	+?
+
+сөбүлүүрэ	+?
+
+мэһэй	+?
+
+ыраахтааҕыны	+?
+
+сэрэтэн	+?
+
+алдьанан	+?
+
+ылынарын	+?
+
+ыксаабыт	+?
+
+кыһыллыҥы	+?
+
+судаарыстыбатын	+?
+
+штаттар	+?
+
+тохтообот	+?
+
+сыаны	сыа<NOUN><Number=Sing><Case=Acc>
+
+пааматынньыга	+?
+
+региональнай	+?
+
+эһиилигэр	+?
+
+симэлитэн	+?
+
+былчархайдара	+?
+
+производственнай	+?
+
+ылыллыбыта	+?
+
+кынат	+?
+
+хаҥаласка	+?
+
+ыҥырара	+?
+
+кураайы	+?
+
+музыканы	+?
+
+исидор	+?
+
+иллэр	ил<NOUN><Number=Plur><Case=Nom>
+
+үүнээйилэргэ	+?
+
+саҥаҕа	саҥа<NOUN><Number=Sing><Case=Dat>
+
+чилиэннэрин	+?
+
+католическай	+?
+
+тириэрдэ	+?
+
+тэриллэринэн	тэрил<NOUN><Number=Plur><Case=Ins>
+
+сэттэтэ	сэттэ<NUM><Case=Par><NumType=Card>
+
+ыытыллыбыттара	+?
+
+пионер	+?
+
+эпическэй	+?
+
+ыстатыйаҕа	+?
+
+дириҥин	+?
+
+кырдьыга	+?
+
+эрэдээктэринэн	+?
+
+уутунан	уу<NOUN><Number=Sing><Number[psor]=Sing><Person[psor]=3><Case=Ins>
+
+көстүүлэри	+?
+
+улэлии	+?
+
+дьаалатынан	+?
+
+тутуллаах	+?
+
+илиилээх	+?
+
+барбыттарын	+?
+
+дуобат	+?
+
+хааллараллар	+?
+
+кэбиспэт	+?
+
+мл	+?
+
+оонньуурун	+?
+
+учугэй	+?
+
+сіп	+?
+
+өлүүттэн	+?
+
+дииллэрин	+?
+
+сыһыаннаан	+?
+
+тэрийэллэр	+?
+
+эрэбит	+?
+
+хууннар	+?
+
+бырыһыан	+?
+
+силиһин	+?
+
+суолталарынан	суолта<NOUN><Number=Plur><Case=Ins>
+
+суохтара	+?
+
+бүүс	+?
+
+буолбутунан	+?
+
+эбээһинэһин	+?
+
+туруук	+?
+
+түһэрбит	+?
+
+сахаттан	саха<NOUN><Number=Sing><Case=Abl>
+
+күһэллибиттэрэ	+?
+
+оуэн	+?
+
+туттабыт	+?
+
+киһититтэн	+?
+
+кыһыннаах	+?
+
+кулуупка	+?
+
+билиниллэр	+?
+
+сыҥалаабыт	+?
+
+анисимовна	+?
+
+накыын	+?
+
+эниэлэригэр	+?
+
+сууккаҕа	+?
+
+куурустарын	+?
+
+усулуобуйата	+?
+
+хапсаҕайга	+?
+
+эфирдээх	+?
+
+үөрэтиллэ	+?
+
+былчархайдар	+?
+
+куттартан	+?
+
+муннун	+?
+
+маньяктар	+?
+
+хоһооннорунан	+?
+
+мөлүйүөнүнэн	+?
+
+сарсын	сарсын<ADV>
+
+докумуон	+?
+
+аймаҕы	аймах<NOUN><Number=Sing><Case=Acc>
+
+бэйэҕит	бэйэ<NOUN><Number=Sing><Number[psor]=Plur><Person[psor]=2><Case=Nom>
+
+мэхээлэ	+?
+
+күрэҥ	+?
+
+быьыытынан	+?
+
+иһиэхтээҕин	+?
+
+хонтуруоллуу	+?
+
+хаартыскаҕа	+?
+
+күннэр	күн<NOUN><Number=Plur><Case=Nom>
+
+кучум	+?
+
+производство	+?
+
+таска	тас<NOUN><Number=Sing><Case=Dat>
+
+уһанар	+?
+
+ленинградка	+?
+
+истибэккэ	+?
+
+бүтүннүүтүн	+?
+
+бүгүҥҥэ	+?
+
+өҥөтө	+?
+
+чоҕу	+?
+
+элбээннэр	+?
+
+сэбирдэхтэрин	+?
+
+оҥорбутугар	+?
+
+томтор	+?
+
+бырааттарын	быраат<NOUN><Number=Plur><Number[psor]=Sing><Person[psor]=3><Case=Acc>
+
+уоттан	уот<NOUN><Number=Sing><Case=Abl>
+
+дьулуруйар	+?
+
+ханыы	+?
+
+куталлар	кут<VERB><Number=Plur><Person=3><Tense=Pres>
+
+билбэтэҕэ	+?
+
+бигэргэтэн	+?
+
+иитиллибититтэн	+?
+
+геометрическай	+?
+
+суруйбутун	+?
+
+дьүһүнүн	+?
+
+уҥуохтарын	+?
+
+бэлэхтээбит	+?
+
+диэтэр	+?
+
+дьаһалтатын	+?
+
+георгиевна	+?
+
+сыаналаммыта	+?
+
+начальнигынан	+?
+
+үөрэппиттэр	+?
+
+күөс	+?
+
+толорорун	+?
+
+семён	+?
+
+көмүстэн	+?
+
+кутуйах	+?
+
+уһуйуу	+?
+
+чиҥэ	+?
+
+уопутун	+?
+
+ыҥыра	ыҥыр<VERB><Tense=Pres><VerbForm=Trans>
+
+мгу	+?
+
+сымыыттыыр	+?
+
+сэмэйдик	+?
+
+дьоло	+?
+
+билбитин	+?
+
+рагынан	+?
 
